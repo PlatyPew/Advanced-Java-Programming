@@ -5,10 +5,6 @@ import mrtRoutes.*;
 
 public class Assignment {
 
-    public static void banner(String title, String text) {
-        JOptionPane.showMessageDialog(null, text, title, JOptionPane.INFORMATION_MESSAGE);
-    }
-
     public static void main(String[] args) throws Exception {
 
         boolean legit = false;
@@ -17,12 +13,10 @@ public class Assignment {
                 String option = JOptionPane.showInputDialog("Which service would you like\n[b]us / [m]rt routes");
                 switch (option) {
                     case "m":
-                        banner("Credits", "You have selected MRT routes\nCoded by Lim Chun Yu");
                         MrtServiceMain.run();
                         legit = true;
                         break;
                     case "b":
-                        banner("Credits", "You have selected Bus routes\nCoded by Daryl Lim");
                         BusServiceMain.run();
                         legit = true;
                         break;
