@@ -35,7 +35,7 @@ public class BusSearchName {
             } catch (Exception e) {
                 JOptionPane.showMessageDialog(
                         null,
-                        "Are you retarded?",
+                        "That's not a number!",
                         "Invalid input",
                         JOptionPane.WARNING_MESSAGE);
             }

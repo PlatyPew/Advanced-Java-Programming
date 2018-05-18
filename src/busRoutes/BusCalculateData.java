@@ -25,7 +25,7 @@ public class BusCalculateData {
                 BusServiceMain.busStopLocationList.get(userInput[1]).getX_coords());
 
         if (userInput[0].equals(userInput[1])) { // Check if station inputted is the same
-            direction[0] = "Are you high? You are already there!\n\n"
+            direction[0] = "You are at your destination\n\n"
                     + "Bus code: " + BusServiceMain.busStopLocationList.get(userInput[0]).getBusCode() + "\n"
                     + "Bus stop description: " + BusServiceMain.busStopLocationList.get(userInput[0]).getBusStopDesc() + "\n"
                     + "Road description: " + BusServiceMain.busStopLocationList.get(userInput[0]).getRoadDesc();
