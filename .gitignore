@@ -1,4 +1,6 @@
+# Netbeans gitignore file
+
 build/
 test/
-nbproject/private/*
+nbproject/private/
 
