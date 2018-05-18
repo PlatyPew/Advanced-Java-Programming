@@ -1,0 +1,5014 @@
+BUS_CODE,ROAD_DESCRIPT,BUSSTOP_DESC
+1012,Victoria St,Hotel Grand Pacific
+1013,Victoria St,St. Joseph's Ch
+1019,Victoria St,Bras Basah Cplx
+1029,Nth Bridge Rd,Cosmic Insurance Bldg
+1039,Nth Bridge Rd,Nth Bridge Commercial Cplx
+1059,Victoria St,Bugis Stn
+1109,Queen St,Queen St Ter
+1112,Victoria St,Opp Bugis Junction
+1113,Victoria St,Bugis Stn
+1119,Victoria St,Bugis Junction
+1121,Victoria St,Stamford Pr Sch
+1129,Victoria St,Opp Stamford Pr Sch
+1139,Nth Bridge Rd,Parkview Sq
+1211,Victoria St,Opp Blk 461
+1219,Victoria St,Blk 461
+1229,Nth Bridge Rd,Bef Sultan Mque
+1231,Jln Sultan,Opp Textile Ctr
+1239,Jln Sultan,Sultan Plaza
+1311,Kallang Rd,Lavender Stn
+1319,Kallang Rd,Lavender Stn
+1329,Nth Bridge Rd,Blk 8
+1339,Crawford St,Bef Crawford Bridge
+1341,Crawford St,Eng Cheong Twr
+1349,Crawford St,Opp Blk 4
+1411,Beach Rd,Keypoint Bldg
+1419,Beach Rd,St. John HQ
+1421,Beach Rd,Opp Golden Mile Cplx
+1429,Beach Rd,Golden Mile Cplx
+1511,Beach Rd,Opp The Gateway
+1519,Beach Rd,The Gateway
+1521,Beach Rd,Opp Plaza Parkroyal
+1529,Beach Rd,Plaza Parkroyal
+1541,Rochor Rd, Aft Beach Rd
+1549,Ophir Rd, Near Bali Lane
+1559,Ophir Rd,Golden Landmark 
+1611,Beach Rd,Raffles Hotel
+1619,Beach Rd,Opp Raffles Hotel
+1621,Beach Rd,Opp Shaw Twrs
+1629,Beach Rd,Shaw Twrs
+1631,Middle Rd,Aft Beach Rd
+1639,Middle Rd,Bef Beach Rd
+2011,Fullerton Rd,Victoria Concert Hall
+2029,Connaught Dr,Opp S'pore Cricket Club
+2031,Coleman St,Opp The Adelphi
+2049,Bras Basah Rd,Raffles Hotel
+2051,Raffles Ave,Seating Gallery
+2061,Raffles Ave,The Esplanade
+2089,Raffles Blvd,Pan Pacific Hotel
+2099,Raffles Blvd,Marina Ctr Ter
+2101,Raffles Ave,Bef Temasek Ave
+2111,Esplanade Dr,Esplanade Bridge
+2119,Nicoll Highway,One Raffles Link
+2129,Republic Blvd,Aft Raffles Blvd
+2139,Republic Blvd,Bef Republic Ave
+2141,Temasek Blvd,Suntec Twr Two
+2149,Temasek Blvd,Suntec Twr Three
+2151,Temasek Blvd,Suntec Convention Ctr
+2159,Temasek Blvd,Opp Suntec Convention Ctr
+2161,Temasek Ave,Opp Millenia Twr
+2169,Temasek Ave,Centennial Twr
+2171,Temasek Ave,Opp The Ritz-Carlton
+2181,Parliament Pl,Supreme Ct
+3011,Fullerton Rd,Fullerton Sq
+3019,Collyer Quay,Clifford Pier
+3021,Cecil St,Prudential Twr
+3031,Robinson Rd,Opp AIA Twr
+3041,Cross St,Opp PWC Bldg
+3059,Raffles Quay,One Raffles Quay
+3071,Robinson Rd,Opp The Ogilvy Ctr
+3111,Robinson Rd,Aft Capital Twr
+3129,Shenton Way,UIC Bldg
+3151,Cecil St,Opp GB Bldg
+3211,Palmer Rd,Bef Shenton Way
+3217,Shenton Way,Opp Temasek Twr
+3218,Shenton Way,Opp MAS Bldg
+3219,Palmer Rd,Aft Shenton Way
+3222,Anson Rd,Hub Synergy Pt
+3223,Anson Rd,Intl Plaza
+3239,Palmer Rd,Shenton Way Ter
+3299,Prince Edward Rd,Prince Edward Rd
+3301,Marina Stn Rd,Marina Stn Rd
+3309,Marina Stn Rd,Marina Stn Rd
+3311,Marina Stn Rd,Marina Bay Stn
+3319,Marina St,Opp Marina Bay Stn
+3321,Marina Pl,Bef Marina City Pk
+3329,Marina Pl,Aft Marina City Pk
+3331,Marina Blvd,Marina City Pk
+3339,Marina Blvd,Opp Marina City Pk
+3341,Marina Mall,Aft Marina Blvd
+3349,Marina Mall,Aft Marina Gr
+3369,Marina Gdns Dr,Marina Barrage
+3371,Marina Mall,Aft Marina Way
+3381,Marina Blvd,The Sail
+3391,Marina Blvd,Marina Bay Financial Ctr
+3419,Marina Coastal Dr,Marina Sth Pier Ter
+3501,Bayfront Ave,Marina Bay Sands Theatre
+3509,Bayfront Ave,Marina Bay Sands Hotel
+3511,Bayfront Ave,Marina Bay Sands MICE
+3519,Bayfront Ave,Opp Marina Bay Sands MICE
+3531,Central Blvd,Bef Marina Way
+3539,Central Blvd,Aft Marina Stn Rd
+3885,ECP,Express
+4019,Bencoolen St,Plaza By The Pk
+4029,Bencoolen St,Aft Prinsep Link
+4111,Stamford Rd,Capitol Bldg
+4121,Stamford Rd,SMU
+4131,Armenian St,Bef Stamford Rd
+4142,Hill St,Armenian Ch
+4143,Hill St,Stamford Ct
+4149,Hill St,Grand Park City Hall
+4151,Victoria St,Cath of The Good Shepherd
+4159,Victoria St,Aft Chijmes
+4167,Nth Bridge Rd,St. Andrew's Cath
+4168,Nth Bridge Rd,Opp Peninsula Plaza
+4179,Bras Basah Rd,NTUC Income Ctr
+4211,River Valley Rd,Clarke Quay
+4219,River Valley Rd,Opp Clarke Quay
+4222,Eu Tong Sen St,Clarke Quay Stn
+4223,Hill St,MICA Bldg
+4229,Hill St,High St Ctr
+4231,Eu Tong Sen St,Clarke Quay Stn
+4239,New Bridge Rd,Clarke Quay Stn
+4249,Nth Bridge Rd,Opp The Treasury
+4251,Nth Boat Quay,Opp High St Ctr
+4311,Clemenceau Ave,Aft River Valley Rd
+4321,Clemenceau Ave,Shell Hse
+4329,Clemenceau Ave,Opp Shell Hse
+4331,River Valley Rd,Liang Ct
+4339,River Valley Rd,Opp Liang Ct
+5009,Nth Canal Rd,Opp OCBC Ctr
+5012,Eu Tong Sen St,Pearl's Ctr
+5013,Eu Tong Sen St,People's Pk Cplx
+5019,New Bridge Rd,Opp Pearl's Ctr
+5022,Eu Tong Sen St,People's Pk Ctr
+5023,Eu Tong Sen St,Apollo Ctr
+5029,Sth Bridge Rd,Boat Quay
+5039,New Bridge Rd,New Bridge Ctr
+5049,New Bridge Rd,Chinatown Pt
+5059,New Bridge Rd,Hong Lim Pk
+5069,Sth Canal Rd,OCBC Bldg
+5129,Upp Pickering St,Hong Lim Pk
+5131,Upp Cross St,Opp Hong Lim Cplx
+5189,Sth Bridge Rd,Opp Sri Mariamman Tp
+5199,Sth Bridge Rd,Opp Hong Lim Cplx
+5239,Neil Rd,Bef The Pinnacle@Duxton
+5241,Kreta Ayer Rd,Opp Blk 333
+5259,Neil Rd,Aft Kreta Ayer Rd
+5269,Sth Bridge Rd,Maxwell Rd FC
+5271,Tg Pagar Rd,Opp Fairfield Meth Ch
+5319,Church St,OCBC Ctr
+5411,Tg Pagar Rd,Tg Pagar Plaza
+5419,Tg Pagar Rd,The Amara
+5421,Tg Pagar Rd,Aft Craig Rd
+5429,Tg Pagar Rd,Bef Wallich St
+5519,Cantonment Rd,Opp Maritime Hse
+5521,Cantonment Rd,Maritime Hse
+5629,Cantonment Rd,Opp South Pt
+5631,Cantonment Link,Blk 16
+5641,Keppel Rd,Customs Port Br HQ
+5649,Keppel Rd,Opp Customs Port Br HQ
+5651,Tg Pagar Rd,Opp Fuji Xerox Twrs
+6011,Outram Rd,Opp Outram Pk Stn
+6029,Outram Rd,Outram Pk Stn
+6031,Chin Swee Rd,Opp Blk 13
+6039,Chin Swee Rd,Blk 8
+6049,Outram Rd,EtonHouse Pre-Sch
+6051,Tiong Bahru Rd,Blk 55
+6069,Outram Rd,Aft Furama RiverFront
+6071,Zion Rd,Blk 2B
+6081,Zion Rd,Blk 94
+6129,Kim Seng Rd,Grand Copthorne Hotel
+6131,Zion Rd,The Boys' Brigade HQ
+6141,Havelock Rd,Holiday Inn Atrium
+6149,Havelock Rd,Opp Holiday Inn Atrium
+6151,Havelock Rd,Hotel Miramar
+6159,Havelock Rd,River View Hotel
+6161,Havelock Rd,Blk 2
+6169,Havelock Rd,River Pl Condo
+6171,Upp Cross St,Opp Subordinate Ct
+6189,Havelock Rd,Ctrl Sq
+7011,Selegie Rd,Peace Ctr
+7021,Selegie Rd,Selegie Ctr
+7031,S'goon Rd,Tekka Ctr
+7111,S'goon Rd,Broadway Hotel
+7211,S'goon Rd,Sri Srinivasa Perumal Tp
+7221,S'goon Rd,Sri Vadapathira K Tp
+7231,Kitchener Rd,Bef Tai Hoe Hotel
+7239,Kitchener Rd,Opp New Pk Ctrl         
+7241,Lavender St,Umar P Tamil Lang Ctr
+7249,Lavender St,Opp Umar P Tamil Lang Ctr
+7319,Jln Besar,Aft Allenby Rd
+7329,Jln Besar,Hoa Nam Bldg
+7331,Kitchener Rd,Opp Christ Ch Sec Sch
+7351,Lavender St,Eminent Plaza
+7359,Lavender St,Opp Eminent Plaza
+7361,Lavender St,Opp Pek Chuan Bldg
+7369,Lavender St,Hock Seng Bldg
+7371,Lavender St,Aft Kallang Rd
+7379,Lavender St,Bef Kallang Rd
+7419,Jln Besar,Opp Veerasamy Rd
+7517,Bencoolen St,Opp Burlington Sq
+7518,Bencoolen St,Fortune Ctr
+7529,Jln Besar,Bef Sim Lim Twr
+7531,Rochor Canal Rd,Aft Sim Lim Sq
+7539,Sungei Rd,The Verge
+7551,Rochor Rd,Fu Lu Shou Cplx
+7561,Middle Rd,Opp Midlink Plaza
+7569,Middle Rd,Midlink Plaza
+7571,Middle Rd,Opp Prime Ctr
+7589,Ophir Rd,Opp Rochor Ctr
+8011,Clemenceau Ave,Opp Haw Par Glass Twr
+8019,Clemenceau Ave,Aft Haw Par Glass Twr
+8031,Penang Rd,Dhoby Ghaut Stn
+8041,Orchard Rd,YMCA
+8057,Orchard Rd,Dhoby Ghaut Stn
+8058,Orchard Rd,MacDonald Hse
+8069,Bras Basah Rd,Hotel Rendezvous
+8079,Prinsep St,NTUC Income Prinsep Hse
+8111,Penang Rd,Winsland Hse
+8121,Somerset Rd,Somerset Stn
+8137,Orchard Rd,Orchard Plaza
+8138,Orchard Rd,Concorde Hotel S'pore
+9011,Orchard Turn,Opp Ngee Ann City
+9022,Orchard Blvd,Opp Orchard Stn
+9023,Orchard Turn,Orchard Stn
+9037,Orchard Rd,Opp Meritus Mandarin
+9038,Orchard Rd,Midpoint Orchard
+9047,Orchard Rd,Tang Plaza
+9048,Orchard Rd,Lucky Plaza
+9059,Grange Rd,Natl Youth Council
+9111,Orchard Blvd,Opp Four Seasons Hotel
+9121,Orchard Blvd,Bef Tomlinson Rd
+9131,Grange Rd,Opp Trader's Hotel
+9139,Grange Rd,Aft Cuscaden Rd
+9141,Napier Rd,British Council
+9149,Napier Rd,Opp British Council
+9159,Tanglin Rd,Aft Tomlinson Rd
+9169,Orchard Rd,Delfi Orchard
+9179,Orchard Rd,Royal Thai Embassy
+9191,Tomlinson Rd,The Regent S'pore
+9212,Scotts Rd,Royal Plaza On Scotts
+9213,Scotts Rd,Thong Teck Bldg
+9219,Scotts Rd,Far East Plaza
+10009,Bt Merah Ctrl,Bt Merah Int
+10011,New Bridge Rd,Opp New Bridge Rd Ter
+10017,Eu Tong Sen St,Aft Hosp Dr
+10018,Eu Tong Sen St,Bef Outram Rd
+10021,Neil Rd,Blk 3
+10039,Kg Bahru Rd,Bef Hosp Dr
+10041,Kg Bahru Rd,Aft Blair Rd
+10049,Kg Bahru Rd,Aft Jln Bt Merah
+10051,Jln Bt Merah,Blk 149
+10059,Jln Bt Merah,Opp Blk 149
+10061,Jln Bt Merah,Blk 140
+10069,Jln Bt Merah,Opp Blk 140
+10071,Jln Bt Merah,Blk 111
+10079,Jln Bt Merah,Blk 201
+10081,Jln Bt Merah,Opp Blk 120
+10089,Jln Bt Merah,Blk 119
+10091,Jln Bt Merah,Bt Merah Town Ctr
+10099,Jln Bt Merah,Opp Bt Merah Town Ctr
+10101,Jln Bt Merah,SPRING S'pore Bldg
+10109,Jln Bt Merah,Opp SPRING S'pore Bldg
+10111,Jln Bt Merah,Opp Blk 28
+10119,Jln Bt Merah,Opp Pacific Tech Ctr
+10131,Jln Bt Merah,Opp Blk 2
+10139,Jln Bt Merah,Blk 1
+10141,Tiong Bahru Rd,Blk 18
+10149,Tiong Bahru Rd,Blk 1
+10151,Tiong Bahru Rd,Ctrl Green Condo
+10161,Tiong Bahru Rd,Opp Tiong Bahru Plaza
+10169,Tiong Bahru Rd,Tiong Bahru Plaza
+10171,Tiong Bahru Rd,Henderson Pk
+10179,Tiong Bahru Rd,Tiong Bahru Pk
+10181,Tiong Bahru Rd,Bef Al-Rabitah Mque
+10189,Tiong Bahru Rd,Blk 104A CP
+10191,Tiong Bahru Rd,Blk 78
+10199,Tiong Bahru Rd,Delta Swim Cplx
+10201,Tiong Bahru Rd,Opp Redhill Stn
+10209,Tiong Bahru Rd,Redhill Stn
+10211,Leng Kee Rd,Porsche Ctr S'pore
+10219,Leng Kee Rd,Opp Motor Image Enterprises
+10221,Ganges Ave,Ganges Ctr
+10229,Ganges Ave,Opp Harvest Mans
+10231,Ganges Ave,Opp Blk 79
+10239,Ganges Ave,Blk 79
+10241,Alexandra Rd,Gan Eng Seng Sec Sch
+10249,Alexandra Rd,Opp Gan Eng Seng Sec Sch
+10261,Alexandra Rd,Delta Sports Hall
+10269,Alexandra Rd,Opp Delta Sports Hall
+10271,Alexandra Rd,Opp Tanglin View
+10279,Alexandra Rd,Tanglin View
+10281,Alexandra Rd,SIS Bldg
+10289,Alexandra Rd,Opp SIS Bldg
+10291,Alexandra Rd,Aft SM Motors Ctr
+10299,Alexandra Rd,Opp SM Motors Ctr
+10301,Margaret Dr,Opp Blk 108
+10309,Margaret Dr,Blk 118
+10311,Margaret Dr,Opp Queenstown Sec Sch
+10319,Margaret Dr,Queenstown Sec Sch
+10321,Tanglin Rd,Aft Margaret Dr
+10329,Tanglin Rd,Crescent Girls' Sch
+10331,Henderson Rd,Bef Bt Merah Ctrl
+10339,Henderson Rd,Aft Bt Merah Ctrl
+10341,Henderson Rd,Henderson Sec Sch
+10349,Henderson Rd,Blk 116
+10351,Henderson Rd,Blk 96
+10359,Henderson Rd,Bet Blks 110/113
+10361,Lower Delta Rd,Cendex Ctr
+10369,Lower Delta Rd,Opp Cendex Ctr
+10371,Lower Delta Rd,Blk 129
+10379,Lower Delta Rd,Blk 24
+10381,Lower Delta Rd,Opp Blk 48
+10389,Lower Delta Rd,Blk 48
+10391,Kg Bahru Rd,Opp Melati Blk 2
+10399,Kg Bahru Rd,Melati Blk 2
+10401,Hoy Fatt Rd,Shriro Hse
+10409,Hoy Fatt Rd,Blk 50
+10411,Hoy Fatt Rd,Opp Blk 53
+10419,Hoy Fatt Rd,Blk 52
+10421,Lengkok Bahru,Blk 63B
+10429,Lengkok Bahru,Blk 54
+10431,Lengkok Bahru,Bt Merah Skills Dev Ctr
+10439,Lengkok Bahru,Blk 55
+10441,Lengkok Bahru,Opp Blk 44
+10449,Lengkok Bahru,Blk 44
+10451,Redhill Rd,Opp Blk 71
+10459,Redhill Rd,Blk 72
+10481,Redhill Cl,Opp Blk 73
+10489,Redhill Cl,Blk 73
+10501,Jln Bt Merah,Blk 104
+10519,Delta Rd,Blk 4
+10589,Eu Tong Sen St,New Bridge Rd Ter
+10599,Jln Rumah Tinggi,Rumah Tinggi Ter
+10651,Bt Merah Ctrl,Blk 116
+10659,Bt Merah Ctrl,Blk 1003
+11009,Ghim Moh Rd,Ghim Moh Ter
+11019,Jln Bt Merah,Opp OG Fty
+11021,Queensway,Aft Queenstown NPC HQ
+11029,Queensway,Blk 166
+11031,Queensway,Opp Queen's Cl
+11039,Queensway,Blk 19
+11041,Queensway,Aft C'wealth Dr
+11049,Queensway,Opp Blessed Sacrament Ch
+11051,Queensway,Opp Queenstown Polyclinic
+11059,Queensway,Queenstown Polyclinic
+11061,Queensway,Opp Queensway Sec Sch
+11069,Queensway,Queensway Sec Sch
+11071,Queensway,Blk 97
+11079,Queensway,Opp Blk 95
+11081,Queensway,Viz Holland
+11089,Queensway,Opp Holland Hill Lodge
+11091,Farrer Rd,Tulip Gdn
+11099,Farrer Rd,Opp Tulip Gdn
+11101,Farrer Rd,Farrer Rd Mkt
+11109,Farrer Rd,Spanish Village
+11111,Farrer Rd,Blk 2
+11119,Farrer Rd,Blk 6
+11139,C'wealth Ave,Blk 53A CP
+11141,C'wealth Ave,Queenstown Stn
+11149,C'wealth Ave,Queenstown Stn
+11151,C'wealth Ave,Blk 42
+11159,C'wealth Ave,Aft Ch of Our Saviour
+11161,C'wealth Ave,C'wealth Stn
+11169,C'wealth Ave,C'wealth Stn
+11171,C'wealth Ave,Opp Blk 7B
+11179,C'wealth Ave,Blk 8
+11181,C'wealth Ave,Opp Blk 43
+11189,C'wealth Ave,Blk 43
+11191,C'wealth Ave West,Buona Vista Stn
+11199,C'wealth Ave West,Blk 15
+11201,Holland Rd,CSC Dempsey Clubhse
+11209,Holland Rd,Opp Peirce Rd
+11211,Holland Rd,Aft Peirce Rd
+11219,Holland Rd,Great Eastern Mans
+11221,Holland Rd,Lien Twrs
+11229,Holland Rd,Les Jardins de Holland
+11231,Holland Rd,Aft Estoril Mans
+11239,Holland Rd,Fairlodge 
+11259,Nth Buona Vista Rd,Blk 17
+11261,Holland Rd,Holland Village
+11269,Holland Rd,Opp Holland Village
+11271,Holland Rd,Aft East Sussex Lane
+11279,Holland Rd,Aft Coronation Rd West
+11281,Holland Rd,Aft Tan Boon Chong Ave
+11289,Holland Rd,Opp Tan Boon Chong Ave
+11291,Holland Rd,Cold Storage Jelita 
+11299,Holland Rd,Opp Cold Storage Jelita
+11301,Sixth Ave,Hse No. 578
+11309,Sixth Ave,Hse No. 589
+11311,Sixth Ave,Hse No. 532
+11319,Sixth Ave,Opp Hse No. 516
+11321,Sixth Ave,Opp Regent Villa
+11329,Sixth Ave,Regent Villa
+11331,Sixth Ave,Opp Dynasty Gdn II
+11339,Sixth Ave,Dynasty Lodge
+11341,Sixth Ave,Garlick Ville
+11349,Sixth Ave,Opp Garlick Ville
+11351,Ghim Moh Rd,Blk 13
+11359,Ghim Moh Rd,Blk 12
+11361,Nth Buona Vista Rd,Buona Vista Stn
+11369,Nth Buona Vista Rd,Opp Buona Vista Stn
+11379,Nth Buona Vista Rd,Buona Vista Ter
+11381,Holland Dr,Blk 10A
+11389,Holland Dr,Blk 46
+11401,Holland Ave,Blk 12
+11409,Holland Ave,Blk 9
+11419,Holland Ave,Opp Holland Village
+11429,C'wealth Dr,Opp Blk 115B
+11439,C'wealth Dr,Blk 92
+11441,C'wealth Dr,Blk 58
+11449,C'wealth Dr,Blk 37B 
+11451,C'wealth Dr,Blk 72
+11459,C'wealth Dr,Blk 50
+11469,Margaret Dr,Queensway Sec Sch
+11471,Margaret Dr,Opp The Fisherman Ch
+11479,Margaret Dr,The Fisherman Ch
+11481,Margaret Dr,Queenstown Lib
+11489,Margaret Dr,Opp Queenstown Lib
+11491,Margaret Dr,Opp Queenstown Pr Sch
+11499,Margaret Dr,Queenstown Pr Sch
+11511,Alexandra Rd,Alexandra Hosp
+11519,Alexandra Rd,Opp Queensway Shop Ctr
+11521,Alexandra Rd,Anchorpoint
+11529,Alexandra Rd,Bef IKEA Ind Bldg
+11531,Alexandra Rd,Opp Lea Hin Hardware Fty
+11539,Alexandra Rd,Lea Hin Hardware Fty
+11541,Stirling Rd,Opp Queens
+11551,Stirling Rd,Tiong Ghee Tp
+11561,Stirling Rd,Blk 166
+11579,Mei Ling St,Blk 158
+11589,Mei Ling St,Blk 157
+11599,Mei Ling St,Blk 153
+11609,Mei Chin Rd,Blk 163
+12021,Holland Rd,Bef Moonbeam Walk
+12029,Holland Rd,Opp Moonbeam Walk
+12031,Ulu Pandan Rd,Pandan Valley Condo
+12039,Ulu Pandan Rd,Opp Pandan Valley Condo
+12041,Ulu Pandan Rd,Aft Pandan Valley
+12049,Ulu Pandan Rd,Opp Pandan Valley 
+12051,Ulu Pandan Rd,Pine Gr Condo
+12059,Ulu Pandan Rd,Opp Pine Gr Condo
+12061,Clementi Rd,Blk 109
+12069,Clementi Rd,Opp Blk 109A
+12071,Clementi Rd,Blk 116
+12079,Clementi Rd,Opp Blk 116
+12081,Clementi Rd,Maju Camp
+12089,Clementi Rd,Opp Maju Camp
+12091,Clementi Rd,SIM HQ 
+12099,Clementi Rd,Opp SIM HQ 
+12101,Clementi Rd,Ngee Ann Poly
+12109,Clementi Rd,Opp Ngee Ann Poly
+12111,Ulu Pandan Rd,Bef Clementi Rd
+12119,Ulu Pandan Rd,Police KINS Trg Camp
+12121,Ghim Moh Rd,Blk 7
+12129,Ghim Moh Rd,Blk 3
+12131,Mt Sinai Rd,Aft Grove Rd 
+12139,Mt Sinai Rd,Aft Mt Sinai Lane
+12141,Mt Sinai Dr,Opp Henry Pk Apts
+12149,Mt Sinai Dr,Henry Pk Apts
+12151,Moonbeam Walk,Evian Condo
+12169,Pandan Valley,Pandan Valley
+12179,Mt Sinai Rise,Montview
+12189,Mt Sinai Rise,Bef Mt Sinai Dr
+12199,Mt Sinai Rise,Opp Village Twr
+12201,Clementi Ave 6,LogisHub @ Clementi
+12209,Clementi Ave 6,Opp LogisHub @ Clementi
+12211,Mt Sinai Dr,Bet Hse Nos. 33/35
+13011,Napier Rd,Opp S'pore Botanic Gdns
+13019,Napier Rd,S'pore Botanic Gdns
+13021,Holland Rd,Aft Min of Foreign Affairs
+13029,Holland Rd,Bef Tyersall Ave
+13031,Tanglin Rd,Opp Chatsworth Rd
+13039,Tanglin Rd,Bef Chatsworth Rd
+13041,Tanglin Rd,Aft Rochalie Dr
+13049,Tanglin Rd,Bef Rochalie Dr
+13051,River Valley Rd,Opp Valley Pt Condo
+13059,River Valley Rd,Valley Pt Condo
+13062,River Valley Rd,Mutiara View
+13063,River Valley Rd,Mutiara Crest
+13069,River Valley Rd,Valley Pk Condo
+13071,River Valley Rd,Opp ERC Inst
+13079,River Valley Rd,Aft ERC Inst
+13081,River Valley Rd,Airview Twr
+13089,River Valley Rd,The Morningside 
+13091,River Valley Rd,Aft AA Ctr
+13099,River Valley Rd,Bef AA Ctr
+13101,River Valley Rd,Opp Mohd Sultan Rd
+13109,River Valley Rd,UE Sq
+13119,Kim Seng Rd,Opp Great World City
+13121,Zion Rd,Opp Great World City
+13139,Kim Seng Rd,The Trillium
+13141,Hoot Kiam Rd,Aft Zion Full Gospel Ch
+13159,Irwell Bank Rd,Bef Zion Full Gospel Ch
+13169,Grange Rd,Grange 80 Condo
+13171,Grange Rd,Lucky Twr
+13179,Grange Rd,Opp Lucky Twr
+13181,Grange Rd,Aft One Tree Hill
+13189,Grange Rd,Bef One Tree Hill
+13191,Paterson Rd,Paterson Lodge
+13199,Paterson Rd,Opp Paterson Lodge
+13201,Tanglin Rd,British High Comm
+13209,Tanglin Rd,Opp British High Comm
+13211,Mohd Sultan Rd,Aft Unity St
+14009,Seah Im Rd,HarbourFront Int
+14011,Kg Bahru Rd,Bef Mt Faber Lodge
+14019,Kg Bahru Rd,Opp Mt Faber Lodge
+14021,Lower Delta Rd,Radin Mas Mque
+14029,Lower Delta Rd,Blk 105
+14031,Lower Delta Rd,St. Theresa's Convent
+14039,Lower Delta Rd,Opp St. Theresa's Convent
+14041,Henderson Rd,Blk 54
+14049,Henderson Rd,Opp Blk 55
+14051,Henderson Rd,Aft Telok Blangah Hts
+14059,Henderson Rd,Bef Telok Blangah Hts
+14061,Keppel Rd,Opp Former Railway Stn
+14069,Keppel Rd,Former Railway Stn
+14071,Keppel Rd,Keppel Workshop
+14081,Keppel Rd,Tg Pagar DP Blk F5
+14089,Keppel Rd,Opp Tg Pagar DP Blk F5
+14101,Keppel Rd,Opp Keppel DP Blk 517
+14109,Keppel Rd,Keppel DP Blk 517
+14119,Telok Blangah Rd,Opp VivoCity
+14121,Telok Blangah Rd,HarbourFront Stn
+14129,Telok Blangah Rd,HarbourFront Stn
+14131,Telok Blangah Rd,Aft Seah Im Rd
+14139,Telok Blangah Rd,Bef Seah Im Rd
+14141,Telok Blangah Rd,VivoCity
+14149,Telok Blangah Rd,Aft HarbourFront Stn
+14151,Telok Blangah Rd,Opp Chr Community Chapel
+14159,Telok Blangah Rd,Bef Chr Community Chapel
+14161,Telok Blangah Rd,Opp Blk 45
+14169,Telok Blangah Rd,Blk 44
+14171,Telok Blangah Rd,Opp Yeo's Bldg
+14179,Telok Blangah Rd,Yeo's Bldg
+14189,Telok Blangah Rd,Aft Alexandra Rd
+14191,Depot Rd,Blk 104B
+14199,Depot Rd,Blk 118
+14201,Depot Rd,Blk 109B
+14209,Depot Rd,Aft Hewlett Packard
+14211,Depot Rd,ISS Intl Sch
+14219,Depot Rd,Opp ISS Intl Sch
+14221,Kg Bahru Rd,Opp St. Teresa's Ch
+14229,Kg Bahru Rd,St. Teresa's Ch
+14231,Kg Bahru Rd,Keppel DP Blk 519
+14239,Kg Bahru Rd,Opp Keppel DP Blk 519
+14241,Henderson Rd,Opp Blk 1
+14249,Henderson Rd,Blk 1
+14259,Telok Blangah Cres,Blk 11
+14269,Telok Blangah Cres,Blk 10
+14271,Telok Blangah Way,Al-Amin Mque
+14279,Telok Blangah Way,Blk 25
+14281,Telok Blangah Way,Opp Blk 11
+14291,Telok Blangah Way,Blk 27
+14299,Telok Blangah Way,Opp Blk 27
+14309,Telok Blangah Rise,Blk 41
+14319,Telok Blangah Rise,Blk 28
+14329,Telok Blangah St 32,Blk 67
+14339,Telok Blangah Hts,Blk 71
+14349,Telok Blangah Hts,Blk 59
+14359,Telok Blangah Dr,Blk 50
+14369,Depot Rd,Gillman Hts Condo
+14379,Lower Delta Rd,Blk 40
+14381,Bt Purmei Ave,Blk 109
+14389,Bt Purmei Ave,Opp Blk 109
+14399,Telok Blangah Hts,Blk 88
+14401,Labrador Villa Rd,Opp The Furniture Warehse
+14409,Labrador Villa Rd,Opp Blk 3B
+14419,Labrador Villa Rd,CP A
+14429,Port Rd,CP B
+14431,Mt Faber Rd,Mt Faber Lodge 
+14441,Mt Faber Rd,Marina Deck 
+14451,Mt Faber Rd,Aft Jewel Box 
+14461,Maritime Sq,HarbourFront Twr Two
+14471,Depot Rd,Blk 114
+14489,Telok Blangah Rise,Blk 36 Mkt/FC
+14519,Sentosa Gateway,Resorts World Sentosa
+15041,Alexandra Rd,NOL Bldg
+15049,Alexandra Rd,Opp NOL Bldg
+15051,Alexandra Rd,Alexandra Pt
+15059,Alexandra Rd,Opp Alexandra Pt
+15071,Sth Buona Vista Rd,Buona Vista Gdns
+15079,Sth Buona Vista Rd,Aft Lor Sarhad
+15091,Sth Buona Vista Rd,Opp Natl Leadership Inst
+15099,Sth Buona Vista Rd,Natl Leadership Inst
+15101,Sth Buona Vista Rd,Opp LP 31
+15109,Sth Buona Vista Rd,LP 30
+15111,Sth Buona Vista Rd,LP 37
+15119,Sth Buona Vista Rd,LP 36
+15121,Sth Buona Vista Rd,LP 49
+15129,Sth Buona Vista Rd,Opp LP 48
+15131,Sth Buona Vista Rd,Aft Science Pk Dr
+15139,Sth Buona Vista Rd,Bef Science Pk Dr
+15141,Pasir Panjang Rd,Opp PSA Bldg
+15149,Pasir Panjang Rd,PSA Bldg
+15151,Pasir Panjang Rd,Opp Alexandra DP Blk 3
+15159,Pasir Panjang Rd,Alexandra DP Blk 3
+15161,Pasir Panjang Rd,Pasir Panjang Ctr
+15169,Pasir Panjang Rd,Harbourside Ind Bldg 2
+15181,Science Pk Dr,PSB S'pore
+15189,Science Pk Dr,DNV Technology Ctr
+15191,Pasir Panjang Rd,Pasir Panjang FC
+15199,Pasir Panjang Rd,Opp Currency Hse
+15201,Pasir Panjang Rd,Aft PSA Wharves G3
+15209,Pasir Panjang Rd,Opp PSA Wharves G3
+15211,Pasir Panjang Rd,Opp Pasir View Pk 
+15219,Pasir Panjang Rd,Pasir View Pk 
+15221,Pasir Panjang Rd,Redwood West 
+15229,Pasir Panjang Rd,Opp Redwood West 
+16009,Clementi Rd,Kent Ridge Ter
+16011,Pasir Panjang Rd,Opp Haw Par Villa
+16019,Pasir Panjang Rd,Haw Par Villa
+16021,Pasir Panjang Rd,Opp Gloria Man
+16029,Pasir Panjang Rd,Gloria Man
+16031,Pasir Panjang Rd,Opp S'pore Science Pk II
+16039,Pasir Panjang Rd,S'pore Science Pk II
+16041,Pasir Panjang Rd,Opp The Longhouse
+16049,Pasir Panjang Rd,Westvale
+16051,Pasir Panjang Rd,The Crystal Tabernacle Ch
+16059,Pasir Panjang Rd,Jamiyah Halfway Hse
+16061,Pasir Panjang Rd,Opp Heng Mui Keng Terr
+16069,Pasir Panjang Rd,Heng Mui Keng Terr
+16071,Pasir Panjang Rd,Opp Pasir Panjang PO
+16079,Pasir Panjang Rd,Bef Pasir Panjang PO
+16081,Pasir Panjang Rd,Aft Palm Green Condo
+16089,Pasir Panjang Rd,Aft Clementi Rd
+16091,AYE,Opp ITE Dover
+16099,AYE,ITE Dover
+16101,Science Pk Rd,Inst of Micro-electronics
+16109,Science Pk Rd,The Alpha
+16111,Science Pk Rd,Aries
+16119,Science Pk Rd,Teletech Pk
+16121,Science Pk Rd,Galen
+16131,Clementi Rd,Opp Kent Ridge Ter
+16139,Clementi Rd,Bef Kent Ridge Ter
+16141,Clementi Rd,Tentera Diraja Mque
+16149,Clementi Rd,NUS Fac of Architecture
+16151,Clementi Rd,The Japanese Pr Sch
+16159,Clementi Rd,NUS Fac of Engrg
+16161,Kent Ridge Cres,Opp NUS Raffles Hall
+16169,Kent Ridge Cres,NUS Raffles Hall
+16171,Kent Ridge Cres,Yusof Ishak Hse
+16179,Kent Ridge Cres,Opp Yusof Ishak Hse
+16181,Kent Ridge Cres,Ctrl Lib
+16189,Kent Ridge Cres,Computer Ctr
+16191,Kent Ridge Cres,Opp NUS Fac of Architect
+16199,Kent Ridge Cres,NUS Fac of Design & Env
+16201,Pasir Panjang Rd,Barossa Gdns
+16209,Pasir Panjang Rd,Opp Barossa Gdns
+16211,West Coast Highway,Wharves Bldg
+16219,West Coast Highway,Opp Wharves Bldg
+16221,West Coast Highway,Opp Former Haw Par Villa
+16229,West Coast Highway,Former Haw Par Villa
+16231,West Coast Highway,Wholesale Ctr
+16239,West Coast Highway,Opp Wholesale Ctr
+16241,West Coast Highway,Bef West Coast Pk
+16249,West Coast Highway,Bef Wholesale Ctr
+17009,Clementi Ave 3,Clementi Temp Int
+17011,West Coast Rd,Opp Varsity Pk
+17019,West Coast Rd,Varsity Pk
+17021,West Coast Rd,Waseda S Snr High Sch
+17029,West Coast Rd,Opp Waseda S Snr High Sch
+17031,West Coast Rd,Kent Ridge Sec Sch
+17039,West Coast Rd,Opp Kent Ridge Sec Sch
+17041,West Coast Rd,Blk 726 Clementi West Mkt
+17049,West Coast Rd,Blk 601
+17051,Clementi Ave 6,Blk 436
+17059,Clementi Ave 6,Regent Pk
+17061,West Coast Rd,Blk 701
+17069,West Coast Rd,Opp Blk 701
+17071,West Coast Rd,Blk 513
+17079,West Coast Rd,Blk 512
+17091,Clementi Rd,Aft Clementi Ave 1
+17099,Clementi Rd,Transview Golf Club
+17101,Clementi Rd,Blk 352
+17109,Clementi Rd,Opp Blk 352
+17111,Clementi Rd,Blk 343
+17119,Clementi Rd,Opp Blk 343
+17121,AYE,Blk 610
+17129,AYE,Aft NUS High Sch
+17131,AYE,Clementi Flyover
+17139,AYE,Aft Clementi Swim Cplx
+17141,AYE,Clementi Stadium
+17149,AYE,Blk 426
+17151,C'wealth Ave West,Blk 410
+17159,C'wealth Ave West,Blk 365
+17161,C'wealth Ave West,Opp Blk 329
+17169,C'wealth Ave West,Blk 329
+17171,C'wealth Ave West,Clementi Stn
+17179,C'wealth Ave West,Clementi Stn
+17181,C'wealth Ave West,Opp Blk 317
+17189,C'wealth Ave West,Blk 317
+17191,Clementi Rd,NUS High Sch 
+17201,Clementi Ave 4,Blk 308
+17211,Clementi Ave 4,Bet Blks 315/318
+17219,Clementi Ave 4,Blk 376
+17221,Clementi Ave 5,Blk 377
+17229,Clementi Ave 5,Blk 335
+17239,Clementi Ave 3,NTUC Fairprice
+17241,Clementi Ave 2,Blk 334
+17249,Clementi Ave 2,Blk 355
+17251,Clementi Ave 2,Opp Blk 408
+17259,Clementi Ave 2,Blk 408
+17269,Clementi West St 2,Blk 730
+17279,Clementi West St 2,Blk 723
+17289,Clementi West St 2,West Coast CC
+17291,West Coast Highway,West Coast Pk
+17299,West Coast Highway,Opp West Coast Pk
+17301,West Coast Highway,LP 111
+17309,West Coast Highway,LP 112
+17311,West Coast Highway,Emerson Process
+17319,West Coast Highway,Blk 716
+17321,West Coast Highway,Tien Wah Press Bldg
+17329,West Coast Highway,Blk 705
+17331,West Coast Highway,Opp Blk 518
+17339,West Coast Highway,Blk 518
+17349,Harbour Dr,Pasir Panjang Ter Bldg
+17351,West Coast Highway,Aft Clementi Rd
+17359,West Coast Highway,Bef Clementi Rd
+17361,West Coast Highway,Opp West Coast Link
+17369,West Coast Highway,Aft West Coast Link
+17371,Clementi Ave 6,Blk 201
+17379,Clementi Ave 6,Blk 304
+17381,West Coast Rd,West Bay Resort Condo
+17389,West Coast Rd,Opp West Bay Resort Condo
+17399,Sunset Way,Opp Freesia Woods Condo
+17409,Sunset Way,Hse No. 90
+17419,Sunset Way,Sunset Way P/G
+17429,Sunset Way,Aft Sunset Vale
+18011,Alexandra Rd,SP Jain
+18019,Alexandra Rd,Opp SP Jain
+18021,Ayer Rajah Cres,Opp GEMPLUS
+18029,Ayer Rajah Cres,Tempco Mfg
+18039,Ayer Rajah Cres,Basement Food Ct
+18041,AYE,Normanton Pk
+18049,AYE,Opp Normanton Pk
+18051,Ayer Rajah Ave,Opp JVC Electronics
+18059,Ayer Rajah Ave,JVC Electronics
+18061,Ayer Rajah Cres,Blk 71
+18069,Ayer Rajah Cres,Opp Blk 71
+18071,Buona Vista Flyover,NUH
+18079,Buona Vista Flyover,Opp NUH
+18081,Ayer Rajah Cres,Blk 55
+18089,Ayer Rajah Cres,S'pore Post
+18099,Ayer Rajah Cres,Ayer Rajah Bus Pk
+18101,Buona Vista Flyover,PSB Science Pk Bldg
+18109,Buona Vista Flyover,Opp PSB Science Pk Bldg
+18111,Dover Rd,Fairfield Meth Pr Sch
+18119,Dover Rd,Opp Fairfield Meth Pr Sch
+18121,Buona Vista Flyover,Opp Ayer Rajah Ind Est
+18129,Buona Vista Flyover,Ayer Rajah Ind Est
+18131,AYE,Science Pk
+18141,Nth Buona Vista Rd,Aft Anglo-Chinese JC
+18149,Nth Buona Vista Rd,Opp Anglo-Chinese JC
+18151,Portsdown Rd,Portsdown Camp
+18159,Portsdown Rd,Opp Portsdown Camp
+18171,Portsdown Rd,Bef Weyhill Cl
+18179,Portsdown Rd,Opp Weyhill Cl
+18181,Portsdown Rd,Opp Tanglin Trust Sch
+18189,Portsdown Rd,Tanglin Trust Sch
+18191,Portsdown Rd,Bef Whitchurch Rd
+18199,Portsdown Rd,Aft Whitchurch Rd
+18209,Portsdown Rd,Bef All Saints Chapel
+18211,Portsdown Rd,Bef Jln Hang Jebat
+18221,Lower Kent Ridge Rd,NUH
+18239,Lower Kent Ridge Rd,Opp NUH
+18241,Science Pk Dr,PSB Science Pk Annex
+18249,Science Pk Dr,Aft The Pasteur
+18251,Science Pk Dr,Opp Reuters
+18261,Science Pk Dr,Opp DSO Natl Laboratories
+18269,Science Pk Dr,Bef Reuters
+18279,Science Pk Dr,Blk 85
+18301,Lower Kent Ridge Rd,Lim Seng Tjoe Bldg (LT 27)
+18309,Lower Kent Ridge Rd,Computing Soc1 Bldg
+18311,Lower Kent Ridge Rd,Blk S12
+18319,Lower Kent Ridge Rd,Opp University Hall
+18321,Lower Kent Ridge Rd,Kent Ridge Hall
+18329,Lower Kent Ridge Rd,Kent Ridge Hall
+18331,Lower Kent Ridge Rd,Kent Ridge Stn
+18339,Lower Kent Ridge Rd,Opp Kent Ridge Stn
+19011,C'wealth Ave West,Blk 19A CP
+19019,C'wealth Ave West,Opp Blk 19A CP
+19021,C'wealth Ave West,SP SMA
+19029,C'wealth Ave West,Opp SP SMA
+19031,C'wealth Ave West,Dover Stn
+19039,C'wealth Ave West,Dover Stn
+19041,C'wealth Ave West,Sch Of Media & ICT
+19049,C'wealth Ave West,Opp Sch Of Media & ICT
+19051,Dover Rd,Opp Transview Golf Club
+19059,Dover Rd,Transview Golf Club
+19061,Dover Rd,Ayer Rajah Telecoms
+19069,Dover Rd,Opp Ayer Rajah Telecoms
+19071,Dover Rd,Opp United World College
+19079,Dover Rd,Bef Dover Ct Prep Sch
+19081,Dover Rd,Opp ACS Boarding Sch
+19089,Dover Rd,United World College
+19091,Dover Ave,S'pore Poly
+19099,Dover Ave,Opp S'pore Poly
+20011,AYE,Blk 506
+20019,AYE,Blk 431
+20021,AYE,Hong Leong Shop Ctr
+20029,AYE,Opp Hong Leong Shop Ctr
+20031,AYE,The Infiniti
+20039,AYE,Opp The Infiniti
+20051,AYE,Cycle & Carriage
+20059,AYE,Opp Cycle & Carriage
+20061,Jln Ahmad Ibrahim,Aft Jurong Town Hall Rd
+20069,Jln Ahmad Ibrahim,Bef Jurong Town Hall Rd
+20081,Jln Ahmad Ibrahim,Carrier S'pore
+20089,Jln Ahmad Ibrahim,Opp Carrier S'pore
+20101,C'wealth Ave West,Nan Hua Pr Sch
+20109,C'wealth Ave West,Blk 203
+20121,West Coast Rd,Opp Blk 51
+20129,West Coast Rd,Bet Blks 50/51
+20131,West Coast Rd,S'pore Food Industries Bldg
+20139,West Coast Rd,Opp Angliss Bldg
+20141,West Coast Rd,Opp Blk 408
+20149,West Coast Rd,Blk 408
+20151,West Coast Rd,Opp Blk 411
+20159,West Coast Rd,Blk 411
+20161,West Coast Rd,Opp Blks 34/35
+20169,West Coast Rd,Blk 35
+20171,West Coast Rd,Opp Blk 47
+20179,West Coast Rd,Aft Teban Gdns Rd
+20181,Pandan Gdns,Ayer Rajah CC
+20189,Pandan Gdns,Opp Ayer Rajah CC
+20191,Pandan Gdns,Blk 407
+20199,Pandan Gdns,Blk 410
+20201,Teban Gdns Rd,Teban Gdn PO
+20209,Teban Gdns Rd,Opp Pandan Pr Sch
+20211,Teban Gdns Rd,Blk 41
+20219,Teban Gdns Rd,Blk 12
+20231,Teban Gdns Rd,Bef Hasanah Mque
+20239,Teban Gdns Rd,Aft Hasanah Mque
+20241,Penjuru Rd,Opp Blk 51
+20249,Penjuru Rd,Blk 54
+20251,Jurong Town Hall Rd,Bef Teban Gdns Rd
+20259,Jurong Town Hall Rd,C'wealth Sec Sch
+20261,Jurong Town Hall Rd,Blk 2
+20269,Jurong Town Hall Rd,Opp Blk 2
+20271,Jurong Town Hall Rd,Opp German Ctr
+20281,West Coast Highway,Opp The Japanese Sec Sch
+20289,West Coast Highway,The Japanese Sec Sch
+20291,West Coast Rd,Tanglin Sec Sch
+20299,West Coast Rd,Opp Tanglin Sec Sch
+20301,Pandan Loop,Opp Blk 19
+20309,Pandan Loop,Blk 19
+20311,Pandan Loop,Opp Blk 24
+20319,Pandan Loop,Blk 24
+20329,Pandan Loop,S'pore Food Ind
+20331,Pandan Loop,Vejoil Pte Ltd
+20341,Pandan Loop,Pan Tech Ind Cplx
+21011,Jln Ahmad Ibrahim,Aft Jurong Lake
+21019,Jln Ahmad Ibrahim,Aft Yuan Ching Rd
+21021,Jln Ahmad Ibrahim,Bef Jurong Port Rd
+21029,Jln Ahmad Ibrahim,Aft Corporation Pl
+21041,Jurong Port Rd,Aft Jln Terusan
+21049,Jurong Port Rd,Bef Jln Terusan
+21069,Jurong Port Rd,Bef Jln Tepong
+21071,Jln Buroh,Jurong Abattoir
+21079,Jln Buroh,Opp Jurong Abattoir
+21089,Fishery Port Rd,Bef Jln Buroh
+21099,Jurong Pier Way,Jurong Island Checkpt
+21109,Jln Tepong,Ctrl Fish Proc Fty
+21111,Jln Buroh,Aft Jurong Pier Rd
+21119,Jln Buroh,Bef Jurong Pier Rd
+21121,Jln Buroh,SPC Svc Stn
+21129,Jln Buroh,Opp SPC Svc Stn
+21131,Jln Buroh,Bef Jurong Port Rd
+21139,Jln Buroh,Aft Jurong Port Rd
+21141,Jurong Port Rd,Aft Jln Buroh
+21149,Jurong Port Rd,Jurong Port Workshops
+21151,Jurong Port Rd,CWT Distripark
+21159,Jurong Port Rd,Sin Soon Huat
+21161,Corporation Rd,Blk 220
+21169,Corporation Rd,Jurong JC
+21171,Corporation Rd,Opp Corporation Pl
+21179,Corporation Rd,Corporation Pl
+21181,Corporation Rd,Opp Blk 5
+21189,Corporation Rd,Blk 5
+21191,Corporation Rd,Jurong Stadium
+21199,Corporation Rd,Opp Jurong Stadium
+21201,Corporation Rd,Sime Rengo Packaging Ltd
+21209,Corporation Rd,Opp Sime Rengo Packaging Ltd
+21211,Corporation Rd,Opp Lakepoint Condo
+21219,Corporation Rd,Lakepoint Condo
+21229,Corporation Rd,Opp S'pore Aerospace Mfg
+21231,Corporation Rd,Blk 203
+21239,Corporation Rd,Opp Blk 203
+21241,Boon Lay Ave,Blk 220
+21249,Boon Lay Ave,Blk 213
+21251,Chin Bee Dr,Sime Darby
+21259,Chin Bee Dr,Opp Sime Darby
+21261,Quality Rd,Bef Smithkline
+21269,Quality Rd,Unit 53
+21271,Corporation Rd,Opp Assyakirin Mque
+21279,Corporation Rd,Assyakirin Mque
+21281,Jurong Pier Rd,Aft Jurong Pier Way
+21289,Jurong Pier Rd,Jurong Power Stn
+21291,Jurong Pier Rd,Opp Bilcon Ind
+21299,Jurong Pier Rd,Aft Bilcon Ind
+21301,Jurong Pier Rd,Opp Jln Pesawat
+21309,Jurong Pier Rd,Aft Jln Pesawat
+21311,Jln Boon Lay,Bef Tractor Rd
+21319,Jln Boon Lay,Opp Tractor Rd
+21321,Jln Boon Lay,BRC Weld Mesh Fty
+21329,Jln Boon Lay,Opp BRC Weld Mesh Fty
+21331,Jln Boon Lay,Opp Premier Milk Pte Ltd
+21339,Jln Boon Lay,Premier Milk Pte Ltd
+21341,Jln Boon Lay,Opp Beecham Pte Ltd
+21349,Jln Boon Lay,Beecham Pte Ltd
+21351,Jln Boon Lay,Opp Chartered Ind
+21359,Jln Boon Lay,Chartered Ind
+21361,Jln Boon Lay,Blk 695
+21369,Jln Boon Lay,Opp Blk 695
+21371,Jln Boon Lay,Blk 680C
+21379,Jln Boon Lay,Blk 263
+21381,Jurong West Ave 2,St. Joseph's Home
+21389,Jurong West Ave 2,Opp St. Joseph's Home
+21391,Boon Lay Ave,River Valley High Sch
+21399,Boon Lay Ave,Opp River Valley High Sch
+21409,Boon Lay Dr,Blk 191
+21411,Boon Lay Dr,Opp Blk 188
+21419,Boon Lay Dr,Blk 188
+21421,Boon Lay Ave,Blk 176
+21429,Boon Lay Ave,Blk 185
+21431,Boon Lay Pl,Opp Boon Lay Swim Cplx
+21439,Boon Lay Pl,Boon Lay CC
+21441,Boon Lay Pl,Blk 207
+21449,Boon Lay Pl,Boon Lay Shop Ctr
+21451,Boon Lay Dr,Blk 206
+21459,Boon Lay Dr,Blk 209
+21461,Jln Tukang,Bef Lor Tukang Lima
+21469,Jln Tukang,Bef Chia Ping Rd
+21471,Jln Tukang,Aft Lor Tukang Empat
+21479,Jln Tukang,Hup Leck Heavy Equipment
+21481,Jln Tukang,Bef Lor Tukang Dua
+21489,Jln Tukang,Aft Ray Lee
+21491,Quality Rd,Bef Boon Lay Way
+21499,Quality Rd,Bef Jln Tukang
+21501,Quality Rd,Premier Milk Pte Ltd
+21509,Quality Rd,Opp Meiji Seika
+21511,Chin Bee Ave,Opp Amoy Canning
+21519,Chin Bee Ave,Amoy Canning
+21521,Chin Bee Ave,PB Packaging Systems
+21529,Chin Bee Ave,Opp Grandluxe
+21531,Third Chin Bee Rd,Clariant S'pore
+21539,Third Chin Bee Rd,Opp Kaily Packaging
+21541,Intl Rd,Jurong Town Swim Cplx
+21549,Intl Rd,Automotive Technology 
+21551,Yung Ho Rd,Blk 151
+21559,Yung Ho Rd,CISCO Recall
+21561,Corporation Dr,Blk 158
+21569,Corporation Dr,Opp Blk 158
+21571,Corporation Dr,Opp Jurong Sec Sch
+21579,Corporation Dr,Jurong Sec Sch
+21581,Corporation Dr,Blk 65
+21589,Corporation Dr,Blk 103
+21591,Corporation Dr,Opp Blk 117
+21599,Corporation Dr,Blk 117
+21601,Corporation Dr,Blk 357
+21609,Corporation Dr,Opp Blk 364
+21611,Corporation Dr,Blk 367
+21619,Corporation Dr,Aft Corporation Rd
+21621,Kang Ching Rd,Blk 354
+21629,Kang Ching Rd,Blk 99
+21631,Yuan Ching Rd,Opp Japanese Gdn
+21639,Yuan Ching Rd,Japanese Gdn
+21641,Yuan Ching Rd,Opp Lakeside Apt
+21649,Yuan Ching Rd,Lakeside Apt
+21651,Yuan Ching Rd,Opp Chinese Gdn
+21659,Yuan Ching Rd,Chinese Gdn
+21661,Yuan Ching Rd,Yuan Ching Sec Sch
+21669,Yuan Ching Rd,Opp Blk 134D
+21671,Tah Ching Rd,Blk 331
+21679,Tah Ching Rd,Blk 329
+21681,Boon Lay Way,Opp Blk 200
+21689,Boon Lay Way,Blk 200
+21691,Boon Lay Way,Opp Jurong Fire Stn
+21699,Boon Lay Way,Jurong Fire Stn
+21711,Corporation Rd,Bet Blks 523/525
+21719,Corporation Rd,Opp Blk 529
+21751,Yuan Ching Rd,Jurong Sec Sch
+21759,Yuan Ching Rd,Opp Jurong Sec Sch
+21761,Yuan Ching Rd,Blk 143
+21769,Yuan Ching Rd,Opp Blk 143
+21771,Yung Ho Rd,Aft Corporation Dr
+21779,Yung Ho Rd,Aft Yuan Ching Rd
+22008,Jurong West Ctrl 3,Boon Lay Int
+22009,Jurong West Ctrl 3,Boon Lay Int
+22011,Jln Ahmad Ibrahim,Jurong BirdPark
+22019,Jln Ahmad Ibrahim,Opp Jurong BirdPark
+22021,Jln Ahmad Ibrahim,Opp PCI
+22029,Jln Ahmad Ibrahim,PCI
+22031,Jln Ahmad Ibrahim,Sankyu S'pore
+22039,Jln Ahmad Ibrahim,Markono Holdings
+22041,Jln Buroh,Aft Tg Kling Rd
+22049,Jln Buroh,Bef Tg Kling Rd
+22051,Jln Buroh,Opp Sembawang Kimtrans
+22059,Jln Buroh,Sembawang Kimtrans
+22061,Jln Buroh,Opp Cooling Sys Pte Ltd
+22069,Jln Buroh,Cooling Sys Pte Ltd
+22071,Jln Buroh,Bef Jurong Pier Rd
+22079,Jln Buroh,Aft Jurong Pier Rd
+22081,Tg Kling Rd,Opp Natsteel                                                                                        
+22089,Tg Kling Rd,Natsteel                                                                                            
+22091,Shipyard Rd,Aft Jln Samulun
+22099,Shipyard Rd,Bef Jln Samulun
+22141,Pioneer Rd,Aft Jln Buroh
+22149,Pioneer Rd,Bef Jln Buroh
+22151,Pioneer Rd,Hitachi
+22159,Pioneer Rd,Opp Hitachi
+22161,Pioneer Rd Nth,Opp Overseas Textile Ind
+22169,Pioneer Rd Nth,Opp Joo Ann Eating Hse
+22171,Pioneer Rd Nth,AMTEK
+22179,Pioneer Rd Nth,Bef Secura
+22181,Pioneer Rd Nth,S'pore Post
+22189,Pioneer Rd Nth,Bef S'pore Post
+22191,Soon Lee Rd,Soon Lee Depot
+22199,Soon Lee Rd,Opp Soon Lee Depot
+22219,Intl Rd,Aft Neythal Rd
+22221,Intl Rd,Aft Pioneer Rd Nth
+22229,Intl Rd,Bef Pioneer Rd Nth
+22231,Jurong West St 61,Blk 639
+22239,Jurong West St 61,Blk 624
+22241,Jurong West St 62,Opp Blk 622
+22249,Jurong West St 62,Blk 622
+22251,Jurong West St 62,Blk 665A
+22259,Jurong West St 62,Blk 668D
+22271,Soon Lee Rd,Jebsen & Jessen
+22281,Fan Yoong Rd,Aft Soon Lee Rd
+22289,Soon Lee Rd,Bef Fan Yoong Rd
+22299,Kwong Min Rd,Seng Mee Trading
+22309,Enterprise Rd,Aft Fan Yoong Rd
+22319,Wan Lee Rd,Chun Chun Mfg
+22329,Wan Lee Rd,Opp Sam McCoy Engrg
+22331,Tg Kling Rd,Jurong Shipyard
+22341,Jurong West Ave 4,Blk 673C
+22349,Jurong West Ave 4,Blk 734A
+22351,Jurong West Ave 4,Opp Blk 717
+22359,Jurong West Ave 4,Blk 717
+22361,Jurong West Ave 4,Blk 641
+22369,Jurong West Ave 4,Blk 705
+22391,Tg Kling Rd,Bef Jln Buroh
+22399,Tg Kling Rd,Aft Jln Buroh
+22401,Tg Kling Rd,Aft Shipyard Rd
+22409,Tg Kling Rd,Bef Shipyard Rd
+22411,Jurong West Ave 4,Blk 676B
+22419,Jurong West Ave 4,Jurong West Sub-Stn
+22421,Tg Kling Rd,Natl Oxygen Pte Ltd
+22429,Tg Kling Rd,Opp Natl Oxygen Pte Ltd
+22431,Enterprise Rd,Opp Par Investment
+22439,Enterprise Rd,Aft Par Investment
+22441,Jurong West St 64,Blk 669
+22449,Jurong West St 64,Blk 685B
+22451,Pioneer Rd Nth,Opp Blk 643
+22459,Pioneer Rd Nth,Blk 643
+22461,Pioneer Rd Nth,Opp Blk 653B
+22469,Pioneer Rd Nth,Blk 653B
+22471,Upp Jurong Rd,Bef Pioneer Rd Nth
+22479,Upp Jurong Rd,Aft Pioneer Rd Nth
+22481,Jurong West Ctrl 1,Blk 691A CP
+22489,Jurong West Ctrl 1,Blk 683A
+22491,Jurong West St 64,Blk 662D
+22499,Jurong West St 64,Opp Blk 662C
+22501,Jurong West St 63,Blk 662A
+22509,Jurong West St 63,Blk 663E
+22511,Jurong West St 63,Blk 658C
+22519,Jurong West St 63,Blk 608
+22521,Jurong West St 63,Blk 651A
+22529,Jurong West St 63,Blk 649A
+22531,Jurong West St 61,Opp Jurong West Pr Sch
+22539,Jurong West St 61,Jurong West Pr Sch
+22541,Boon Lay Way,Blk 655
+22549,Boon Lay Way,Opp Blk 655
+22551,Boon Lay Way,Blk 657
+22559,Boon Lay Way,Opp Blk 657
+22561,Boon Lay Way,Blk 660
+22569,Boon Lay Way,Opp Blk 660
+22571,Boon Lay Way,Opp Boon Lay Stn
+22579,Boon Lay Way,Boon Lay Stn
+22591,Jurong West St 64, Blk 670A
+22599,Jurong West St 64, Blk 678D
+22609,Soon Lee Rd,Soon Lee Bus Pk
+23011,Jln Ahmad Ibrahim,Carrier Transicold Pte Ltd
+23019,Jln Ahmad Ibrahim,Nippon Paint
+23021,Jln Ahmad Ibrahim,General Motors
+23029,Jln Ahmad Ibrahim,Stamford Tyre
+23031,Jln Ahmad Ibrahim,Phillips Electronics
+23039,Jln Ahmad Ibrahim,Opp Phillips Electronics
+23041,Upp Jurong Rd,Opp Jurong Camp
+23049,Upp Jurong Rd,Jurong Camp
+23051,Upp Jurong Rd,Bef Kian Teck Rd
+23059,Upp Jurong Rd,Aft Kian Teck Rd
+23061,Upp Jurong Rd,Aft Kian Teck Rd
+23069,Upp Jurong Rd,Bef Kian Teck Rd
+23071,Upp Jurong Rd,Opp SAFTI Military Inst
+23079,Upp Jurong Rd,SAFTI Military Inst
+23081,Upp Jurong Rd,Opp S'pore Discovery Ctr
+23089,Upp Jurong Rd,S'pore Discovery Ctr
+23091,Lok Yang Way,Nippon
+23099,Lok Yang Way,Bef First Lok Yang Rd
+23101,Lok Yang Way,Opp Nichias (S)
+23109,Lok Yang Way,Aft Third Lok Yang Rd
+23111,Lok Yang Way,Hitachi Cable
+23119,Lok Yang Way,Opp Hitachi Cable Pte Ltd
+23121,Lok Yang Way,Hitachi Cable
+23129,Lok Yang Way,Opp PCB Ltd
+23131,Sixth Lok Yang Rd,Opp Leroy Somer
+23139,Sixth Lok Yang Rd,Bef Lok Yang Way
+23141,Sixth Lok Yang Rd,Opp Varco
+23149,Sixth Lok Yang Rd,Metoxide Pte Ltd
+23151,Intl Rd,Containers Printers
+23159,Intl Rd,Aft Fifth Lok Yang Rd
+23161,Intl Rd,Promoter Group
+23169,Intl Rd,Bef Kian Teck Rd
+23171,Intl Rd,SKK (S) Pte Ltd
+23179,Intl Rd,Aft Second Lok Yang Rd
+23181,Intl Rd,Aft Kian Teck Rd
+23189,Intl Rd,Bef First Lok Yang Rd
+23191,Benoi Sector,Opp S'pore Tpt Pte Ltd
+23199,Benoi Sector,S'pore Tpt Pte Ltd
+23201,Benoi Sector,Opp Shimano Pte Ltd
+23209,Benoi Sector,Aft Shimano Pte Ltd
+23211,Benoi Sector,Opp Regent Motors
+23219,Benoi Sector,Aft Regent Motors
+23221,Pioneer Rd,Aft Gul Way
+23229,Pioneer Rd,Opp Gul Way
+23231,Pioneer Rd,Keppel Logistics
+23239,Pioneer Rd,Opp Keppel Logistics
+23241,Pioneer Rd,Aft Benoi Rd
+23249,Pioneer Rd,Bef Benoi Rd
+23251,Pioneer Rd,Aft Shipyard Rd
+23259,Pioneer Rd,Bef Shipyard Rd
+23261,Pioneer Rd,Opp Exxon Mobil
+23269,Pioneer Rd,Exxon Mobil
+23271,Pioneer Rd,Aft Benoi Sector
+23279,Pioneer Rd,Bef Benoi Sector
+23281,Benoi Rd,Aft Pioneer Rd
+23291,Benoi Rd,S'pore Shipbldg Engrg
+23301,Benoi Rd,Bef Benoi Basin
+23311,Benoi Rd,Keppel Shipyard
+23321,Benoi Rd,Opp Sinip Steel Pte Ltd
+23331,Benoi Rd,Opp JP Nelson
+23341,Benoi Rd,Aft Pioneer Rd                                                                                      
+23349,Benoi Rd,Bef Pioneer Rd
+23351,Benoi Rd,Aft Gul Ave
+23359,Benoi Rd,Opp Gul Ave
+23361,Benoi Rd,Opp S'pore Warehse & Tpt
+23369,Benoi Rd,S'pore Warehse & Tpt
+23371,Benoi Rd,Opp Hitachi Elect Devices
+23379,Benoi Rd,Hitachi Elect Devices
+23381,Shipyard Rd,Plant Engrg
+23389,Shipyard Rd,Opp Plant Engrg
+23391,Shipyard Rd,Far East Levingston
+23399,Shipyard Rd,Opp Far East Levingston
+23401,Shipyard Rd,Opp Mobil Marine Ter
+23409,Shipyard Rd,Mobil Marine Ter
+23411,Shipyard Rd,Aft Jurong Marine Base
+23419,Shipyard Rd,Opp Jurong Marine Base
+23421,Shipyard Rd,Comfort Holdings
+23429,Shipyard Rd,Opp Comfort Holdings
+23431,Shipyard Rd,SEMCO
+23439,Shipyard Rd,Opp SML Shipyard Ltd
+23441,Benoi Rd,Opp Benoi Pl
+23449,Benoi Rd,Benoi Pl
+23451,Jln Samulun,Jurong Shipyard
+23461,Jln Samulun,Selco Pte Ltd
+23469,Jln Samulun,Opp Selco Pte Ltd
+23471,Benoi Sector,Bef S'pore Tpt Pte Ltd
+23479,Benoi Sector,Aft S'pore Tpt Pte Ltd
+23481,Intl Rd,Molex
+23489,Intl Rd,Opp Molex
+23491,Joo Koon Circle,Joo Koon Stn
+23499,Joo Koon Circle,Joo Koon Stn
+23501,Lok Yang Way,Aft Pioneer Rd Nth
+23509,Lok Yang Way,Hoe Keng Motor
+24011,Jln Ahmad Ibrahim,M.C. Packaging Pte Ltd
+24019,Jln Ahmad Ibrahim,Liang Huat Ind Cplx
+24021,Jln Ahmad Ibrahim,Meritor Heavy Veh Systems
+24029,Jln Ahmad Ibrahim,Mazak S'pore
+24041,Upp Jurong Rd,Opp Pasir Laba Camp
+24049,Upp Jurong Rd,Pasir Laba Camp
+24089,Gul Way,Aft Gul Ave
+24129,Joo Koon Way,Opp Yeow San Pte Ltd
+24139,Joo Koon Circle,Opp Toyo Ink
+24149,Joo Koon Circle,Ind Svcs Pte Ltd
+24159,Joo Koon Circle,Aft Joo Koon Rd
+24169,Gul Cres,Austin Energy
+24179,Gul Cres,Opp Hong Hock Hardware
+24189,Gul Cres,Tai Sin Electric Cables
+24199,Gul Cres,JB Ind Pte Ltd
+24209,Gul Cres,Aft Gul Lane
+24219,Gul Circle,Toyo Glass Machinery
+24229,Gul Circle,Aft Gul St 3
+24239,Gul Circle,Bef Gul St 1
+24249,Gul Circle,Asiatic Agricultural Ind
+24259,Gul Circle,Chong Trading Pte Ltd
+24269,Gul Circle,Sing Huat Hardware
+24279,Gul Circle,Cameron Iron Works
+24289,Gul Circle,Opp Keppel T & T
+24299,Gul Circle,Aft Gul Way
+24301,Gul Circle,Opp AMF Far East
+24331,Pioneer Rd,Opp Robin Shipyard
+24339,Pioneer Rd,Robin Shipyard
+24341,Gul Rd,Opp Keppel Shipyard
+24349,Gul Rd,Keppel Shipyard
+24351,Gul Rd,Opp S'pore Takada Ind
+24359,Gul Rd,S'pore Takada Ind
+24369,Gul Rd,Dyna-Mac Engrg Svcs
+24379,Gul Rd,Opp Asia Ind Gases
+24381,Gul Rd,GE Keppel Energy Svcs
+24389,Gul Rd,Opp GE Keppel Energy Svcs
+24391,Pioneer Sector 2,Chem-Solv Technologies
+24401,Pioneer Sector 2,Hoe Huat Engrg
+24411,Pioneer Sector 2,Gul Camp
+24421,Pioneer Sector 2,Opp Pan Abrasives Ltd
+24431,Pioneer Sector 1,Aft Pioneer Sector 2
+24441,Pioneer Sector 3,Opp Hoechst S'pore
+24451,Pioneer Sector 3,Aft S'pore Steel Ltd
+24461,Pioneer Sector Lane,Smarty BT Oilfield
+24489,Joo Koon Rd,Steel Storage Asia
+24499,Joo Koon Rd,Chuan Kiat Metal & Ind
+24501,PIE,Bef Tuas Flyover
+24509,PIE,Opp David Distribution
+24511,Tuas Rd,Tuas Fire Stn
+24519,Tuas Rd,Opp Tuas Fire Stn
+24521,Tuas Rd,Bef Tuas Ave 5
+24529,Tuas Rd,Aft Tuas Ave 5
+24531,Pioneer Sector 1,Ultracon Corp
+24539,Pioneer Sector 1,Dundee Marine
+24541,Pioneer Sector 1,Opp Keppel Shipyard
+24549,Pioneer Sector 1,Keppel Shipyard
+24559,Pioneer Sector 1,HQ 6 Div
+24571,Joo Koon Circle,Nypro (S)
+24581,Joo Koon Circle,Opp ESAB
+24599,Joo Koon Rd,Bef Joo Koon Way
+24601,Tuas Rd,Calvanizing
+24609,Tuas Rd,Opp Calvanizing
+24611,Tuas Rd,Bef Marinteknik
+24619,Tuas Rd,Opp Marinteknik
+24621,Tuas Rd,Aft Ocean Tanker
+24629,Tuas Rd,Opp Ocean Tanker
+24631,Gul Circle,Bef Benoi Rd
+24639,Gul Circle,Aft Benoi Rd
+24641,Gul Ave,Opp Tuboscope Vetco
+24651,Gul Ave,Metall-Treat Ind
+24661,Pioneer Rd,Opp LP 179
+24669,Pioneer Rd,LP 161
+24671,Pioneer Rd,JSW Plastic Machinery
+24679,Pioneer Rd,Bet LP 166/167
+24681,Pioneer Rd,Opp Jurong Insp
+24689,Pioneer Rd,LP 173
+24691,Pioneer Rd,LP 179
+24699,Pioneer Rd,Bet LP 179/180
+25009,Tuas West Dr,Tuas Ter
+25061,Tuas Ave 9,Toshiba Chemical S'pore
+25069,Tuas Ave 9,Mayfran Group
+25071,Tuas Ave 9,Opp Nissin Tpt
+25079,Tuas Ave 9,Nissin Tpt
+25091,Tuas Ave 12,Seo Eng Joo Frozen Food
+25099,Tuas Ave 12,Opto-Pharm
+25101,Tuas Ave 1,Opp SMC Mfg
+25109,Tuas Ave 1,SMC Mfg
+25111,Tuas Ave 1,SE Plastics
+25119,Tuas Ave 1,Sin Hiap Chuan Hardware
+25121,Tuas Ave 1,Western Digital
+25129,Tuas Ave 1,Hup Joo Eating Hse
+25151,Tuas Ave 1,DaimlerChrysler Logistics
+25161,Tuas Ave 1,Toyochem Ink
+25169,Tuas Ave 1,Opp Panasonic
+25171,Tuas Ave 1,Becton Dickinson Med
+25179,Tuas Ave 1,Sew-Eurodrive
+25181,Tuas Ave 1,Asahi Techno
+25189,Tuas Ave 1,Soon Heng Glass
+25191,Tuas Ave 1,Asiatic Engrg
+25199,Tuas Ave 1,Klenco S'pore
+25201,Tuas Ave 3,APLS Bok Seng
+25209,Tuas Ave 3,GN Packaging Ind
+25219,Jln Ahmad Ibrahim,Matsushita Technology
+25221,Jln Ahmad Ibrahim,Raffles Country Club
+25229,Jln Ahmad Ibrahim,Crown Beverage Cans S'pore
+25231,Jln Ahmad Ibrahim,Opp Asia-Pacific Brewery
+25239,Jln Ahmad Ibrahim,Asia-Pacific Brewery
+25249,Jln Ahmad Ibrahim,Aft Tuas West Rd
+25259,Jln Ahmad Ibrahim,Bef Tuas West Dr
+25269,Jln Ahmad Ibrahim,Tuas Checkpt
+25321,Tuas Ave 5,YCH Distripark
+25329,Tuas Ave 5,Nutrade Logistics Ctr
+25331,Tuas Ave 5,Chugoku Marine Paints
+25339,Tuas Ave 5,Asia Steel Welded Mesh
+25341,Tuas Ave 5,CSR Sth East Asia
+25349,Tuas Ave 5,Times Printers
+25351,Tuas Ave 2,Hanwa Asia
+25359,Tuas Ave 2,Opp Hanwa Asia
+25361,Tuas Ave 4,Standpack Ind
+25369,Tuas Ave 4,Jas Metal Coatings
+25371,Tuas Ave 9,Opp Protex
+25379,Tuas Ave 9,Aft Tuas Ave 6
+25381,Tuas Ave 9,SHC Ind Bldg
+25389,Tuas Ave 9,Aft Tuas Ave 8
+25391,Tuas West Rd,Opp Sumitomo Warehse
+25399,Tuas West Rd,Sumitomo Warehse
+25411,Tuas West Dr,Aft Tuas Ter
+25419,Tuas West Dr,Opp Tuas Ter
+25421,Tuas West Dr,Opp Raffles Marina
+25429,Tuas West Dr,Raffles Marina
+25431,Tuas West Dr,Super Continental
+25439,Tuas West Dr,Opp Super Continental
+25441,Tuas West Dr,Kasei Optonix Asia
+25449,Tuas West Dr,Opp Kasei Optonix Asia
+25451,Tuas West Dr,Opp Schering-Plough
+25459,Tuas West Dr,Schering-Plough
+25461,Tuas West Dr,Aft Tuas West Ave
+25469,Tuas West Dr,Bef Tuas West Ave
+25471,Tuas Link 4,Opp S'pore Epson Ind
+25479,Tuas Link 4,S'pore Epson Ind
+25491,Tuas Link 4,Opp Super Continental
+25499,Tuas Link 4,Super Continental
+25501,Tuas Ave 7,Wee Wee Hup Kee
+25509,Tuas Ave 7,Opp Wee Wee Hup Kee
+25511,Tuas Ave 12,CHC Express
+25519,Tuas Ave 12,Opp CHC Express
+26011,Tuas Cres,Bef Tuas Ave 11
+26021,Tuas Cres,Jaya Shipbuilding & Engrg
+26031,Tuas Cres,Hiap Seng Engrg Ltd
+26049,Tuas Cres,Pan United Shipping
+26059,Tuas Cres,Drydocks World
+26069,Tuas Cres,Aft Tuas Ave 16
+26079,Tuas Cres,Sumpiles Investment
+26089,Tuas Cres,Bef Tuas Ave 20
+26099,Tuas Ave 20,Bef Tuas Ave 13
+26109,Tuas Ave 20,Bef Tuas Ave 11
+26111,Tuas Basin Link,Aft Grinnel
+26119,Tuas Basin Link,Opp Grinnel
+26121,Tuas Basin Link,Opp Chuan Hua
+26129,Tuas Basin Link,Chuan Hua
+26131,Tuas Basin Link,Aft Tuas Cres
+26141,Tuas Ave 11,Smarty
+26151,Tuas Ave 11,Opp Hempel
+26161,Tuas Ave 11,Metalplas Engrg
+26171,Tuas Ave 11,Richee Engrg
+26201,Tuas West Dr,ISK S'pore
+26209,Tuas West Dr,Opp ISK S'pore
+26211,Tuas Sth Ave 9,Tuas Power Stn
+26221,Tuas Sth Ave 9,Opp YLS Steel
+26231,Tuas Sth Ave 3,LP 4/6
+26239,Tuas Sth Ave 3,Opp LP 4/6
+26241,Tuas Sth Ave 3,LTH Distripark
+26249,Tuas Sth Ave 3,Bef Tuas Sth Ave 2
+26251,Tuas Sth Ave 3,Bef Tuas Sth Ave 2
+26259,Tuas Sth Ave 3,Aft Tuas Sth Ave 2
+26261,Tuas Sth Ave 3,Sin Lian Heng Const
+26269,Tuas Sth Ave 3,Opp Sin Lian Heng Const
+26279,Tuas Sth Ave 3,Aft Tuas Sth Ave 4
+26289,Tuas Sth Ave 3,Opp JVC Asia
+26299,Tuas Sth Ave 3,Bef Tuas Sth Ave 6
+26311,Tuas Sth Ave 5,Aft Tuas Sth Ave 6
+26321,Tuas Sth Ave 5,Bet Jacuzzi/Winmac
+26331,Tuas Sth Ave 5,RS Components
+26349,Tuas Sth Ave 4,Tuas Technology Pk
+26359,Tuas Sth Ave 3,Aft Tuas Sth Ave 6
+26369,Tuas Sth Ave 3,See Hup Seng
+26379,Tuas Sth Ave 3,Yong Nam
+26389,Tuas Sth Ave 3,Multi Alliance
+26399,Tuas Sth Ave 3,Aft Tuas View Cres
+26409,Tuas Sth Ave 3,Multico
+26419,Tuas Sth Ave 3,Sen Hin Chemical
+26429,Tuas Sth Ave 3,Tuas Power Stn
+26431,Tuas Sth Ave 8,Aft Blue Circle
+26441,Tuas Sth Ave 8,Bef Tuas Sth Ave 7
+26451,Tuas Sth Ave 8,Bef Tuas Sth Ave 5
+26461,Tuas Sth Ave 5,Heng Huat Ship Bldg & Construction
+27011,Nanyang Cres,Blk 55
+27021,Nanyang Cres,Hall 15
+27031,Nanyang Cres,Hall 12
+27041,Nanyang Cres,CP Y
+27051,Nanyang Cres,NIE Lib
+27069,Nanyang Dr,Blk 41
+27091,Jln Bahar,Opp Blk 271 CP
+27099,Jln Bahar,Blk 271 CP
+27101,Jln Bahar,Westville
+27109,Jln Bahar,Opp Westville
+27121,Jln Bahar,Bef Nanyang Ave
+27129,Jln Bahar,Opp Nanyang Ave
+27131,Jurong West St 91,Blk 932
+27141,Jurong West St 91,Blk 920
+27159,Jurong West St 92,Blk 924
+27169,Nanyang Ave,Bef Jln Bahar
+27171,Nanyang Ave,Bef Lor Danau
+27179,Nanyang Ave,Aft Lor Danau
+27181,Nanyang Ave,PUB Sub-Stn
+27189,Nanyang Ave,Opp PUB Sub-Stn
+27199,Nanyang Ave,Hall 11
+27209,Nanyang Ave,Hall 8
+27211,Nanyang Dr,Lee Wee Nam Lib
+27219,Nanyang Dr,Blk 2
+27221,Nanyang Dr,Sch of CEE
+27231,Nanyang Dr,Sch of Comm and Info
+27241,Nanyang Dr,Hall 7
+27251,Nanyang Dr,Innovation Ctr
+27261,Nanyang Dr,Hall 4
+27271,Jurong West St 91,Blk 962
+27279,Jurong West St 91,Blk 953
+27281,Nanyang Dr,Hall 1
+27291,Nanyang Dr,Opp Hall 6
+27301,Pioneer Rd Nth,Blk 978
+27309,Pioneer Rd Nth,Blk 705
+27311,Nanyang Dr,Hall 2
+27321,Pioneer Rd Nth,Blk 949
+27329,Pioneer Rd Nth,Blk 840
+27331,Jurong West St 72,West Grove Pr Sch
+27341,Jurong West St 72,Blk 729
+27349,Jurong West St 72,Blk 745
+27351,Jurong West Ave 5,Blk 715
+27359,Jurong West Ave 5,Blk 817
+27361,Jurong West Ave 5,Blk 710
+27369,Jurong West Ave 5,Blk 834
+27371,Jurong West St 75,Opp Blk 755
+27379,Jurong West St 75,Blk 755
+27381,Jurong West St 75,Blk 749
+27389,Jurong West St 75,Gek Poh Shop Ctr
+27391,Jurong West St 82,Blk 857
+27399,Jurong West St 82,Blk 859
+27401,Jurong West St 81,Blk 853
+27409,Jurong West St 81,Blk 821
+27411,Jurong West St 81,Blk 844A CP
+27419,Jurong West St 81,Blk 828A
+27421,Jurong West St 71,Blk 701
+27431,Jurong West Ave 5,Blk 762
+27439,Jurong West Ave 5,Blk 861
+27441,Jurong West Ave 5,Bet Blks 757/758
+27449,Jurong West Ave 5,Aft Westwood Ave
+27451,Jurong West Ave 3,Bet Blks 272D/271A
+27459,Jurong West Ave 3,Blk 273B
+27461,Jurong West Ave 3,Opp Blk 276B
+27469,Jurong West Ave 3,Blk 276B
+27471,Jurong West St 23,Corporation Pr Sch
+27479,Jurong West St 23,Opp Corporation Pr Sch
+28008,Jurong East St 13,Jurong East Int
+28009,Jurong East St 13,Jurong East Int
+28011,C'wealth Ave West,Aft ITE West (Clementi)
+28019,C'wealth Ave West,Aft Toh Tuck Ave
+28021,Boon Lay Way,Aft Toh Tuck Ave
+28029,Boon Lay Way,Bef Toh Tuck Ave
+28031,Boon Lay Way,Bef The Synergy
+28039,Boon Lay Way,Aft Boon Lay Sub Stn
+28041,Boon Lay Way,The Synergy
+28049,Boon Lay Way,Opp The Synergy
+28051,Boon Lay Way,Aft Jurong East St 11
+28059,Boon Lay Way,Bef Toh Guan Rd
+28061,Boon Lay Way,Jurong East Stn/Int
+28069,Boon Lay Way,Blk 203
+28071,Boon Lay Way,Blk 105
+28079,Boon Lay Way,Blk 210
+28081,Boon Lay Way,Blk 112
+28089,Boon Lay Way,Bef Yuhua CC
+28091,Boon Lay Way,Lakeside Stn
+28099,Boon Lay Way,Opp Lakeside Stn
+28101,Toh Tuck Ave,Opp SMRT Ulu Pandan Depot
+28109,Toh Tuck Ave,SMRT Ulu Pandan Depot
+28111,Jurong Rd,Aft Bt Batok Rd
+28119,Jurong Rd,Bef Bt Batok Rd
+28121,Jurong Rd,Opp Track 18
+28129,Jurong Rd,Aft Track 18
+28131,Jurong Rd,Bef Track 22
+28139,Jurong Rd,Aft Track 22
+28141,Jurong Rd,Aft Track 22
+28149,Jurong Rd,Bef Track 22
+28151,Jurong Rd,Bef Hong Kah Circle
+28159,Jurong Rd,Aft Hong Kah Circle
+28161,Jurong Rd,Bef Hong Kah Flyover
+28169,Jurong Rd,Aft Hong Kah Flyover
+28181,Toh Tuck Ave,Opp Ulu Pandan R.I. Plant
+28189,Toh Tuck Ave,Ulu Pandan R.I. Plant
+28221,Jurong Town Hall Rd,Opp Intl Business Pk
+28229,Jurong Town Hall Rd,Intl Business Pk
+28231,Jurong Town Hall Rd,Jurong Town Hall
+28239,Jurong Town Hall Rd,Opp Jurong Town Hall
+28241,Jurong Town Hall Rd,Opp Jurong East Lib
+28249,Jurong Town Hall Rd,Jurong East Lib
+28251,Jurong Town Hall Rd,S'pore Science Ctr
+28259,Jurong Town Hall Rd,Opp S'pore Science Ctr
+28261,Jurong Town Hall Rd,Aft S'pore Science Ctr
+28269,Jurong Town Hall Rd,Blk 118
+28271,Jurong Town Hall Rd,Opp Blk 114
+28279,Jurong Town Hall Rd,Blk 114
+28281,Jurong Town Hall Rd,Parc Oasis
+28289,Jurong Town Hall Rd,Blk 228
+28291,Jurong Town Hall Rd,Blk 303
+28299,Jurong Town Hall Rd,Blk 253
+28301,Jurong East St 13,Blk 131
+28311,Jurong East Ctrl,Blk 209
+28319,Jurong East Ctrl,Blk 207
+28321,Jurong East Ave 1,Blk 239
+28329,Jurong East Ave 1,Blk 246
+28331,Jurong East Ave 1,Blk 229
+28339,Jurong East Ave 1,Blk 252
+28341,Boon Lay Way,Chinese Gdn Stn
+28349,Boon Lay Way,Opp Chinese Gdn Stn
+28351,Boon Lay Way,Opp Blk 350
+28359,Boon Lay Way,Blk 350
+28361,Boon Lay Way,Jurong Lake
+28369,Boon Lay Way,Opp Jurong Lake
+28371,Boon Lay Way,Bef Jurong West St 51
+28379,Boon Lay Way,Aft Jurong West St 51
+28381,Jurong West St 51,Blk 515
+28389,Jurong West St 51,Yuhua Sec Sch
+28391,Jurong West St 51,Blk 501
+28399,Jurong West St 51,Blk 458
+28401,Jurong West Ave 1,Blk 502
+28409,Jurong West Ave 1,Blk 454
+28411,Jurong West St 52,Blk 526
+28421,Jurong West St 52,Blk 517
+28431,Jurong East Ctrl,Blk 134
+28439,Jurong East Ctrl,Blk 124
+28441,Jurong East Ctrl,Seventh-Day Advent Ch
+28449,Jurong East Ctrl,Bef Seventh-Day Advent Ch
+28451,Jurong East Ave 1,Parc Oasis
+28459,Jurong East Ave 1,Opp Parc Oasis
+28461,Jurong East Ave 1,Blk 347
+28469,Jurong East Ave 1,Blk 316
+28471,Jurong East St 32,Opp Blk 311
+28481,Jurong East St 32,Blk 306
+28491,Jurong East Ave 1,Opp Jurong Polyclinic
+28499,Jurong East Ave 1,Jurong Polyclinic
+28501,Jurong West Ave 1,Blk 490
+28509,Jurong West Ave 1,Blk 422
+28511,Jurong West Ave 1,Blk 463
+28519,Jurong West Ave 1,Blk 425
+28521,Jurong West Ave 1,Blk 457
+28529,Jurong West Ave 1,Blk 441
+28531,Jurong West Ave 1,Blk 536
+28539,Jurong West Ave 1,Blk 538
+28541,Jurong West St 42,Blk 551
+28551,Jurong West St 42,Aft Blk 553
+28561,Jurong West St 42,Blk 402
+28571,Jurong West St 42,Bet Blk 415
+28581,Jurong West St 41,Blk 491
+28591,Jurong West St 41,Opp Blk 481
+28601,Jurong West St 41,Yuhua Sec Sch
+28611,Jurong West St 41,Opp Blk 461
+28621,Jurong East Ctrl,Blk 241
+28629,Jurong East Ctrl,Blk 266
+28631,Toh Guan Rd,Opp Blk 288D
+28639,Toh Guan Rd,Blk 288E
+28641,Toh Guan Rd,Blk 284
+28649,Toh Guan Rd,Blk 286A
+28651,Toh Guan Rd,Opp IMM Bldg
+28659,Toh Guan Rd,IMM Bldg
+28661,Toh Guan Rd East,Mori Seiki
+28669,Toh Guan Rd East,Jurong East Warehse
+28681,Toh Guan Rd East,Toh Guan Ctr
+28689,Toh Guan Rd East,Opp Toh Guan Ctr
+28671,Toh Guan Rd East,Alliance Bldg
+28679,Toh Guan Rd East,Hitachi Elevator Bldg
+28691,Toh Guan Rd East,Wang-Fu Ind Pte Ltd
+28699,Toh Guan Rd East,Opp Uni-Tech Ctr
+28701,Toh Tuck Link,Aft Old Toh Tuck Rd
+28709,Toh Tuck Link,Bef Old Toh Tuck Rd
+29011,Penjuru Rd,Opp Sanmina-SCI
+29019,Penjuru Rd,Sanmina-SCI
+29021,Penjuru Rd,Aft Jln Buroh
+29029,Penjuru Rd,Opp Sunlight Timber
+29031,Penjuru Rd,S'pore Wood Ind
+29039,Penjuru Rd,Opp S'pore Wood Ind
+29041,Tg Penjuru,Ban Joo
+29049,Tg Penjuru,LTH Logistics
+29051,Jln Buroh,Opp Caltex S'pore
+29059,Jln Buroh,Caltex S'pore
+29069,Jln Buroh,Aft Pandan Rd
+29071,Pandan Rd,Gas Svc Intl
+29081,Pandan Rd,Franklin Offshore
+29089,Pandan Rd,Swanson Plastics
+29091,Pandan Rd,Opp Sia Huat
+29099,Pandan Rd,Ct S'pore
+29101,Pandan Rd,PPL Shipyard
+29109,Pandan Rd,Opp PPL Shipyard
+29111,Pandan Rd,Yeo & Son Investment
+29119,Pandan Rd,ComfortDelGro Engrg
+29121,Tg Penjuru,ECS Freight Svcs
+29129,Tg Penjuru,Chin Leong (CLP)
+29139,Pandan Ave,Opp Foh Foh Pte Ltd
+29149,Pandan Ave,Opp LP 4
+30011,Old Choa Chu Kang Rd,Tengah Air Base
+30019,Old Choa Chu Kang Rd,Opp Tengah Air Base
+30021,Old Choa Chu Kang Rd,Opp Keat Hong Camp
+30029,Old Choa Chu Kang Rd,Keat Hong Camp
+30031,Old Choa Chu Kang Rd,Opp Army Logistics Base
+30039,Old Choa Chu Kang Rd,Army Logistics Base
+30041,Old Choa Chu Kang Rd,Opp Home Team Academy
+30049,Old Choa Chu Kang Rd,Home Team Academy
+30051,Old Choa Chu Kang Rd,Aft Track 14
+30059,Old Choa Chu Kang Rd,Opp Track 14
+30081,Brickland Rd,Opp Hai Inn See Tp
+30089,Brickland Rd,Aft Hai Inn See Tp
+30091,Sg Tengah Rd,Chengtai Nursery
+30099,Sg Tengah Rd,Opp Chengtai Nursery
+31009,Old Choa Chu Kang Rd,Choa Chu Kang Rd End
+31011,Jln Bahar,Aft Nanyang Ave
+31019,Jln Bahar,Bef Nanyang Ave
+31021,Jln Bahar,Jln Bahar Power Stn
+31029,Jln Bahar,Opp Jln Bahar Power Stn
+31031,Jln Bahar,Civil Defence Academy
+31039,Jln Bahar,Opp Civil Defence Academy
+31041,Jln Bahar,Bef Muslim Cemy Path 7
+31049,Jln Bahar,Aft Chr Cemy Path 9
+31051,Jln Bahar,Bef Muslim Cemy Path 1
+31059,Jln Bahar,Aft Chr Cemy Path 3
+31061,Lim Chu Kang Rd,Opp Lim Chu Kang Camp II
+31069,Lim Chu Kang Rd,Bef Old Choa Chu Kang Rd
+31071,Lim Chu Kang Rd,Aft Chinese Cemy Path 11
+31079,Lim Chu Kang Rd,Opp Chinese Cemy Path 11
+31081,Old Lim Chu Kang Rd,Opp HQ 5th SIB Camp I
+31089,Old Lim Chu Kang Rd,HQ 5th SIB Camp I
+31091,Old Lim Chu Kang Rd,Opp Lim Chu Kang Camp I
+31099,Old Lim Chu Kang Rd,Lim Chu Kang Camp I
+31101,Old Lim Chu Kang Rd,Murai Camp
+31109,Old Lim Chu Kang Rd,Opp Murai Camp
+31111,Old Lim Chu Kang Rd,B05 Old Lim Chu Kang Rd
+31119,Old Lim Chu Kang Rd,B06 Old Lim Chu Kang Rd
+31121,Old Choa Chu Kang Rd,Opp Chinese Cemy
+31129,Old Choa Chu Kang Rd,Chinese Cemy
+31131,Old Choa Chu Kang Rd,Aft Track 33
+31139,Old Choa Chu Kang Rd,Bef Track 33
+31141,Old Choa Chu Kang Rd,Bahai Cemy
+31149,Old Choa Chu Kang Rd,Opp Bahai Cemy
+31151,Old Choa Chu Kang Rd,Aft Lim Chu Kang Rd
+31159,Old Choa Chu Kang Rd,Bef Lim Chu Kang Rd
+31161,Old Choa Chu Kang Rd,Opp Teen Challenge
+31169,Old Choa Chu Kang Rd,Teen Challenge
+31171,Old Choa Chu Kang Rd,Opp Jln Berseri
+31179,Old Choa Chu Kang Rd,Aft Jln Berseri
+31181,Old Choa Chu Kang Rd,Aft LP 222
+31189,Old Choa Chu Kang Rd,B27 Old Choa Chu Kang Rd
+31191,Old Choa Chu Kang Rd,B26 Old Choa Chu Kang Rd
+31199,Old Choa Chu Kang Rd,B25 Old Choa Chu Kang Rd
+31201,Lim Chu Kang Rd,Aft Chinese Cemy Path 13
+31211,Lim Chu Kang Rd,Aft Muslim Cemy Path 17
+32011,Old Lim Chu Kang Rd,S'pore Telecoms
+32019,Old Lim Chu Kang Rd,Opp S'pore Telecoms
+32021,Old Lim Chu Kang Rd,Bef Lim Chu Kang Rd
+32029,Old Lim Chu Kang Rd,Aft Lim Chu Kang Rd
+32031,Lim Chu Kang Rd,Opp Ama Keng Rd
+32039,Lim Chu Kang Rd,Aft Ama Keng Rd
+32041,Lim Chu Kang Rd,Opp LP 160
+32049,Lim Chu Kang Rd,Aft LP 161
+32051,Lim Chu Kang Rd,Aft Track 11
+32059,Lim Chu Kang Rd,Opp Track 11
+32061,Lim Chu Kang Rd,Opp LP 173
+32069,Lim Chu Kang Rd,B26 Lim Chu Kang Rd
+32071,Lim Chu Kang Rd,Aft Track 13
+32079,Lim Chu Kang Rd,Opp Track 13
+32081,Lim Chu Kang Rd,Sg Gedong Camp
+32089,Lim Chu Kang Rd,Aft Sg Gedong Camp
+33011,Lim Chu Kang Rd,B19 Lim Chu Kang Rd
+33019,Lim Chu Kang Rd,B20 Lim Chu Kang Rd
+33021,Lim Chu Kang Rd,Opp Neo Tiew Rd
+33029,Lim Chu Kang Rd,Aft Neo Tiew Rd
+33031,Lim Chu Kang Rd,Aft Jln Bahtera
+33039,Lim Chu Kang Rd,Opp Jln Bahtera
+33041,Lim Chu Kang Rd,Opp Lim Chu Kang Lane 3
+33049,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 3
+33051,Lim Chu Kang Rd,Bef Lim Chu Kang Lane 3A
+33059,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 3A
+34009,Lim Chu Kang Rd,Lim Chu Kang Ter
+34011,Lim Chu Kang Rd,Opp Lim Chu Kang Lane 4
+34019,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 4
+34021,Lim Chu Kang Rd,Opp Lim Chu Kang Lane 5
+34029,Lim Chu Kang Rd,Bef Lim Chu Kang Lane 5
+34031,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 6
+34039,Lim Chu Kang Rd,Bef Lim Chu Kang Lane 6
+34041,Lim Chu Kang Rd,B03 Lim Chu Kang Rd
+34049,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 8
+34051,Lim Chu Kang Rd,Aft Lim Chu Kang Lane 8
+34059,Lim Chu Kang Rd,Yishun Dairy Farm
+34101,Lor Rusuk,Aft Old Lim Chu Kang Rd
+34109,Lor Rusuk,Aft Lim Chu Kang Rd
+32101,Lim Chu Kang Rd,Aft Murai Farmway
+32109,Lim Chu Kang Rd, Bef Lor Serambi
+32111,Lim Chu Kang Rd,Aft LP 93
+32119,Lim Chu Kang Rd,Aft LP 96
+40011,Bt Timah Rd,Little India Stn
+40019,Bt Timah Rd,Little India Stn
+40021,Bt Timah Rd,Aft POSBank
+40029,Bt Timah Rd,Aft Makepeace Rd
+40031,Bt Timah Rd,Newton FC
+40039,Bt Timah Rd,Opp Newton FC
+40041,Bt Timah Rd,Aft Newton Circus
+40049,Dunearn Rd,Bef Newton Circus
+40051,Bt Timah Rd,Balmoral Plaza
+40059,Dunearn Rd,Chancery Ct
+40069,Dunearn Rd,Anglo-Chinese Sch
+40071,Bt Timah Rd,Leng Kwang Baptist Ch
+40079,Dunearn Rd,Chinese Intl Sch
+40081,Bt Timah Rd,Opp SCGS
+40089,Dunearn Rd,SCGS
+40091,Bt Timah Rd,Bef Lewis Rd 
+40099,Dunearn Rd,Copthorne Orchid Hotel
+40101,Kg Java Rd,KK Women & Child Hosp
+40109,Kg Java Rd,Opp KK Women & Child Hosp
+40111,Bt Timah Rd,City Twrs
+40119,Dunearn Rd,Bef Goldhill Ave
+40121,Newton Rd,Opp Newton Life Ch
+40129,Newton Rd,Newton Life Ch
+40171,Scotts Rd,Opp Env Bldg
+40179,Scotts Rd,Env Bldg
+40181,Scotts Rd,Newton Stn
+40189,Scotts Rd,Newton Stn
+40191,Stevens Rd,Raffles Girls' Sch
+40199,Stevens Rd,Opp Raffles Girls' Sch
+40201,Stevens Rd,Chelsea Gdn Condo
+40209,Stevens Rd,The Pines
+40211,Stevens Rd,Opp Met YMCA
+40219,Stevens Rd,Bef Met YMCA
+40221,Stevens Rd,Opp Stevens Ct
+40229,Stevens Rd,Stevens Ct
+40231,Whitley Rd,Raffles Town Club
+40239,Whitley Rd,Aft Tanglin CC
+40249,Whitley Rd,St. Joseph's Inst
+40251,Lornie Rd,Aft Wallace Way
+40259,Lornie Rd,Bef Wallace Way
+40261,Lornie Rd,LP 52
+40269,Lornie Rd,LP 57
+40271,Bt Timah Rd,Opp KK Women & Child Hosp
+40279,Bt Timah Rd,KK Women & Child Hosp
+41011,Bt Timah Rd,NUS
+41019,Dunearn Rd,Aft Kheam Hock Rd
+41021,Bt Timah Rd,Botanic Gdns Stn
+41029,Dunearn Rd,Aft College Green
+41031,Bt Timah Rd,Bef Crown Ctr
+41041,Bt Timah Rd,Coronation Plaza
+41049,Dunearn Rd,Opp Coronation Plaza
+41051,Bt Timah Rd,Hwa Chong JC
+41061,Bt Timah Rd,Chinese High Sch
+41069,Dunearn Rd,Opp Chinese High Sch
+41071,Bt Timah Rd,Opp Natl JC
+41079,Dunearn Rd,Natl JC
+41081,Bt Timah Rd,Aft Third Ave
+41089,Dunearn Rd,Aft Jln Naga Sari
+41101,Farrer Rd,St. Margaret's Sec Sch
+41109,Farrer Rd,Opp St. Margaret's Sec Sch
+41111,Farrer Rd,Lutheran Twrs
+41119,Farrer Rd,Opp Lutheran Twrs
+41121,Adam Rd,S'pore Bible College
+41129,Adam Rd,Opp S'pore Bible College
+41131,Adam Rd,Opp The Japanese Assn
+41139,Adam Rd,Aft The Japanese Assn
+41141,Adam Rd,Bef SICC
+41149,Adam Rd,Opp SICC
+41151,Lornie Rd,Aft SICC
+41159,Lornie Rd,Aft Lornie Walk
+42011,Bt Timah Rd,Sixth Ave Ctr
+42019,Dunearn Rd,Opp Sixth Ave Ctr
+42021,Bt Timah Rd,Aft Maple Ave
+42029,Dunearn Rd,Aft Swiss Club Rd
+42031,Bt Timah Rd,The Tessarina
+42039,Dunearn Rd,Opp The Nexus
+42041,Bt Timah Rd,The Nexus
+42049,Dunearn Rd,Hua Guan Gdn
+42051,Bt Timah Rd,The Sterling 
+42059,Dunearn Rd,Aft Rifle Range Rd
+42061,Bt Timah Rd,King Albert Pk
+42071,Upp Bt Timah Rd,Shell Kiosk
+42089,Jln Anak Bt,Opp Bt Timah Plaza
+42091,Upp Bt Timah Rd,Opp Bt Timah Shop Ctr
+42109,Jln Anak Bt,Opp Beauty World Ctr
+42111,Upp Bt Timah Rd,Aft Ct Bt Timah
+42119,Upp Bt Timah Rd,Southaven II
+42129,Sixth Ave,Sixth Ave Ville
+42131,Sixth Ave,Aft Lantana Ave
+42139,Sixth Ave,Avenue Villa
+42141,Clementi Rd,Opp King Albert Pk
+42149,Clementi Rd,Aft King Albert Pk
+42151,Jln Jurong Kechil,Aft Upp Bt Timah Rd
+42159,Jln Jurong Kechil,Bef Upp Bt Timah Rd
+42161,Jln Jurong Kechil,Blk 18
+42169,Jln Jurong Kechil,Opp Blk 19
+42171,Jln Jurong Kechil,Signature Pk Condo
+42179,Jln Jurong Kechil,Opp Rainbow Gdns
+42181,Jln Jurong Kechil,Grand Chateau
+42189,Jln Jurong Kechil,Opp Grand Chateau
+42191,Jln Jurong Kechil,Bef Bt Batok East Ave 6
+42199,Jln Jurong Kechil,Aft Bt Batok East Ave 6
+42201,Toh Tuck Rd,Bef Toh Tuck Rise
+42209,Toh Tuck Rd,Aft Toh Tuck Rise
+42211,Toh Tuck Rd,Highgate Condo
+42219,Toh Tuck Rd,Opp Highgate Condo
+42221,Toh Tuck Rd,Good Luck Gdn
+42229,Toh Tuck Rd,Aft Toh Tuck Terr
+42231,Toh Tuck Rd,Opp Canadian Intl Sch
+42239,Toh Tuck Rd,Green Lodge Mans
+42241,Lor Kismis,Aft Eng Kong Pl
+42249,Lor Kismis,Bef Eng Kong Pl
+42259,Jln Jurong Kechil,Goh & Goh Bldg
+42291,Toh Tuck Rise,Opp Toh Tuck Cres
+42299,Toh Tuck Rise,Aft Toh Tuck Cres
+42301,Toh Tuck Terr,Opp Hse No. 19
+42309,Toh Tuck Terr,Hse No. 45
+42311,Bt Batok East Ave 3,Opp Burgundy Hill
+42319,Bt Batok East Ave 3,Burgundy Hill
+42775,PIE,Express
+42776,PIE,Express
+42885,PIE,Express
+42886,PIE,Express
+42995,PIE,Express
+42996,PIE,Eng Neo Flyover
+43009,Bt Batok Ctrl,Bt Batok Int
+43011,Upp Bt Timah Rd,Bt Regency
+43019,Upp Bt Timah Rd,Aft Bt Timah Fire Stn
+43021,Upp Bt Timah Rd,Aft Old Jurong Rd
+43029,Upp Bt Timah Rd,Opp The Hillside
+43041,Upp Bt Timah Rd,Hume Pk Condo
+43049,Upp Bt Timah Rd,Opp Hume Pk Condo
+43051,Upp Bt Timah Rd,Opp The Rail Mall
+43059,Upp Bt Timah Rd,The Rail Mall
+43061,Upp Bt Timah Rd,Standard Chartered Bank
+43069,Upp Bt Timah Rd,Aft Dairy Farm Rd
+43071,Upp Bt Timah Rd,Opp Dairy Farm Rd
+43081,Upp Bt Timah Rd,Opp Assumption Eng Sch
+43089,Upp Bt Timah Rd,Aft Assumption Eng Sch
+43091,Upp Bt Timah Rd,Bef Cashew Rd
+43099,Upp Bt Timah Rd,Assumption Pathway Sch
+43109,Upp Bt Timah Rd,Opp Min of Defence
+43111,Upp Bt Timah Rd,Min of Defence
+43119,Upp Bt Timah Rd,Bef Hazel Pk Terr
+43121,Cashew Rd,Aft Cashew Terr
+43129,Cashew Rd,Cashew Pk Condo
+43131,Cashew Rd,Bt Panjang Pr Sch
+43139,Cashew Rd,Opp Bt Panjang Pr Sch
+43151,Hillview Ave,Opp Glendale Pk Condo
+43159,Hillview Ave,Bef Glendale Pk Condo
+43161,Bt Batok East Ave 4,Blk 272
+43169,Bt Batok East Ave 4,Blk 254
+43171,Bt Batok East Ave 3,Blk 229
+43179,Bt Batok East Ave 3,Blk 231
+43181,Bt Batok East Ave 3,Keming Pr Sch
+43189,Bt Batok East Ave 3,Blk 283
+43191,Bt Batok East Ave 6,Blk 288C
+43199,Bt Batok East Ave 6,Ch of St. Mary
+43201,Bt Batok East Ave 6,Opp Autobacs
+43209,Bt Batok East Ave 6,Autobacs
+43211,Bt Batok St 23,SBS Transit West District
+43219,Bt Batok St 23,Opp SBS Transit West District
+43221,Bt Batok East Ave 2,Blk 267
+43229,Bt Batok East Ave 2,Opp Blk 266
+43231,Hillview Ave,Opp The Petals Condo
+43239,Hillview Ave,The Petals Condo
+43241,Hillview Ave,Opp Hillview Apts
+43249,Hillview Ave,Hillview Apts
+43251,Hillview Ave,Hillbrooks
+43259,Hillview Ave,Opp Hillbrooks
+43261,Hillview Ave,Opp Hillview Hts
+43267,Hillview Ave,Hillview Hts
+43268,Hillview Ave,Hillington Green Condo
+43271,Hillview Rd,Glendale Pk Condo
+43279,Hillview Rd,Opp Glendale Pk Condo
+43289,Jln Remaja,Hillview Hse
+43291,Jln Batu Nilam,Aft Jln Remaja
+43301,Jln Batu Nilam,Opp Hillbrooks
+43309,Jln Batu Nilam,Hillbrooks
+43311,Bt Batok St 23,Midview Bldg
+43319,Bt Batok St 23,Opp Midview Bldg
+43321,Bt Batok West Ave 6,Opp Blk 144
+43329,Bt Batok West Ave 6,Blk 146
+43331,Bt Batok St 11,Opp Bt Batok Presby Ch
+43341,Bt Batok West Ave 3,Princess E Pr Sch
+43349,Bt Batok West Ave 3,Opp Princess E Pr Sch
+43351,Bt Batok West Ave 8,Blk 168
+43361,Bt Batok West Ave 8,Blk 154A
+43371,Bt Batok West Ave 6,Blk 109
+43379,Bt Batok West Ave 6,Blk 185
+43381,Bt Batok Ave 1,Blk 102
+43389,Bt Batok Ave 1,Opp Blk 102
+43391,Bt Batok Ctrl,Bt Batok CC
+43399,Bt Batok Ctrl,Opp Blk 120
+43401,Bt Batok West Ave 3,Bt Batok Polyclinic
+43409,Bt Batok West Ave 3,Opp Blk 127
+43411,Bt Batok Ctrl,Opp Blk 628
+43419,Bt Batok Ctrl,Blk 628
+43421,Bt Batok East Ave 2,Blk 503
+43429,Bt Batok East Ave 2,Blk 240
+43431,Bt Batok East Ave 2,Opp Blk 242
+43439,Bt Batok East Ave 2,Blk 242
+43441,Bt Batok East Ave 2,Opp Blk 258
+43449,Bt Batok East Ave 2,Blk 258
+43451,Bt Batok Rd,Bef PIE
+43459,Bt Batok Rd,Aft PIE
+43461,Bt Batok West Ave 2,Aft Bt Batok West Ave 5
+43469,Bt Batok West Ave 2,Bef Bt Batok West Ave 5
+43471,Bt Batok West Ave 2,Blk 306
+43479,Bt Batok West Ave 2,Opp Blk 305
+43481,Bt Batok West Ave 2,Blk 315
+43489,Bt Batok West Ave 2,Opp Blk 315
+43491,Bt Batok West Ave 4,Blk 331
+43499,Bt Batok West Ave 4,Blk 419
+43501,Bt Batok St 23,Opp Blk 291E
+43509,Bt Batok St 23,Blk 291E
+43511,Bt Batok East Ave 6,Bt Batok Swim Cplx
+43519,Bt Batok East Ave 6,Opp Bt Batok Swim Cplx
+43521,Bt Batok West Ave 5,Bt Batok Driving Ctr
+43529,Bt Batok West Ave 5,Opp Bt Batok Driving Ctr
+43531,Bt Batok West Ave 3,Blk 140
+43539,Bt Batok West Ave 3,Opp Blk 140
+43541,Bt Batok East Ave 5,Blk 510
+43549,Bt Batok East Ave 5,Regent Hts
+43561,Bt Batok East Ave 5,Opp Bt Gombak Stadium
+43569,Bt Batok East Ave 5,Bt Gombak Stadium
+43571,Bt Batok West Ave 5,Opp Bt Gombak Stn
+43579,Bt Batok West Ave 5,Bt Gombak Stn
+43581,Bt Batok West Ave 5,Blk 347
+43589,Bt Batok West Ave 5,Opp Blk 347
+43591,Bt Batok East Ave 6,Opp Bt View Sec Sch
+43599,Bt Batok East Ave 6,Bt View Sec Sch
+43601,Bt Batok West Ave 5,Opp Blk 532
+43609,Bt Batok West Ave 5,Blk 531
+43611,Bt Batok East Ave 3,Blk 290H
+43619,Bt Batok East Ave 3,Blk 289E
+43621,Bt Batok East Ave 3,Opp Parkview Apts
+43629,Bt Batok East Ave 3,Yusof Ishak Sec Sch
+43631,Old Jurong Rd,YWMA Kindergarten
+43639,Old Jurong Rd,Opp YWMA Kindergarten
+43641,Bt Batok West Ave 7,Opp HomeTeamNS
+43649,Bt Batok West Ave 7,HomeTeamNS
+43659,Bt Batok St 34,St. Anthony's Pr Sch
+43669,Bt Batok West Ave 7,Blk 406
+43671,Bt Batok Rd,Opp Dunearn Sec Sch
+43679,Bt Batok Rd,Blk 402
+43681,Bt Batok West Ave 2,Bt Batok Home for The Aged
+43691,Bt Batok Ave 1,Blk 190
+43699,Bt Batok Ave 1,Blk 298
+43701,Bt Batok Ctrl,Blk 225
+43709,Bt Batok Ctrl,Blk 644
+43719,Gombak Dr,MINDEF CP
+43721,Gombak Dr,Blk 319
+43731,Bt Batok St 21,ITE Bt Batok 
+43739,Bt Batok St 21,Opp ITE Bt Batok 
+43741,Bt Batok St 21,Bt View Sec Sch
+43749,Bt Batok St 21,Opp Bt View Sec Sch
+43751,Bt Batok Rd,Aft LP 56
+43759,Bt Batok Rd,Aft LP 59
+43761,Bt Batok Rd,Aft LP 32
+43769,Bt Batok Rd,Aft LP 37
+43771,Bt Batok Rd,Aft LP 100
+43779,Bt Batok Rd,Aft Bt Batok West Ave 2
+43781,Bt Batok Rd,Aft LP 74
+43789,Bt Batok Rd,Aft LP 83
+43801,Bt Batok St 52,Bet Blks 536/537
+43809,Bt Batok St 52,Blk 514
+43811,Hume Ave,Bef Summerhill
+43819,Hume Ave,Hillview Green
+43821,Hume Ave,Opp Symphony Hts
+43829,Hume Ave,Symphony Hts
+43831,Bt Batok West Ave 7,Blk 334
+43839,Bt Batok West Ave 7,Opp Blk 336
+43841,Bt Batok St 33,Blk 324
+43859,Dairy Farm Cres,Opp Dairy Farm Est Sth Gate
+43869,Dairy Farm Cres,Bef Dairy Farm Est Nth Gate
+43879,Chestnut Dr,Opp Hse No. 42
+43889,Chestnut Ave,Aft Chestnut Dr
+44009,Choa Chu Kang Loop,Choa Chu Kang Int
+44011,Upp Bt Timah Rd,Opp The Linear
+44019,Upp Bt Timah Rd,The Linear
+44021,Upp Bt Timah Rd,Sri Murugan Hill Tp
+44029,Upp Bt Timah Rd,Aft Blk 185A
+44041,Woodlands Rd,Ten Mile Junction Stn
+44049,Woodlands Rd,Opp Ten Mile Junction Stn
+44051,Woodlands Rd,Aft Heavy Veh Pk
+44059,Woodlands Rd,Opp Heavy Veh Pk
+44061,Woodlands Rd,Bef Yew Tee Flyover
+44069,Woodlands Rd,Aft KJE Slip Rd
+44071,Choa Chu Kang Ave 3,Blk 464
+44079,Choa Chu Kang Ave 3,Opp Blk 464
+44081,Choa Chu Kang Ave 1,Blk 296A
+44089,Choa Chu Kang Ave 1,Opp Blk 296A
+44091,Choa Chu Kang Ave 1,Opp Former Keat Hong Camp
+44099,Choa Chu Kang Ave 1,Former Keat Hong Camp
+44101,Choa Chu Kang Ave 1,Aft Hong San Terr
+44109,Choa Chu Kang Ave 1,Opp Hong San Terr
+44111,Choa Chu Kang Ave 1,Opp Blk 203
+44119,Choa Chu Kang Ave 1,Blk 204
+44121,Choa Chu Kang Way,Blk 113
+44129,Choa Chu Kang Way,Opp Blk 113
+44131,Choa Chu Kang Rd,Blk 26
+44139,Choa Chu Kang Rd,Opp Blk 26
+44141,Choa Chu Kang Rd,Phoenix Stn
+44149,Choa Chu Kang Rd,Opp Phoenix Stn
+44151,Bt Batok Rd,Opp Bt Batok Fire Stn
+44159,Bt Batok Rd,Bt Batok Fire Stn
+44161,Bt Batok Rd,Aft Bt Batok West Ave 5
+44169,Bt Batok Rd,Bef Bt Batok West Ave 5
+44171,Bt Batok Rd,Bef Bt Batok West Ave 5
+44179,Bt Batok Rd,Aft Bt Batok West Ave 5
+44191,Gangsa Rd,Opp Blk 171
+44199,Gangsa Rd,Blk 171
+44201,Petir Rd,Aft Petir Stn
+44209,Petir Rd,Opp Petir Stn
+44211,Petir Rd,Blk 127
+44219,Petir Rd,Bet Blks 139/140
+44221,Pending Rd,Opp Pending Stn
+44229,Pending Rd,Bef Pending Stn
+44231,Bt Panjang Rd,Zhenghua Pr Sch
+44239,Bt Panjang Rd,Opp Zhenghua Pr Sch
+44241,Bt Panjang Rd,Opp Lompang Rd
+44249,Bt Panjang Rd,Blk 174
+44251,Bt Panjang Rd,Blk 604
+44259,Bt Panjang Rd,Blk 183
+44261,Bt Panjang Rd,Blk 270
+44269,Bt Panjang Rd,Blk 223
+44271,Teck Whye Ave,Bet Blks 13/14
+44279,Teck Whye Ave,Blk 157
+44281,Teck Whye Ave,Blk 8
+44289,Teck Whye Ave,Blk 6
+44291,Teck Whye Ave,Opp Choa Chu Kang Polyclinic
+44299,Teck Whye Ave,Choa Chu Kang Polyclinic
+44301,Bangkit Rd,Opp Blk 271
+44311,Bangkit Rd,Opp Blk 253
+44321,Bt Panjang Ring Rd,Opp Bangkit Stn
+44329,Bt Panjang Ring Rd,Bangkit Stn
+44331,Fajar Rd,Blk 239
+44341,Fajar Rd,Blk 401A CP
+44351,Petir Rd,Aft Chestnut Ave
+44359,Petir Rd,Bef Chestnut Ave
+44361,Petir Rd,Bef Dairy Farm Rd
+44369,Petir Rd,Aft Dairy Farm Rd
+44371,Petir Rd,Blk 219
+44379,Petir Rd,Opp Blk 219
+44381,Petir Rd,Blk 202
+44389,Petir Rd,Opp Blk 201
+44391,Choa Chu Kang Dr,Aft Blk 202
+44399,Choa Chu Kang Dr,Opp Blk 210
+44409,Teck Whye Lane,Opp Blk 118
+44411,Teck Whye Lane,Blk 108
+44421,Teck Whye Lane,Blk 25
+44439,Teck Whye Lane,Blk 9
+44441,Choa Chu Kang Way,Blk 239
+44449,Choa Chu Kang Way,Opp Blks 237/239
+44451,Choa Chu Kang Way,Blk 224
+44459,Choa Chu Kang Way,Blk 277
+44461,Choa Chu Kang Way,Blk 352
+44469,Choa Chu Kang Way,Blk 414
+44471,Choa Chu Kang Ctrl,Blk 234
+44479,Choa Chu Kang Ctrl,Blk 206
+44481,Choa Chu Kang Ctrl,Blk 223
+44489,Choa Chu Kang Ctrl,Blk 220
+44491,Choa Chu Kang Ave 4,Bet Blks 416/417
+44499,Choa Chu Kang Ave 4,Blk 429A CP
+44501,Choa Chu Kang Ave 4,Blk 426
+44509,Choa Chu Kang Ave 4,Blk 442
+44511,Choa Chu Kang Ave 3,Blk 289
+44519,Choa Chu Kang Ave 3,Blk 402
+44521,Choa Chu Kang Ave 3,Blk 280
+44529,Choa Chu Kang Ave 3,Blk 410
+44531,Choa Chu Kang Ave 4,Opp Choa Chu Kang Stn
+44539,Choa Chu Kang Ave 4,Lot 1 Shoppers' Mall
+44541,Choa Chu Kang Dr,Northvale Condo
+44549,Choa Chu Kang Dr,Opp Northvale Condo
+44551,Choa Chu Kang Ave 5,Blk 486
+44559,Choa Chu Kang Ave 5,Blk 483
+44569,Choa Chu Kang Ave 2,Blk 295
+44579,Choa Chu Kang Ave 2,Aft Blk 272
+44601,Saujana Rd,Blk 413
+44609,Saujana Rd,Blk 408
+44611,Jelapang Rd,Blk 516
+44619,Jelapang Rd,Blk 506
+44621,Choa Chu Kang Ave 4,Opp Concord Pr Sch
+44629,Choa Chu Kang Ave 4,Blk 457
+44631,Jelebu Rd,Opp Bt Panjang Plaza
+44639,Jelebu Rd,Bt Panjang Plaza
+44641,Bt Panjang Ring Rd,Blk 602
+44649,Bt Panjang Ring Rd,Blk 541A CP
+44651,Bt Panjang Ring Rd,Blk 617
+44659,Bt Panjang Ring Rd,Blk 537A CP
+44661,Jelapang Rd,Blk 532
+44669,Jelapang Rd,Opp Blk 532
+44671,Saujana Rd,Bet Blks 502/503
+44679,Saujana Rd,Opp Blk 502
+44689,Choa Chu Kang Ave 3,Sunshine Pl
+44691,Segar Rd,Bef Blk 484
+44699,Segar Rd,Opp Blk 484
+44701,Bt Panjang Ring Rd,Bet Blks 451/452
+44711,Bt Panjang Ring Rd,Express
+44771,Fajar Rd,Fajar Stn
+44779,Fajar Rd,Opp Fajar Stn
+44791,Senja Rd,West View Pr Sch
+44799,Senja Rd,Blk 610
+44801,Senja Rd,Opp Blk 628
+44809,Senja Rd,Blk 628
+44811,Senja Rd,West Spring Sec Sch
+44819,Senja Rd,Opp West Spring Sec Sch
+44821,Senja Link,Blk 651
+44829,Senja Link,Opp Blk 650
+44859,Petir Rd,Maysprings Condo
+45008,Petir Rd,Bt Panjang Int
+45009,Petir Rd,Bt Panjang Int
+45011,Woodlands Rd,Aft Yew Tee Flyover
+45019,Woodlands Rd,Aft Yew Tee Flyover
+45021,Woodlands Rd,Heavy Veh Pk
+45029,Woodlands Rd,Opp Heavy Veh Pk
+45031,Woodlands Rd,Yew Tee Ind Est
+45039,Woodlands Rd,Opp Yew Tee Ind Est
+45041,Woodlands Rd,Thong Huat Bros Pte Ltd 
+45049,Woodlands Rd,Opp Yew Tee Ind Est Blk 1
+45051,Woodlands Rd,Digiland
+45059,Woodlands Rd,Opp Digiland
+45061,Woodlands Rd,Opp Mandai Est
+45069,Woodlands Rd,Aft Mandai Est
+45071,Woodlands Rd,Bef Mandai Rd
+45079,Woodlands Rd,Aft Mandai Rd
+45081,Woodlands Rd,Opp Mandai Rd
+45091,Woodlands Rd,Opp Jln Bumbong
+45099,Woodlands Rd,Aft Jln Bumbong
+45101,Woodlands Rd,Aft LP 234
+45109,Woodlands Rd,Bef Jln Bumbong
+45111,Woodlands Rd,Opp Kranji War Memorial
+45119,Woodlands Rd,Kranji War Memorial
+45121,Woodlands Rd,Opp S'pore Turf Club
+45129,Woodlands Rd,S'pore Turf Club
+45131,Woodlands Rd,Opp Kranji Stn
+45139,Woodlands Rd,Kranji Stn
+45141,Kranji Rd,Aft Woodlands Rd
+45149,Kranji Rd,Bef Woodlands Rd
+45151,Sg Kadut Ave,Opp Multistates Trading
+45159,Sg Kadut Ave,Multistates Trading
+45161,Sg Kadut Ave,Opp Hiap Hin
+45169,Sg Kadut Ave,Hiap Hin
+45171,Sg Kadut Ave,Aft Railway Crossing
+45179,Sg Kadut Ave,Bef Railway Crossing
+45181,Mandai Rd,Opp Mandai CD Trg Village
+45189,Mandai Rd,Mandai CD Trg Village
+45191,Mandai Rd,Opp Mandai Police Trg Camp
+45199,Mandai Rd,Mandai Police Trg Camp
+45201,Mandai Rd,Opp Police Tactical Trg Camp
+45209,Mandai Rd,Police Tactical Trg Camp
+45211,Mandai Rd,Bef BKE
+45221,Mandai Rd,Aft Woodlands Rd
+45229,Mandai Rd,Bef Woodlands Rd
+45231,Choa Chu Kang Way,Blk 432
+45239,Choa Chu Kang Way,Bet Blks 306/307
+45241,Choa Chu Kang Way,Opp Blk 511A
+45249,Choa Chu Kang Way,Blk 511A
+45251,Choa Chu Kang Way,Opp Kranji Sec Sch
+45259,Choa Chu Kang Way,Blk 523
+45261,Choa Chu Kang St 52,Blk 551
+45269,Choa Chu Kang St 52,Blk 544
+45271,Choa Chu Kang St 52,Blk 560
+45279,Choa Chu Kang St 52,Blk 563
+45291,Choa Chu Kang Dr,Opp Blk 704
+45299,Choa Chu Kang Dr,Blk 702
+45301,Choa Chu Kang Nth 5,Blk 708
+45309,Choa Chu Kang Nth 5,Blk 754
+45311,Choa Chu Kang Nth 5,Blk 547
+45319,Choa Chu Kang Nth 5,Blk 530
+45321,Choa Chu Kang Dr,Yew Tee Stn
+45329,Choa Chu Kang Dr,Opp Yew Tee Stn
+45339,Choa Chu Kang St 62,Blk 625
+45349,Choa Chu Kang St 62,Opp Blk 604A
+45351,Choa Chu Kang Nth 6,Blk 634
+45359,Choa Chu Kang Nth 6,Blk 790
+45361,Choa Chu Kang Nth 5,Opp Blk 765
+45369,Choa Chu Kang Nth 5,Blk 765
+45371,Choa Chu Kang Nth 6,Opp Yew Mei Green Condo
+45379,Choa Chu Kang Nth 6,Yew Mei Green Condo
+45389,Choa Chu Kang Nth 7,Blk 619
+45399,Choa Chu Kang Nth 7,Regent Gr Condo
+45401,Choa Chu Kang Cres,Blk 681
+45411,Choa Chu Kang Cres,Opp Blk 670
+45421,Choa Chu Kang Cres,Opp Blk 666
+45439,Choa Chu Kang Cres,Opp Blk 661
+45441,Sg Kadut Dr,Opp Eng Hua Furniture Mfg Pte Ltd
+45449,Sg Kadut Dr,Eng Hua Furniture Mfg Pte Ltd
+45509,Choa Chu Kang Nth 7,Blk 613
+45519,Choa Chu Kang Way,Aft Blk 605
+45529,Choa Chu Kang Way,Blk 552
+46008,Woodlands Reg Ctr,Woodlands Reg Int
+46009,Woodlands Reg Ctr,Woodlands Reg Int
+46011,Marsiling Rd,Bef Woodlands Ctr Rd
+46019,Marsiling Rd,Aft Woodlands Ctr Rd
+46021,Woodlands Rd,Opp Woodlands Fire Stn                                                                              
+46029,Woodlands Rd,Aft Woodlands Fire Stn
+46031,Woodlands Rd,Aft Woodlands Ind Pk D
+46039,Woodlands Rd,Bef Woodlands Ind Pk D
+46041,Woodlands Rd,Opp Sri Arasakesari Tp
+46049,Woodlands Rd,Bef Sri Arasakesari Tp
+46051,Woodlands Rd,Opp Chartered Semi-C Bldg
+46059,Woodlands Rd,Chartered Semi-C Bldg
+46069,Woodlands Ctr Rd,Woodlands Train Checkpt
+46071,Marsiling Rd,Blk 137
+46079,Marsiling Rd,Opp Blk 137
+46088,Woodlands Ctr Rd,Opp Blk 1A
+46091,Woodlands Ctr Rd,Woodlands Town Gdn
+46101,Woodlands Crossing,Woodlands Checkpt
+46109,Woodlands Crossing,Woodlands Checkpt 
+46111,Admiralty Rd,Blk 23
+46119,Admiralty Rd,Marsiling CC
+46121,Admiralty Rd,Opp Hawker Ctr
+46129,Admiralty Rd,Hawker Ctr
+46131,Admiralty Rd,Aft Marsiling Lane
+46139,Admiralty Rd,Aft Riverside Rd
+46141,Marsiling Dr,Blk 32
+46149,Marsiling Dr,Blk 203
+46151,Marsiling Lane,Blk 212
+46159,Marsiling Lane,Blk 206
+46161,Marsiling Lane,GES S'pore
+46169,Marsiling Lane,Si Ling Sec Sch
+46171,Marsiling Lane,Opp Blk 19
+46179,Marsiling Lane,Blk 18
+46181,Marsiling Rd,Opp Blk 12
+46189,Marsiling Rd,Blk 12
+46191,Marsiling Rise,Opp Blk 120
+46199,Marsiling Rise,Blk 120
+46201,Marsiling Dr,Blk 10
+46209,Marsiling Dr,Blk 2
+46211,Johor Bahru,Johor Bahru Checkpt
+46219,Johor Bahru,Johor Bahru Checkpt
+46221,Woodlands Ave 2,Innova JC
+46229,Woodlands Ave 2,Opp Innova JC
+46239,Jln Datin Halimah,Larkin Ter
+46241,Marsiling Lane,Opp Blk 15
+46249,Marsiling Lane,Blk 15
+46251,Woodlands St 81,Riverside Sec Sch
+46261,Woodlands Ave 9,Blk 808
+46269,Woodlands Ave 9,Republic Polytechnic
+46271,Woodlands Ave 2,Opp Blk 802
+46279,Woodlands Ave 2,Blk 803
+46281,Woodlands Ave 7,Blk 825
+46289,Woodlands Ave 7,Blk 891C CP
+46291,Woodlands Ave 5,Blk 106
+46299,Woodlands Ave 5,Opp Blk 106
+46301,Riverside Rd,HLH Tyre & Battery
+46309,Riverside Rd,Opp Pacific Vintex
+46311,Marsiling Rd,Blk 18
+46319,Marsiling Rd,Opp Blk 18
+46321,Woodlands Ave 5,Woodlands Civic Ctr
+46329,Woodlands Ave 5,Opp Woodlands Civic Ctr
+46331,Woodlands Ave 2,Blk 511
+46339,Woodlands Ave 2,Blk 370
+46341,Woodlands Ave 1,Rosewood
+46349,Woodlands Ave 1,Aft Blk 353
+46351,Woodlands Ave 1,Bef Woodgrove Condo
+46359,Woodlands Ave 1,Aft Blk 336
+46361,Woodlands St 41,Blk 425
+46369,Woodlands St 41,Blk 413
+46371,Woodlands St 41,Blk 406
+46379,Woodlands St 41,Blk 409
+46381,Woodlands Ave 3,Opp Tech
+46389,Woodlands Ave 3,Tech
+46391,Woodlands Ave 7,Blk 853
+46399,Woodlands Ave 7,Aft 888 Plaza
+46401,Woodlands Ave 4,Blk 864
+46409,Woodlands Ave 4,Blk 701A CP
+46411,Woodlands Ave 4,Evergreen Sec Sch
+46419,Woodlands Ave 4,Evergreen Pr Sch
+46421,Woodlands St 83,Evergreen Sec Sch
+46429,Woodlands St 83,Blk 856
+46431,Woodlands St 82,Blk 840
+46439,Woodlands St 82,Blk 880
+46441,Woodlands St 82,Blk 816
+46449,Woodlands St 82,Blk 875
+46451,Woodlands Ave 9,Opp Blk 872
+46459,Woodlands Ave 9,Blk 872
+46461,Woodlands Ave 9,Opp Blk 757A CP
+46469,Woodlands Ave 9,Blk 759
+46471,Woodlands Ave 9,Opp Blk 773
+46479,Woodlands Ave 9,Blk 774
+46481,Woodlands Ave 9,Aft Woodlands Ind Pk E6
+46489,Woodlands Ave 9,Aft Gambas Ave
+46491,Woodlands Ave 3,Blk 402
+46499,Woodlands Ave 3,Opp Blk 402
+46501,Woodlands Ctr Rd,Opp Woodlands Town Gdn
+46509,Woodlands Ctr Rd,Woodlands Town Gdn
+46511,Woodlands Ctr Rd,Marsiling Pr Sch
+46519,Woodlands Ctr Rd,Opp Blk 144
+46521,Woodlands Ave 3,Marsiling Stn
+46529,Woodlands Ave 3,Opp Marsiling Stn
+46531,Woodlands Ave 3,Blk 173
+46539,Woodlands Ave 3,Blk 320
+46541,Woodlands Ave 3,Opp Blk 347
+46549,Woodlands Ave 3,Blk 347
+46551,Woodlands St 13,Blk 101
+46559,Woodlands St 13,Opp Blk 101
+46561,Woodlands St 13,Opp Blk 178
+46569,Woodlands St 13,Blk 178
+46571,Woodlands St 13,Opp Blk 154
+46579,Woodlands St 13,Blk 154
+46581,Woodlands St 13,Opp Blk 146
+46589,Woodlands St 13,Blk 146
+46591,Woodlands Ave 1,Blk 303
+46609,Jln Trus,Kotaraya II Ter
+46611,Woodlands Ave 1,Fuchun Sec Sch
+46619,Woodlands Ave 1,Opp Fuchun Sec Sch
+46621,Woodlands Ave 1,Blk 335
+46629,Woodlands Ave 1,The Woodgrove
+46631,Woodlands Ave 2,Blk 892C CP
+46639,Woodlands Ave 2,Opp Blk 892C CP
+46641,Woodlands Ave 5,Blk 894C
+46649,Woodlands Ave 5,Blk 515
+46651,Woodlands Ave 4,Blk 550
+46659,Woodlands Ave 4,Opp Blk 550
+46661,Woodlands Dr 50,Opp Blk 896B
+46669,Woodlands Dr 50,Woodlands Pr Sch
+46671,Woodlands Dr 50,Bef 888 Plaza
+46679,Woodlands Dr 50,Opp 888 Plaza
+46681,Woodlands Ave 4,Blk 899A
+46689,Woodlands Ave 4,Blk 609
+46691,Woodlands Ave 4,Opp 888 Plaza
+46699,Woodlands Ave 4,888 Plaza
+46709,Marsiling Dr,Aft Blk 1
+46711,Woodlands Ave 8,Bef Admiralty Rd West
+46719,Woodlands Ave 8,Givaudan S'pore
+46721,Woodlands Ave 8,Opp Pacific Vinitex
+46729,Woodlands Ave 8,Pacific Vinitex
+46731,Gambas Ave,Yew Huat Scaffolding Work
+46739,Gambas Ave,Opp Yew Huat Scaffolding Work
+46741,Gambas Ave,Seagate
+46749,Gambas Ave,Opp Seagate
+46761,Woodlands Ave 7,Blk 706
+46769,Woodlands Ave 7,Blk 666
+46771,Woodlands Ave 7,Opp Admiralty Stn
+46779,Woodlands Ave 7,Admiralty Stn
+46781,Woodlands Ave 6,Bef Admiralty Pr Sch
+46789,Woodlands Ave 6,Opp Admiralty Pr Sch
+46791,Woodlands Ave 6,Blk 722
+46799,Woodlands Ave 6,Blk 786A CP
+46801,Woodlands Ave 6,Aft Woodlands Mart
+46809,Woodlands Ave 6,Opp Woodlands Mart
+46811,Woodlands Circle,Blk 726
+46821,Woodlands Circle,Blk 713
+46831,Woodlands Circle,Blk 747A CP
+46841,Woodlands Circle,Opp Blk 739A CP
+46851,Woodlands Ring Rd,Blk 664
+46859,Woodlands Ring Rd,Blk 608A
+46861,Woodlands Ring Rd,Opp Blk 624B
+46869,Woodlands Ring Rd,Blk 628A
+46871,Woodlands Ring Rd,Blk 644
+46879,Woodlands Ring Rd,Blk 637
+46881,Woodlands Loop,Old Chang Kee Bldg
+46891,Woodlands Loop,Jordon Food Ind
+46901,Woodlands Loop,Blk 15
+46911,Woodlands Loop,Opp Blk 20
+46921,Woodlands Link,Opp Blk 22
+46931,Woodlands Ave 9,Anixter Bldg
+46941,Woodlands Ave 9,Opp Nylect Engrg
+46951,Woodlands Dr 14,Blk 536A
+46969,Woodlands Ave 4,Blk 532
+46971,Woodlands Ave 1,Woodgrove Pr Sch
+46979,Woodlands Ave 1,Opp Blk 507
+46981,Woodlands Ave 1,Blk 541
+46989,Woodlands Ave 1,Opp Blk 540
+46999,Woodlands Ave 1,Opp Blk 589
+47011,Admiralty Rd,Bef R.M.N. Barracks
+47019,Admiralty Rd,Aft R.M.N. Barracks
+47021,Admiralty Rd West,Khalsa Cres Drug Rehab Ctr
+47029,Admiralty Rd West,Opp Khalsa Cres Drug Rehab Ctr
+47031,Admiralty Rd West,Bef Keramat Rd
+47039,Admiralty Rd West,Aft View Rd
+47041,Admiralty Rd West,Opp Woodlands Auto Hub
+47049,Admiralty Rd West,Woodlands Auto Hub
+47051,Admiralty Rd West,IM Flash S'pore
+47059,Admiralty Rd West,Opp IM Flash S'pore
+47061,Admiralty Rd West,Aft Attap Valley Rd
+47069,Admiralty Rd West,Nth Tech
+47071,Admiralty Rd West,Bef British American Tobacco
+47079,Admiralty Rd West,Opp British American Tobacco
+47081,Senoko Rd,Packages Pte Ltd
+47089,Senoko Rd,Aft Senoko Dr
+47091,Senoko Dr,Aft Senoko Rd
+47099,Senoko Dr,Gold Kit
+47101,Senoko Dr,Opp Garment Process
+47109,Senoko Dr,Lian Beng Engrg
+47111,Senoko Ave,Bef Senoko Way
+47119,Senoko Ave,Aft Senoko Way
+47121,Senoko Rd,Opp Lian Aik Siong Machinery
+47129,Senoko Rd,Lian Aik Siong Machinery
+47131,Senoko Rd,Opp Wan Tai Co
+47141,Senoko Rd,Opp Hi-Tech Fibre Glass (S) Pte Ltd
+47151,Senoko Rd,Iplex Asia
+47169,Senoko Dr,Yee Lee Oils & Foodstuffs
+47179,Senoko Loop,Su Bros Tpt Svc
+47189,Senoko Loop,Print N Etch PCB
+47199,Senoko Loop,Aft Leaf Tobacco Devt Corp
+47501,Woodlands Dr 16,Opp Blk 583
+47511,Woodlands Dr 16,Blk 554
+47521,Woodlands Dr 16,Opp Blk 575
+47539,Woodlands Ave 6,Opp Woodgrove Sec Sch
+47541,Woodlands Ave 6,Blk 639
+47549,Woodlands Ave 6,Opp Blk 639
+47551,Woodlands Ave 6,Blk 630
+47559,Woodlands Ave 6,Opp Blk 630
+47561,Woodlands Ave 5,Blk 620
+47569,Woodlands Ave 5,Opp Blk 620
+47571,Woodlands Ave 5,Blk 618
+47579,Woodlands Ave 5,Blk 556
+47581,Woodlands Ave 5,Opp Blk 521
+47589,Woodlands Ave 5,Blk 519A CP
+47591,Woodlands Ave 6,Blk 680
+47599,Woodlands Ave 6,Blk 683A
+47601,Woodlands Ave 7,Blk 793
+47609,Woodlands Ave 7,Opp Blk 793
+47611,Woodlands Ave 7,Woodsvale Condo
+47619,Woodlands Ave 7,Opp Woodsvale Condo
+47621,Woodlands Ave 7,Flextronics
+47629,Woodlands Ave 7,Seagate
+47639,Woodlands Ave 1,Blk 418
+47701,Jln Tun Abdul Razak,JB Sentral
+47801,Admiralty Rd West,Sunshine Bakery
+47809,Admiralty Rd West,Opp Sunshine Bakery
+47811,Admiralty Rd West,Woodlands Sunny Food
+47819,Admiralty Rd West,Opp Woodlands Sunny Food
+47821,Admiralty Rd West,Opp Sumitomo Bakelite S'pore
+47829,Admiralty Rd West,Sumitomo Bakelite S'pore
+48011,Mandai Rd,Opp Mandai Camp 2
+48019,Mandai Rd,Mandai Camp 2
+48021,Mandai Rd,Aft Mandai Lake Rd
+48029,Mandai Rd,Bef Mandai Lake Rd
+48031,Mandai Rd,LP 162
+48039,Mandai Rd,LP 159
+48041,Mandai Rd,Aft Jln Ulu Sembawang
+48049,Mandai Rd,LP 199
+48051,Mandai Rd,Mandai Agrotech Pk
+48059,Mandai Rd,Opp Mandai Agrotech Pk
+48061,Mandai Rd,Aft Lor Gambas
+48069,Mandai Rd,Opp Lor Gambas
+48071,Mandai Rd,Mandai Crematorium
+48079,Mandai Rd,Opp Mandai Crematorium
+48081,Mandai Rd,Opp Upp Seletar Reservoir
+48089,Mandai Rd,Upp Seletar Reservoir
+48091,Mandai Rd,SCDF Nee Soon Camp
+48099,Mandai Rd,Opp SCDF Nee Soon Camp
+48101,Mandai Rd,Aft Meng Suan Rd
+48109,Mandai Rd,Opp Meng Suan Rd
+48111,Mandai Lake Rd,Aft Mandai Rd
+48119,Mandai Lake Rd,Bef Mandai Rd
+48121,Mandai Lake Rd,Opp Mandai Orchid Gdn
+48129,Mandai Lake Rd,Mandai Orchid Gdn
+48131,Mandai Lake Rd,S'pore Zoological Gdns
+48141,Mandai Ave,Opp Mandai Crematorium & Columbarium
+48149,Mandai Ave,Mandai Crematorium & Columbarium
+49011,Sg Kadut St 1,Tan Chiang Bros Marble
+49019,Sg Kadut St 1,Eursa Furniture Co
+49021,Sg Kadut St 1,Whye Hup Contractor Furniture
+49029,Sg Kadut St 1,Ong Beng Huat Contractor
+49031,Sg Kadut St 1,Crown Alliance Marketing Ltd
+49039,Sg Kadut St 1,Asia Rattan Trading Co
+49041,Sg Kadut St 1,Yip Wing Fatt Sawmill
+49049,Sg Kadut St 1,Sim Hup Co
+49051,Sg Kadut St 1,Aft Sg Kadut Eating Hse
+49059,Sg Kadut St 1,Aft HL Cement Pte Ltd
+49061,Sg Kadut St 1,Opp Poh Cheong Concrete Products
+49069,Sg Kadut St 1,Tropical Furniture Ltd
+49071,Sg Kadut Dr,Opp Wason Wood Industries
+49079,Sg Kadut Dr,Wason Wood Ind
+49081,Sg Kadut Dr,Opp Econ Machinery 
+49089,Sg Kadut Dr,Econ Machinery
+49091,Kranji Rd,Bef Railway Crossing
+49101,Kranji Rd,Opp Ordinance Supply Base
+49109,Kranji Rd,Kranji Water Reclamation Plant
+49111,Kranji Rd,Aft Jln Lam Huat
+49119,Kranji Rd,Blk 2
+49121,Kranji Rd,Aft SMRT Buses Kranji Depot
+49129,Kranji Rd,Lip Guan Ind
+49131,Sg Kadut Ave,Tan Chiang Bros Marble
+49139,Sg Kadut Ave,Aft Railway Crossing
+49141,Kranji Way,Ctrl Granite Ind
+49149,Kranji Way,Bef Fishing Ground A
+49151,Kranji Way,Kwong Maw Sawmill
+49159,Kranji Way,Econ Group
+49169,Kranji Way,Tong Seng Concrete Ltd
+49171,Kranji Way,Seow Wee Trading
+49179,Kranji Way,Opp Seow Wee Trading
+49181,Kranji Loop,Dapolite Ind
+49189,Kranji Loop,Aft Kranji Rd
+49199,Kranji Way,Kranji Reservoir Pk B
+49209,Neo Tiew Cres,Sg Buloh Wetland Reserve
+49211,Kranji Way,PUB Quarter
+49219,Kranji Way,Opp PUB Quarter
+49229,Neo Tiew Cres,Long Kuan Hung Crocodile Farm
+49239,Neo Tiew Cres,Opp Nyee Phoe Group
+49249,Neo Tiew Cres,Dragon Fish Ind
+50019,Keng Lee Rd,Parish of Christ Ch
+50011,Kg Java Rd,Opp Parish of Christ Ch
+50021,Thomson Rd,United Sq
+50029,Thomson Rd,Opp United Sq
+50031,Thomson Rd,Opp Novena Ch
+50037,Thomson Rd,Novena Ch
+50038,Thomson Rd,Novena Stn
+50041,Thomson Rd,Novena Lodge
+50049,Thomson Rd,Opp Novena Lodge
+50051,Thomson Rd,Thomson Med Ctr
+50059,Thomson Rd,Opp Thomson Med Ctr
+50061,Newton Rd,Opp Hotel Royal
+50069,Newton Rd,Hotel Royal
+50071,Norfolk Rd,Bef Carlisle Rd
+50079,Norfolk Rd,Opp Carlisle Rd
+50081,Owen Rd,Blk 41A
+50089,Owen Rd,Blk 51
+50111,Moulmein Rd,Revival Ctr Ch
+50119,Moulmein Rd,St. Michael's Sch
+50121,Moulmein Rd,Natl Skin Ctr
+50129,Moulmein Rd,Opp Tan Tock Seng Hosp
+50159,Kim Keat Rd,Opp Jumbo Ind Bldg
+50161,Balestier Rd,Balestier Ctr
+50169,Balestier Rd,Aft Irrawaddy Rd
+50171,Balestier Rd,Opp Moulmein CC
+50179,Balestier Rd,Aft Moulmein CC
+50189,Balestier Rd,Opp Public Man
+50191,Balestier Rd,Bef Balestier Plaza
+50199,Balestier Rd,HMI Balestier Hosp
+50201,Balestier Rd,Shaw Plaza
+50209,Balestier Rd,Aft Pegu Rd
+50211,Balestier Rd,Opp Balestier Pt
+50221,Balestier Rd,Opp Balestier Twrs
+50229,Balestier Rd,Balestier Twrs
+50231,Balestier Rd,ITE Balestier
+50239,Balestier Rd,S'pore Indian Assn
+50241,Balestier Rd,Opp S'pore Khalsa Assn
+50249,Balestier Rd,S'pore Khalsa Assn
+50251,Rangoon Rd,Aft Race Course Rd
+50261,Rangoon Rd,Kentish Lodge
+50301,Kent Rd,Kentish Green
+50321,Dorset Rd,Opp Dorset Ct
+50331,Mcnair Rd,Blk 122
+50349,Towner Rd,Blk 107
+50351,Dorset Rd,Farrer Pk Tennis Ctr
+50991,Whampoa Dr,Blk 82
+51011,Thomson Rd,Opp Tan Tong Meng Twr
+51019,Thomson Rd,Thomson Flyover
+51021,Thomson Rd,Old Police Academy
+51029,Thomson Rd,Opp Old Police Academy
+51031,Thomson Rd,S'pore Polo Club
+51039,Thomson Rd,Opp S'pore Polo Club
+51041,Thomson Rd,Opp SLF Cplx
+51049,Thomson Rd,SLF Cplx
+51051,Thomson Rd,MediaCorp
+51059,Thomson Rd,Opp MediaCorp
+51069,Thomson Rd,Mt Alvernia Hosp
+51071,Thomson Rd,MacRitchie Reservoir
+51079,Thomson Rd,Opp MacRitchie Reservoir
+51081,Marymount Rd,Opp Marymount Convent Sch
+51089,Marymount Rd,Bef Marymount Convent Sch
+51091,PIE,Opp Catholic JC
+51099,Whitley Rd,Catholic JC
+51101,PIE,Old Police Academy
+51109,Whitley Rd,Opp Old Police Academy
+51111,Lornie Rd,Opp Andrew Rd
+51119,Lornie Rd,Bef Andrew Rd
+51131,Braddell Rd,Opp Braddell View
+51139,Braddell Rd,Braddell View
+52008,Lor 6 Toa Payoh,Toa Payoh Int
+52009,Lor 6 Toa Payoh,Toa Payoh Int
+52011,Braddell Rd,Bef Bishan Rd
+52019,Braddell Rd,Aft Bishan Rd
+52021,Braddell Rd,Opp Blk 1004
+52029,Braddell Rd,Blk 1004
+52031,Braddell Rd,Opp Blk 998
+52039,Braddell Rd,Aft Muhajirin Mque
+52051,Braddell Rd,Blk 147
+52059,Braddell Rd,Blk 219
+52061,Braddell Rd,BCA Academy
+52069,Braddell Rd,ComfortDelGro Corp Ltd
+52071,Jln Toa Payoh,Trellis Twrs
+52079,Jln Toa Payoh,Opp Trellis Twrs
+52081,Jln Toa Payoh,Aft Blk 195
+52089,Jln Toa Payoh,Opp Blk 195
+52099,Kim Keat Rd,Opp NKF
+52109,Jln Bahagia,Bet Blks 33/34
+52129,Jln Bahagia,Blk 29
+52131,Lor 1 Toa Payoh,Blk 163
+52139,Lor 1 Toa Payoh,Oleander Twrs
+52141,Lor 1 Toa Payoh,Philips S'pore
+52149,Lor 1 Toa Payoh,Opp Philips S'pore
+52151,Lor 1 Toa Payoh,Blk 166
+52159,Lor 1 Toa Payoh,Blk 128
+52161,Lor 1 Toa Payoh,Blk 111
+52169,Lor 1 Toa Payoh,Blk 117
+52171,Lor 1 Toa Payoh,Opp Braddell Stn
+52179,Lor 1 Toa Payoh,Braddell Stn
+52181,Lor 2 Toa Payoh,Opp Toa Payoh Stn
+52189,Lor 2 Toa Payoh,Toa Payoh Stn
+52191,Lor 2 Toa Payoh,Blk 140
+52199,Lor 2 Toa Payoh,Blk 84B
+52201,Lor 2 Toa Payoh,Blk 121
+52209,Lor 2 Toa Payoh,Blk 101C CP
+52221,Lor 3 Toa Payoh,Opp Jackson Sq
+52231,Toa Payoh Ctrl,Opp Blk 177
+52239,Toa Payoh Ctrl,Blk 177
+52251,Lor 4 Toa Payoh,Chung Hwa Free Clinic
+52259,Lor 4 Toa Payoh,Opp Chung Hwa Free Clinic
+52261,Lor 4 Toa Payoh,Opp Blk 73
+52269,Lor 4 Toa Payoh,Blk 73
+52271,Lor 4 Toa Payoh,Jackson Sq
+52279,Lor 4 Toa Payoh,Blk 56
+52281,Lor 5 Toa Payoh,Blk 68
+52289,Lor 5 Toa Payoh,Blk 34
+52291,Lor 5 Toa Payoh,Blk 59
+52299,Lor 5 Toa Payoh,Blk 50
+52301,Toa Payoh East,Blk 35
+52309,Toa Payoh East,Blk 30
+52311,Toa Payoh East,Blk 23
+52319,Toa Payoh East,Blk 25
+52321,Lor 6 Toa Payoh,Toa Payoh Stadium
+52329,Lor 6 Toa Payoh,Opp Toa Payoh Stadium
+52331,Lor 6 Toa Payoh,Blk 27
+52339,Lor 6 Toa Payoh,Blk 32
+52341,Lor 6 Toa Payoh,Pei Chun Public Sch
+52349,Lor 6 Toa Payoh,United Medicare Ctr
+52351,Lor 6 Toa Payoh,Blk 2
+52359,Lor 6 Toa Payoh,Blk 52
+52361,Lor 6 Toa Payoh,Blk 1
+52369,Lor 6 Toa Payoh,Blk 237
+52371,Lor 8 Toa Payoh,First Toa Payoh Pr Sch
+52381,Lor 8 Toa Payoh,Braddell Tech Bldg
+52389,Lor 8 Toa Payoh,Blk 227
+52391,Lor 8 Toa Payoh,Opp Blk 231
+52399,Lor 8 Toa Payoh,Blk 231
+52401,Jln Rajah,Blk 102
+52409,Jln Rajah,Opp Blk 102
+52411,Jln Rajah,Blk 105
+52419,Jln Rajah,Curtin S'pore
+52429,Lor 7 Toa Payoh,Blk 17A
+52439,Lor 7 Toa Payoh,Opp Blk 5
+52441,Lor 1 Toa Payoh,Blk 202
+52449,Lor 1 Toa Payoh,Toa Payoh Police Ctr
+52451,Whampoa Rd,Blk 114
+52471,Ah Hood Rd,EASB
+52479,Ah Hood Rd,Opp EASB
+52481,Lor 8 Toa Payoh,Toa Payoh Polyclinic
+52489,Lor 8 Toa Payoh,Opp Toa Payoh Polyclinic
+52499,Whampoa Rd,St. Michael's Ter
+52501,Lor 6 Toa Payoh,Toa Payoh Swim Cplx
+52509,Lor 6 Toa Payoh,Opp Toa Payoh Swim Cplx
+52529,Lor 8 Toa Payoh,Bef Blk 221
+52539,Lor 8 Toa Payoh,Blk 210 Mkt/FC
+52541,CTE,Opp St. Wilfred
+52549,CTE,Near St. Wilfred
+53009,Bishan St 13,Bishan Int
+53011,Upp Thomson Rd,St. Theresa's Home
+53019,Upp Thomson Rd,Opp St. Theresa's Home
+53021,Upp Thomson Rd,Opp Shunfu Est
+53029,Upp Thomson Rd,Shunfu Est
+53039,Upp Thomson Rd,Thomson CC
+53041,Upp Thomson Rd,Bef Thomson Ridge
+53049,Upp Thomson Rd,Aft Thomson Rd PO
+53051,Upp Thomson Rd,Bef Thomson Plaza
+53059,Upp Thomson Rd,Opp Thomson Plaza
+53061,Upp Thomson Rd,Thomson View Condo
+53069,Upp Thomson Rd,Opp Windsor Pk
+53071,Upp Thomson Rd,Opp Flame Tree Pk
+53079,Upp Thomson Rd,Flame Tree Pk
+53081,Upp Thomson Rd,Opp Faber Gdn
+53089,Upp Thomson Rd,Faber Gdn
+53091,Upp Thomson Rd,Bef Ang Mo Kio Ave 1
+53099,Upp Thomson Rd,Aft Ang Mo Kio Ave 1
+53101,Sin Ming Dr,Opp LTA Bldg
+53109,Sin Ming Dr,LTA Bldg
+53111,Marymount Rd,Bef Marymount Lane
+53119,Marymount Rd,Aft Bishan St 21
+53121,Marymount Rd,Blk 306
+53129,Marymount Rd,Opp Blk 302
+53131,Marymount Rd,Blk 319
+53139,Marymount Rd,Marymount View
+53141,Marymount Rd,Opp Whitley Sec Sch
+53149,Marymount Rd,Whitley Sec Sch
+53151,Marymount Rd,Opp Blk 263A CP
+53159,Marymount Rd,Blk 260
+53161,Marymount Rd,Opp Blk 254
+53169,Marymount Rd,Blk 254
+53171,Sin Ming Rd,Blk 23
+53179,Sin Ming Rd,Sin Ming Plaza
+53181,Sin Ming Rd,Amtech Bldg 
+53189,Sin Ming Rd,Blk 25
+53191,Sin Ming Rd,Blk 7 Ind Est
+53199,Sin Ming Rd,Blk 22A CP
+53201,Sin Ming Dr,Opp Semac
+53209,Sin Ming Dr,Semac
+53211,Bishan Rd,Opp Raffles Inst
+53219,Bishan Rd,Raffles Inst
+53221,Bishan St 11,Blk 115
+53229,Bishan St 11,Blk 501
+53231,Bishan Rd,Bishan Stn
+53239,Bishan Rd,Opp Bishan Stn
+53241,Bishan Rd,Opp Blk 217
+53249,Bishan Rd,Blk 210
+53251,Bishan St 11,Blk 125
+53259,Bishan St 11,Opp Blk 125
+53261,Bishan St 14,Opp Bishan Stadium
+53269,Bishan St 14,Bishan Stadium
+53271,Bishan St 13,Opp Kuo Chuan Presby Sch
+53279,Bishan St 13,Kuo Chuan Presby Sch
+53281,Bishan St 13,Blk 169
+53289,Bishan St 13,Zion Bible Presby Ch
+53291,Shunfu Rd,Shunfu Mart
+53299,Shunfu Rd,Blk 314
+53301,Bishan St 21,Raffles Inst
+53309,Bishan St 21,Opp Raffles Inst
+53311,Bishan St 21,Opp Sunrise Co Pte Ltd
+53319,Bishan St 21,Sunrise Co Pte Ltd
+53321,Sin Ming Ave,CityCab
+53329,Sin Ming Ave,Opp CityCab
+53331,Sin Ming Ave,Bef Bright Hill Tp
+53339,Sin Ming Ave,Opp Bright Hill Tp
+53341,Sin Ming Ave,Blk 407
+53349,Sin Ming Ave,Bishan Pk Sec Sch
+53351,Sin Ming Ave,Ai Tong Sch
+53359,Sin Ming Ave,Opp Ai Tong Sch
+53361,Sin Ming Ave,Blk 454
+53369,Sin Ming Ave,Opp Blk 454
+53371,Bishan St 22,Blk 257
+53379,Bishan St 22,Blk 245
+53381,Bishan St 22,Bishan Nth Shop Mall
+53389,Bishan St 22,Opp Bishan Nth Shop Mall
+53391,Bishan St 22,Opp Blk 203
+53399,Bishan St 22,Blk 202
+53401,Bishan St 12,Opp Blk 131
+53409,Bishan St 12,Blk 131
+53419,Bishan St 12,Blk 117
+53999,Sin Ming Rd,Sin Ming Ter
+54009,Ang Mo Kio Ave 8,Ang Mo Kio Int
+54011,Ang Mo Kio Ave 6,Blk 207
+54019,Ang Mo Kio Ave 6,Aft Blk 304
+54031,Ang Mo Kio Ave 6,Opp Al-Muttaqin Mque
+54039,Ang Mo Kio Ave 6,Bef Al-Muttaqin Mque
+54041,Ang Mo Kio Ave 6,Opp Courts Ang Mo Kio
+54049,Ang Mo Kio Ave 6,Courts Ang Mo Kio
+54051,Ang Mo Kio Ave 6,Opp Ang Mo Kio Lib
+54059,Ang Mo Kio Ave 6,Bef Ang Mo Kio Lib
+54061,Ang Mo Kio Ave 1,Blk 246
+54069,Ang Mo Kio Ave 1,Opp Blk 246
+54071,Ang Mo Kio Ave 1,Blk 310
+54079,Ang Mo Kio Ave 1,Opp Blk 315
+54081,Ang Mo Kio Ave 1,Teck Ghee Ct
+54089,Ang Mo Kio Ave 1,Opp Ang Mo Kio Swim Cplx
+54091,Ang Mo Kio Ave 1,Blk 331
+54099,Ang Mo Kio Ave 1,Opp Blk 333
+54101,Ang Mo Kio Ave 1,Aft Ang Mo Kio Ave 10
+54109,Ang Mo Kio Ave 1,Bef Ang Mo Kio Ave 10
+54161,Ang Mo Kio St 11,Opp Blk 255
+54169,Ang Mo Kio St 11,Blk 255
+54181,Ang Mo Kio Ave 4,Blk 258
+54189,Ang Mo Kio Ave 4,Blk 110
+54191,Ang Mo Kio Ave 4,Blk 170
+54199,Ang Mo Kio Ave 4,Blk 163
+54201,Ang Mo Kio Ave 4,Opp Blk 155
+54209,Ang Mo Kio Ave 4,Bet Blks 152/155
+54211,Ang Mo Kio Ave 3,Mayflower Sec Sch
+54219,Ang Mo Kio Ave 3,Opp Mayflower Sec Sch
+54221,Ang Mo Kio Ave 3,Opp Ang Mo Kio Pr Sch
+54229,Ang Mo Kio Ave 3,Ang Mo Kio Pr Sch
+54231,Ang Mo Kio Ave 3,Blk 129
+54239,Ang Mo Kio Ave 3,Blk 209
+54241,Ang Mo Kio Ave 3,Blk 700B
+54247,Ang Mo Kio Ave 3,Blk 322
+54248,Ang Mo Kio Ave 3,Blk 324
+54251,Ang Mo Kio Ave 5,Opp Anderson JC
+54259,Ang Mo Kio Ave 5,Anderson JC
+54261,Ang Mo Kio Ave 3,Ang Mo Kio Stn
+54269,Ang Mo Kio Ave 3,Opp Ang Mo Kio Stn
+54271,Ang Mo Kio Ave 3,Blk 586
+54279,Ang Mo Kio Ave 3,Blk 427
+54281,Ang Mo Kio Ave 3,Blk 570
+54289,Ang Mo Kio Ave 3,Blk 452
+54291,Ang Mo Kio Ave 3,Blk 564
+54299,Ang Mo Kio Ave 3,Opp Blk 565
+54301,Ang Mo Kio Ave 3,Blk 5022
+54309,Ang Mo Kio Ave 3,Opp Blk 5022
+54311,Ang Mo Kio Ave 8,Blk 332
+54319,Ang Mo Kio Ave 8,Opp Christ The King Ch
+54321,Ang Mo Kio Ave 8,Blk 354
+54329,Ang Mo Kio Ave 8,Blk 420
+54331,Ang Mo Kio Ave 8,Blk 346
+54339,Ang Mo Kio Ave 8,Blk 422
+54341,Ang Mo Kio Ave 8,Opp Blk 504
+54349,Ang Mo Kio Ave 8,Blk 504
+54351,Ang Mo Kio Ave 5,Nanyang Poly
+54359,Ang Mo Kio Ave 5,Blk 502
+54369,Ang Mo Kio Ind Pk 1,Opp Blk 4025
+54371,Ang Mo Kio Ave 10,Blk 409A
+54379,Ang Mo Kio Ave 10,Blk 475
+54381,Ang Mo Kio Ave 10,Blk 443
+54389,Ang Mo Kio Ave 10,Blk 465
+54391,Ang Mo Kio Ave 8,Jubilee
+54399,Ang Mo Kio Ave 8,Opp Blk 710
+54401,Ang Mo Kio St 52,Blk 522
+54409,Ang Mo Kio St 52,Opp Blk 522
+54411,Ang Mo Kio St 52,Blk 527
+54419,Ang Mo Kio St 52,Opp Blk 527
+54429,Ang Mo Kio St 54,Blk 561
+54439,Ang Mo Kio St 54,Blk 549
+54441,Ang Mo Kio St 53,Blk 507
+54449,Ang Mo Kio St 53,Opp Blk 507
+54451,Ang Mo Kio Ave 5,Blk 643
+54459,Ang Mo Kio Ave 5,Blk 151
+54461,Ang Mo Kio Ave 5,Blk 649
+54469,Ang Mo Kio Ave 5,Opp Blk 649
+54471,Ang Mo Kio Ave 5,Opp Blk 538
+54479,Ang Mo Kio Ave 5,Blk 538
+54481,Ang Mo Kio Ave 5,Opp Ang Mo Kio ITE
+54489,Ang Mo Kio Ave 5,Ang Mo Kio ITE
+54491,Ang Mo Kio Ave 5,Aft CTE
+54499,Ang Mo Kio Ave 5,Bef CTE
+54501,Ang Mo Kio Ave 5,Opp AMK Ind Pk 2
+54509,Ang Mo Kio Ave 5,Aft Blk 5000
+54511,Ang Mo Kio Ind Pk 2,Blk 5028
+54519,Ang Mo Kio Ind Pk 2,Opp Blk 5023
+54521,Ang Mo Kio Ind Pk 2,Blk 5046
+54529,Ang Mo Kio Ind Pk 2,Opp Blk 5093
+54531,Bishan Rd,MRT Bishan Depot
+54539,Bishan Rd,Bishan Pk
+54571,Ang Mo Kio Ave 10,Blk 532
+54579,Ang Mo Kio Ave 10,Blk 540
+54581,Ang Mo Kio Ave 10,Blk 574
+54589,Ang Mo Kio Ave 10,Blk 555
+54591,Ang Mo Kio Ind Pk 2,Blk 5084
+54599,Ang Mo Kio Ind Pk 2,Blk 5056
+54601,Ang Mo Kio Ave 10,Townsville Pr Sch
+54609,Ang Mo Kio Ave 10,Opp Townsville Pr Sch
+54611,Ang Mo Kio Ave 1,Blk 220
+54619,Ang Mo Kio Ave 1,Opp Blk 220
+54621,Ang Mo Kio Ave 1,Blk 223
+54629,Ang Mo Kio Ave 1,Opp Blk 223
+54631,Ang Mo Kio Ind Pk 2,Opp Tyco Electronics
+54641,Ang Mo Kio Ind Pk 2,Sing Ind Cplx
+54651,Ang Mo Kio Ave 5,Opp Techplace 2
+54659,Ang Mo Kio Ave 5,Techplace 2
+55009,Ang Mo Kio St 63,Ang Mo Kio Depot
+55011,Yio Chu Kang Rd,Opp The Calrose
+55019,Yio Chu Kang Rd,The Calrose
+55021,Yio Chu Kang Rd,Opp Seasons Pk
+55029,Yio Chu Kang Rd,Seasons Pk
+55031,Yio Chu Kang Rd,Opp NCS Hub
+55039,Yio Chu Kang Rd,NCS Hub
+55041,Yio Chu Kang Rd,Opp Motorola
+55049,Yio Chu Kang Rd,Motorola
+55051,Yio Chu Kang Rd,Opp ST Electronics
+55059,Yio Chu Kang Rd,ST Electronics
+55071,Yio Chu Kang Rd,Bef KLC Sch of Edn
+55079,Yio Chu Kang Rd,Aft KLC Sch of Edn
+55081,Yio Chu Kang Rd,Opp Sunrise Gdns
+55089,Yio Chu Kang Rd,Aft Sunrise Gdns
+55101,Yio Chu Kang Rd,Opp Serenity Pk
+55109,Yio Chu Kang Rd,Serenity Pk
+55111,Ang Mo Kio Ave 5,Blk 180
+55119,Ang Mo Kio Ave 5,Blk 617
+55121,Ang Mo Kio Ave 5,Opp Blk 604
+55129,Ang Mo Kio Ave 5,Blk 604
+55131,Ang Mo Kio Ave 4,Blk 612
+55139,Ang Mo Kio Ave 4,Blk 641
+55141,Ang Mo Kio Ave 4,Opp Blk 622
+55149,Ang Mo Kio Ave 4,Blk 622
+55151,Ang Mo Kio Ave 9,Ang Mo Kio Comm Hosp
+55159,Ang Mo Kio Ave 9,Opp Ang Mo Kio Comm Hosp
+55169,Ang Mo Kio St 61,Mkt/FC
+55171,Ang Mo Kio Ave 6,Castle Green 
+55179,Ang Mo Kio Ave 6,Opp Castle Green
+55181,Ang Mo Kio Ave 6,Opp Yio Chu Kang Stn
+55189,Ang Mo Kio Ave 6,Yio Chu Kang Stn
+55199,Ang Mo Kio St 61,Blk 645
+55201,Ang Mo Kio Ave 6,Opp Anderson JC
+55209,Ang Mo Kio Ave 6,Anderson JC
+55211,Ang Mo Kio St 62,Aft Ang Mo Kio Fire Stn
+55219,Ang Mo Kio St 62,Bef Ang Mo Kio Ave 9
+55221,Ang Mo Kio St 64,Opp SMRT Buses AMK Depot
+55229,Ang Mo Kio St 64,SMRT Buses AMK Depot
+55231,Ang Mo Kio St 63,Opp SBST East District
+55239,Ang Mo Kio St 63,SBST East District
+55241,Lentor Ave,Aft Yio Chu Kang Rd
+55249,Lentor Ave,Bef Yio Chu Kang Rd
+55251,Lentor Ave,Countryside Est
+55259,Lentor Ave,Opp Countryside Est
+55261,Lentor Ave,Bullion Pk Condo
+55269,Lentor Ave,Opp Bullion Pk Condo
+55271,Lentor Ave,Aft Lentor Flyover
+55279,Lentor Ave,Lentor Flyover
+55281,Lentor Ave,Aft SLE
+55289,Lentor Ave,LP 94
+55301,Ang Mo Kio Ave 9,AMK Police Div HQ
+55309,Ang Mo Kio Ave 9,Opp AMK Police Div HQ
+55311,Ang Mo Kio Ave 9,Opp Yio Chu Kang Stadium
+55319,Ang Mo Kio Ave 9,Yio Chu Kang Stadium
+55321,Ang Mo Kio Ave 8,Opp Nanyang Poly
+55329,Ang Mo Kio Ave 8,Nanyang Poly
+55331,Lentor Loop,Aft Lentor Gr
+55339,Lentor Loop,Aft Florissa Pk
+55341,Lentor Dr,Opp Thomson Gr
+55349,Lentor Dr,Thomson Gr
+55351,Lentor Rd,Opp Fudu Walk P/G
+55361,Lentor Loop,Countryside Gdn P/G
+55371,Lentor Loop,Aft Lentor St
+55381,Lentor Loop,Bef Bullion Pk
+55509,Ang Mo Kio Ave 8,Yio Chu Kang Ter
+56019,Upp Thomson Rd,Bef Ang Mo Kio Ave 1
+56021,Upp Thomson Rd,Opp S'wang Hill FC
+56029,Upp Thomson Rd,JCU S'pore
+56031,Upp Thomson Rd,Bef Yio Chu Kang Rd
+56039,Upp Thomson Rd,Aft Yio Chu Kang Rd
+56041,Upp Thomson Rd,Opp Green Meadows Condo
+56049,Upp Thomson Rd,Green Meadows Condo
+56051,Upp Thomson Rd,Opp 3M S'pore
+56059,Upp Thomson Rd,Aft 3M S'pore
+56061,Upp Thomson Rd,Aft NTUC Fairprice Ctr
+56069,Upp Thomson Rd,Bef NTUC Fairprice Ctr
+56071,Upp Thomson Rd,Bef Old Upp Thomson Rd
+56079,Upp Thomson Rd,Aft Old Upp Thomson Rd
+56081,Upp Thomson Rd,Bef SLE
+56089,Upp Thomson Rd,Aft SLE
+56091,Upp Thomson Rd,Opp Thong Soon Rd
+56099,Upp Thomson Rd,Opp Former Seletar Inst
+56191,Yio Chu Kang Rd,Opp NPB S'goon Depot
+56199,Yio Chu Kang Rd,NPB S'goon Depot
+56201,Yio Chu Kang Rd,Aft Munshi Abdullah Ave
+56209,Yio Chu Kang Rd,Bef Thomson Hills Dr
+56241,Ang Mo Kio Ave 2,St. Nicholas  Girls'
+56249,Ang Mo Kio Ave 2,Opp St. Nicholas  Girls'
+56251,Ang Mo Kio Ave 2,Opp Horizon Gdns
+56259,Ang Mo Kio Ave 2,Horizon Gdns
+56261,Ang Mo Kio Ave 1,Blk 248
+56269,Ang Mo Kio Ave 1,Opp Blk 248
+56289,Ang Mo Kio Ave 2,Bef Shangri-La Walk
+57011,Upp Thomson Rd,Opp Nessea Club
+57019,Upp Thomson Rd,Nessea Club
+57021,Sembawang Rd,Forest Hills Condo
+57029,Sembawang Rd,Aft The Springside
+57031,Sembawang Rd,Nee Soon Driclad Ctr
+57039,Sembawang Rd,Bef Spiritual Grace Presby Ch
+57041,Sembawang Rd,Nee Soon HQ 22 SIB
+57049,Sembawang Rd,Opp Nee Soon HQ 22 SIB
+57051,Sembawang Rd,Aft Sembawang Air Base
+57059,Sembawang Rd,Opp Sembawang Air Base
+57061,Sembawang Rd,Dieppe Barracks
+57069,Sembawang Rd,Opp Dieppe Barracks
+57071,Sembawang Rd,Opp Khatib Camp
+57079,Sembawang Rd,Khatib Camp
+57081,Sembawang Rd,Opp Blk 713
+57089,Sembawang Rd,Blk 713
+57111,Sembawang Rd,Opp Blk 101
+57119,Sembawang Rd,Blk 101
+57121,Sembawang Rd,Opp Blk 115B
+57129,Sembawang Rd,Blk 114
+57131,Sembawang Rd,Seletaris Condo
+57139,Sembawang Rd,Aft Jln Kemuning
+57141,Mandai Rd,Bef Upp Thomson Rd
+57149,Mandai Rd,Aft Upp Thomson Rd
+58009,Sembawang Vista,Sembawang Int
+58011,Sembawang Rd,Opp Sembawang Shop Ctr
+58019,Sembawang Rd,Aft Sembawang Shop Ctr
+58021,Sembawang Rd,Bef Canberra Rd
+58029,Sembawang Rd,Aft Canberra Rd
+58041,Sembawang Rd,Aft Yishun Ave 2
+58049,Sembawang Rd,Bef Yishun Ave 2
+58051,Sembawang Rd,Bef Sembawang CC
+58059,Sembawang Rd,Aft Sembawang CC
+58061,Sembawang Rd,Aft The Ashram
+58069,Sembawang Rd,Opp The Ashram
+58071,Sembawang Rd,Prison Trg Sch
+58079,Sembawang Rd,Opp Prison Trg Sch
+58081,Sembawang Rd,Opp Jln Janggus
+58089,Sembawang Rd,Aft Andrews Ave
+58091,Sembawang Rd,Sembawang Pk
+58099,Sembawang Rd,Opp Sembawang Pk
+58101,Canberra Rd,Blk 311
+58109,Canberra Rd,Opp Blk 311
+58111,Canberra Rd,Blk 351 CP
+58119,Canberra Rd,Blk 502A
+58121,Canberra Rd,Blk 424A CP
+58129,Canberra Rd,Blk 508 CP
+58131,Canberra Rd,Aft Assyafaah Mque
+58139,Canberra Rd,Aft Ottawa Rd
+58141,Admiralty Rd West,Sembawang Camp
+58149,Admiralty Rd West,Opp Sembawang Shipyard G 8
+58151,Canberra Rd,Bef Sembawang Stn
+58159,Canberra Rd,Aft Admiral Hill
+58161,Admiralty Rd West,Bef Sembawang Shipyard G 3
+58169,Admiralty Rd West,Aft HomeTeamNS Sembawang Resort
+58171,Admiralty Rd West,Sembawang Corp Industries
+58179,Admiralty Rd West,Opp Sembawang Corp Industries
+58181,Admiralty Rd West,Sembawang Drug Rehab Ctr
+58189,Admiralty Rd West,Opp Sembawang Drug Rehab Ctr
+58191,Admiralty Rd East,Aft Wellington Rd
+58199,Admiralty Rd East,Opp Auckland Rd
+58201,Admiralty Rd East,Bef Prison Trg Sch
+58209,Admiralty Rd East,Aft Pakistan Rd
+58211,Sembawang Way,Sembawang Stn
+58219,Sembawang Way,Opp Sembawang Stn
+58221,Sembawang Way,Blk 339 CP
+58229,Sembawang Way,Blk 358A CP
+58241,Sembawang Vista,Opp Blk 315
+58249,Sembawang Vista,Blk 309
+58251,Sembawang Dr,Sun Plaza
+58259,Sembawang Dr,Opp Sun Plaza
+58271,Sembawang Cres,Blk 335 
+58279,Sembawang Cres,Opp Blk 336A CP
+58281,Sembawang Cres,Sembawang Sec Sch
+58289,Sembawang Cres,Opp Sembawang Sec Sch
+58291,Sembawang Dr,Blk 317
+58299,Sembawang Dr,Blk 328
+58301,Gambas Ave,3M Bldg
+58309,Gambas Ave,Opp 3M Bldg
+58311,Sembawang Dr,Blk 354 CP
+58319,Sembawang Dr,Blk 357C
+58321,Admiralty Dr,Bet Blks 357/359
+58329,Admiralty Dr,Blk 474
+58331,Canberra Link,Blk 589D
+58339,Canberra Link,Opp Blk 589D
+58341,Sembawang Dr,Blk 405
+58349,Sembawang Dr,Blk 478
+58351,Sembawang Dr,Blk 483
+58359,Sembawang Dr,Opp Blk 484A CP
+58361,Admiralty St,Nth Link Bldg
+58369,Admiralty St,Bef LP 8
+58371,Sembawang Cres,Bet Blks 325/326
+58379,Sembawang Cres,Opp Blk 325
+58381,Sembawang Way,Blk 469B
+58389,Sembawang Way,Opp Blk 469B
+58391,Sembawang Ave,Blk 303
+58399,Sembawang Ave,Opp Blk 303
+58401,Admiralty Link,Opp Blk 491
+58409,Admiralty Link,Blk 491
+58411,Admiralty Link,Blk 404A CP
+58419,Admiralty Link,Blk 482A CP 
+58421,Admiralty Dr,Blk 353 
+58429,Admiralty Dr,Bet Blks 415/416 
+58439,Champions Way,Innova JC
+58449,Champions Way,S'pore Sports Sch
+58451,Sembawang Dr,Aft Heavy Veh Pk
+58459,Sembawang Dr,Bef Heavy Veh Pk
+58461,Champions Way,Innova Pr Sch
+58479,Woodlands Dr 17,Aft Innova Pr Sch
+58481,Wellington Circle,Opp Wellington Pr Sch
+58489,Wellington Circle,Wellington Pr Sch
+58491,Montreal Dr,Opp Blk 507A
+58499,Montreal Dr,Blk 506A
+58501,Montreal Link,Aft Montreal Dr
+58509,Montreal Link,Aft Sembawang Rd
+59008,Yishun Ave 2,Yishun Int
+59009,Yishun Ave 2,Yishun Int
+59011,Lentor Ave,Bef Sg Seletar Bridge
+59019,Lentor Ave,Aft Sg Seletar Bridge
+59021,Lentor Ave,Bef Yishun Ave 1
+59029,Lentor Ave,Aft Yishun Ave 1
+59031,Yishun Ave 2,Opp Yishun Sports Hall
+59039,Yishun Ave 2,Yishun Sports Hall
+59041,Yishun Ave 2,Bef Khatib Stn
+59049,Yishun Ave 2,Opp Khatib Stn
+59051,Yishun Ave 2,Blk 790
+59059,Yishun Ave 2,Blk 608
+59061,Yishun Ave 2,Blk 763
+59069,Yishun Ave 2,Opp Blk 757
+59072,Yishun Ave 2,Northpoint Shop Ctr
+59073,Yishun Ave 2,Blk 923
+59079,Yishun Ave 2,Yishun Stn
+59081,Yishun Ring Rd,Blk 774
+59089,Yishun Ring Rd,Opp Blk 774
+59091,Yishun Ave 2,Blk 154
+59099,Yishun Ave 2,Blk 220
+59101,Yishun Ring Rd,Yishun Pr Sch
+59109,Yishun Ring Rd,Opp Yishun Pr Sch
+59111,Yishun Ave 5,Blk 701
+59119,Yishun Ave 5,Opp Blk 701A
+59121,Yishun Ring Rd,Blk 121
+59129,Yishun Ring Rd,Opp Blk 121
+59131,Yishun Ring Rd,Blk 137
+59139,Yishun Ring Rd,Aft Chong Pang CC
+59141,Yishun Ave 5,Blk 741
+59149,Yishun Ave 5,Blk 145
+59159,Yishun Ave 5,Blk 151
+59161,Yishun Ctrl,Opp Blk 201
+59169,Yishun Ctrl,Bet Blks 201/202
+59171,Yishun Ave 9,Blk 309
+59179,Yishun Ave 9,Blk 241
+59181,Yishun Ave 9,Opp Blk 245
+59189,Yishun Ave 9,Blk 245
+59191,Yishun Ave 6,Opp Northland Sec Sch
+59199,Yishun Ave 6,Blk 250
+59201,Yishun Ave 6,Opp Chongfu Pr Sch
+59209,Yishun Ave 6,Blk 272
+59211,Yishun Ave 7,Blk 289
+59219,Yishun Ave 7,Opp Blk 288
+59221,Yishun Ave 7,Aft LP 48
+59229,Yishun Ave 7,Aft LP 47
+59231,Yishun Ring Rd,Blk 227
+59239,Yishun Ring Rd,Blk 291
+59241,Yishun Ring Rd,Blk 236
+59249,Yishun Ring Rd,Blk 257
+59251,Yishun Ave 2,Opp Darul Makmur Mque
+59259,Yishun Ave 2,Darul Makmur Mque
+59261,Yishun Ave 7,Blk 174
+59269,Yishun Ave 7,Opp Blk 174
+59271,Yishun Ave 7,Blk 118
+59279,Yishun Ave 7,Opp Ahmad Ibrahim Sec Sch
+59281,Yishun Ave 4,Blk 654
+59291,Yishun Ave 4,Blk 666
+59301,Yishun Ring Rd,Blk 731
+59309,Yishun Ring Rd,Jiemin Pr Sch
+59311,Yishun Ring Rd,Blk 760
+59319,Yishun Ring Rd,Yishun JC
+59321,Yishun Ring Rd,Blk 794
+59331,Yishun Ave 3,Blk 773
+59339,Yishun Ave 3,Blk 776
+59341,Yishun Ctrl,Khoo Teck Puat Hosp
+59349,Yishun Ctrl,Opp Khoo Teck Puat Hosp
+59351,Yishun Ctrl,Opp Blk 322
+59359,Yishun Ctrl,Blk 322
+59361,Yishun St 61,Blk 602
+59369,Yishun St 61,Blk 647
+59371,Yishun St 61,Chung Cheng High Sch
+59379,Yishun St 61,Opp Chung Cheng High Sch
+59381,Yishun Ring Rd,Blk 314
+59389,Yishun Ring Rd,Opp Blk 314
+59391,Yishun Ring Rd,Blk 367
+59399,Yishun Ring Rd,Opp Blk 367
+59401,Yishun Ring Rd,Blk 358
+59409,Yishun Ring Rd,Evangel Family Ch
+59411,Yishun Ring Rd,Blk 356
+59419,Yishun Ring Rd,Blk 413
+59421,Yishun Ring Rd,Blk 624
+59429,Yishun Ring Rd,Blk 846
+59431,Yishun Ring Rd,Blk 630 
+59439,Yishun Ring Rd,Blk 858
+59441,Yishun Ave 4,Naval Base Pr Sch
+59449,Yishun Ave 4,Opp Naval Base Pr Sch
+59451,Yishun Ave 11,Bet Blks 349/350
+59459,Yishun Ave 11,Opp Huamin Pr Sch
+59461,Yishun Ave 11,Opp Blk 419
+59469,Yishun Ave 11,Blk 419
+59471,Yishun Ave 1,Blk 437
+59479,Yishun Ave 1,Opp Blk 433
+59481,Yishun St 81,Blk 873
+59499,Yishun St 81,Orchid Pk Condo
+59501,Yishun Ave 1,Blk 871
+59511,Yishun St 71,Yishun Sec Sch
+59521,Yishun Ave 2,Yishun Sapphire
+59529,Yishun Ave 2,Opp Yishun Sapphire
+59541,Yishun Ave 3,Opp Khatib Camp
+59549,Yishun Ave 3,Khatib Camp
+59551,Yishun Ave 3,Blk 722
+59559,Yishun Ave 3,Opp Blk 722
+59561,Yishun Ring Rd,Blk 798
+59571,Yishun Ring Rd,Opp Northbrooks Sec Sch
+59579,Yishun Ring Rd,Northbrooks Sec Sch
+59581,Yishun St 41,Bef Yishun Ave 1
+59591,Yishun Ave 6,Bet Blks 405/406
+59601,Yishun Ave 6,Bet Blks 391/392
+59611,Yishun Ctrl 2,Opp Yishun Polyclinic
+59619,Yishun Ctrl 2,Yishun Polyclinic
+60011,Kallang Bahru,S'pore Post                                                                                         
+60019,Kallang Bahru,Opp S'pore Post
+60021,Kallang Bahru,Chubb S'pore
+60029,Kallang Bahru,Blk 16
+60031,Kallang Bahru,Blk 66
+60039,Kallang Bahru,Opp Blk 66
+60051,Boon Keng Rd,Opp Kallang Pl
+60059,Boon Keng Rd,Bef Kallang Pl
+60061,Jln Kolam Ayer,Aft Infineon
+60069,Jln Kolam Ayer,Kallang Basin Swim Cplx
+60071,Jln Kolam Ayer,Kolam Ayer Ind Est
+60079,Jln Kolam Ayer,Bef Bendemeer Rd
+60081,Jln Toa Payoh,St. Andrew's Jnr Sch
+60089,Jln Toa Payoh,Opp St. Andrew's Jnr Sch
+60099,Bendemeer Rd,Bef Lavender St
+60101,S'goon Rd,Kwong Wai Shiu Hosp
+60119,Bendemeer Rd,Opp Blk 28
+60121,S'goon Rd,Boon Keng Stn
+60139,Bendemeer Rd,Blk 44
+60141,S'goon Rd,Opp Bendemeer Pr Sch
+60159,Bendemeer Rd,Blk 54
+60161,S'goon Rd,St. Michael's Pl
+60179,Bendemeer Rd,Aft Jln Kolam Ayer
+60181,S'goon Rd,Aft Moonstone Lane
+60191,Boon Keng Rd,Blk 12
+60199,Boon Keng Rd,Blk 22
+60201,Upp S'goon Rd,Leong Bee Ct
+60209,Upp S'goon Rd,Opp Leong Bee Ct
+60211,MacPherson Rd,POSBank
+60219,MacPherson Rd,Opp POSBank
+60221,Geylang Bahru,Blk 73
+60229,Geylang Bahru,Blk 68
+60231,Whampoa East,Beng Wan Pr Sch
+60261,Upp S'goon Rd,Potong Pasir Stn
+60269,Upp S'goon Rd,Potong Pasir Stn
+61009,Potong Pasir Ave 1,Blk 122
+61011,Upp S'goon Rd,Blk 103
+61019,Upp S'goon Rd,Opp Blk 101
+61021,Upp S'goon Rd,Aft Woodleigh Pk
+61029,Upp S'goon Rd,Opp Woodleigh Pk
+61031,Upp S'goon Rd,Woodleigh Stn
+61039,Upp S'goon Rd,Woodleigh Stn
+61041,Upp S'goon Rd,Bef Braddell Rd
+61049,Upp S'goon Rd,Aft Bartley Rd
+61051,Upp Aljunied Rd,Aft Upp S'goon Rd
+61059,Upp Aljunied Rd,Bef Upp S'goon Rd
+61061,Potong Pasir Ave 1,Blk 148
+61069,Potong Pasir Ave 1,Blk 101
+61079,Potong Pasir Ave 1,Blk 121
+61089,Potong Pasir Ave 3,Bet Blks 138/144
+61099,Potong Pasir Ave 2,Potong Pasir CC
+61101,Potong Pasir Ave 1,Blk 120
+62011,Upp Paya Lebar Rd,Aft Bartley Rd
+62019,Upp Paya Lebar Rd,Aft Rochdale Rd
+62029,Upp Paya Lebar Rd,Paya Lebar Gdns
+62031,Upp Paya Lebar Rd,How Sun Pk
+62039,Upp Paya Lebar Rd,Raya Gdn
+62041,Upp Paya Lebar Rd,Opp Bethany Presby Ch
+62049,Upp Paya Lebar Rd,Opp Kancanrama Budd Tp
+62051,Upp Paya Lebar Rd,Paya Lebar Camp
+62059,Upp Paya Lebar Rd,Blk 161
+62061,Bartley Rd,Aft Upp Paya Lebar Rd
+62069,Bartley Rd,Bef Upp Paya Lebar Rd
+62071,Bartley Rd,Opp Ramakrishna Mission
+62079,Bartley Rd,Ramakrishna Mission
+62081,Bartley Rd,Opp Bartley Chr Ch
+62089,Bartley Rd,Bartley Chr Ch
+62091,Bartley Rd,Opp Bartley Terr
+62099,Bartley Rd,Classical Terr
+62101,Bartley Rd,Bef Upp S'goon Rd
+62109,Bartley Rd,Aft Upp S'goon Rd
+62111,Upp S'goon Rd,Aft Sommerville Rd
+62119,Upp S'goon Rd,Aft Sunshine Lodge
+62121,Upp S'goon Rd,Aft Wolskel Rd
+62129,Upp S'goon Rd,Blk 403
+62131,Upp S'goon Rd,S'goon Stn
+62139,Upp S'goon Rd,S'goon Stn
+62141,Upp S'goon Rd,Opp Blk 1
+62149,Upp S'goon Rd,Paya Lebar Camp
+62151,S'goon Ave 1,Rindu Terr
+62159,S'goon Ave 1,Opp Rindu Terr
+62161,S'goon Ave 1,St. Gabriel's Sec Sch
+62169,S'goon Ave 1,Blk 426
+62171,S'goon Ctrl,Blk 409
+62179,S'goon Ctrl,Blk 421
+62189,Upp S'goon Rd,Blk 416
+62219,Hougang St 11,Blk 158
+62221,Lor Ah Soo,Opp Blk 146
+62229,Lor Ah Soo,Blk 146
+62231,Hougang Ave 3,Bef S'pore Girls' Home
+62239,Hougang Ave 3,Opp S'pore Girls' Home
+62241,Hougang Ave 3,SBST Hougang Depot
+62249,Hougang Ave 3,Opp SBST Hougang Depot
+63011,Upp S'goon Rd,Nam Peng Ctr
+63019,Upp S'goon Rd,Aft S'goon Shop Ctr
+63021,Upp S'goon Rd,The Helping Hand
+63029,Upp S'goon Rd,Opp The Helping Hand
+63031,Upp S'goon Rd,Kovan Stn
+63039,Upp S'goon Rd,Kovan Stn
+63041,Upp S'goon Rd,Opp Glad Tidings Ch
+63049,Upp S'goon Rd,Glad Tidings Ch
+63051,Upp S'goon Rd,S'goon JC
+63059,Upp S'goon Rd,Opp S'goon JC
+63061,Upp S'goon Rd,Bef Nativity Ch Ctr
+63069,Upp S'goon Rd,Nativity Ch Ctr
+63071,Hougang Ave 3,Opp Blk 248
+63079,Hougang Ave 3,Blk 248
+63081,Hougang Ave 3,Opp Blk 241
+63089,Hougang Ave 3,Blk 241
+63091,Hougang Ave 3,Opp Blk 106
+63099,Hougang Ave 3,Blk 106
+63101,Hougang Ave 3,Opp Blk 169
+63109,Hougang Ave 3,Blk 172
+63119,Tampines Rd,Bef Upp S'goon Rd
+63131,Tampines Rd,Wing Tai Bldg
+63139,Tampines Rd,Aft En-Naeem Mque
+63141,Boundary Rd,Blk 209
+63149,Boundary Rd,S'goon Stadium
+63151,Yio Chu Kang Rd,Bef Kovan Ctr
+63159,Yio Chu Kang Rd,Highland Ctr
+63161,Yio Chu Kang Rd,S'goon Swim Cplx
+63169,Yio Chu Kang Rd,Opp S'goon Swim Cplx
+63179,Yio Chu Kang Rd,Bef Tai Seng Chr Ch
+63181,Yio Chu Kang Rd,Bef St. Helier's Ave
+63189,Yio Chu Kang Rd,Aft S'goon Gdn Way
+63191,Yio Chu Kang Rd,Aft S'goon Nth Ave 1
+63199,Yio Chu Kang Rd,Aft S'goon Nth Ave 1
+63201,Yio Chu Kang Rd,Blk 133
+63209,Yio Chu Kang Rd,Toho Green
+63211,Yio Chu Kang Rd,Blk 138
+63219,Yio Chu Kang Rd,Opp Blk 139
+63221,Hougang St 21,Hougang St 21 FC
+63229,Hougang St 21,Aft Blk 207
+63231,Hougang St 21,Bet Blks 210/211
+63239,Hougang St 21,Opp Blk 210
+63241,Hougang Ave 3,Blk 21
+63249,Hougang Ave 3,Blk 1
+63261,Hougang Ave 1,Opp Blk 232
+63269,Hougang Ave 1,Blk 232
+63271,Hougang Ave 1,Blk 239
+63279,Hougang Ave 1,Opp Yuying Sec Sch
+63281,Hougang Ave 1,Blk 105 Mkt/FC
+63289,Hougang Ave 1,Aljunied CC
+63291,Lor Ah Soo,Opp Blk 115
+63299,Lor Ah Soo,Blk 115
+63301,Lor Ah Soo,Paya Lebar Girls' Sch
+63309,Lor Ah Soo,Opp Paya Lebar Girls' Sch
+63311,Hougang Ave 2,Blk 634
+63319,Hougang Ave 2,Opp Blk 634
+63321,Hougang Ave 2,Blk 627
+63329,Hougang Ave 2,Opp Blk 627
+63331,Hougang Ave 2,Blk 615
+63339,Hougang Ave 2,Opp Blk 615
+63341,Hougang Ave 2,Opp Blk 709
+63349,Hougang Ave 2,Blk 708
+63351,Hougang Ave 10,Opp Hougang Swim Cplx
+63359,Hougang Ave 10,Hougang Swim Cplx
+63361,Yio Chu Kang Link,Opp S'goon Swim Cplx
+63369,Yio Chu Kang Link,S'goon Sports Cplx
+63371,Hougang Ave 8,Blk 679
+63379,Hougang Ave 8,Blk 608
+63381,Hougang Ave 8,Xinmin Pr Sch
+63389,Hougang Ave 8,Opp Xinmin Pr Sch
+63391,Hougang Ave 8,Blk 639
+63399,Hougang Ave 8,Blk 632
+64009,Hougang Ctrl,Hougang Ctrl Int
+64011,Upp S'goon Rd,Naung Ct
+64019,Upp S'goon Rd,Blk 302
+64021,Hougang Ave 10,Blk 458
+64029,Hougang Ave 10,Opp Blk 458
+64031,Hougang Ave 8,Blk 436
+64039,Hougang Ave 8,Blk 434
+64041,Upp S'goon Rd,Hougang Plaza
+64049,Upp S'goon Rd,Opp Hougang Plaza
+64051,Upp S'goon Rd,Blk 465A
+64059,Upp S'goon Rd,Blk 355
+64061,Upp S'goon Rd,Opp S'goon Sec Sch
+64069,Upp S'goon Rd,S'goon Sec Sch
+64071,Hougang Ave 8,Opp Punggol Pk
+64079,Hougang Ave 8,Punggol Pk
+64081,Hougang St 91,Ctrl Pl
+64091,Hougang St 93,Hougang Pr Sch
+64101,Yio Chu Kang Rd,Opp Gracehaven S Army
+64109,Yio Chu Kang Rd,Gracehaven S Army
+64111,Yio Chu Kang Rd,Opp Blk 953
+64119,Yio Chu Kang Rd,Blk 953
+64121,Yio Chu Kang Rd,Aft Ang Mo Kio Ave 5
+64129,Yio Chu Kang Rd,Bef Blk 965
+64131,Tampines Rd,LP 116
+64139,Tampines Rd,LP 113
+64141,Tampines Rd,Aft Jln Telawi
+64149,Tampines Rd,LP 137
+64151,Tampines Rd,Aft Lor Tongkol
+64159,Tampines Rd,Bef Lor Tongkol
+64161,Tampines Rd,LP 174
+64169,Tampines Rd,LP 175
+64171,Tampines Rd,LP 192
+64179,Tampines Rd,LP 193
+64181,Tampines Rd,Bef TPE
+64189,Tampines Rd,Aft Old Tampines Rd
+64191,Tampines Rd,Aft TPE
+64199,Tampines Rd,Bef TPE
+64201,Tampines Rd,Aft Hougang Ave 3
+64209,Tampines Rd,Aft Defu Ave 1
+64211,Tampines Rd,Heavy Veh CP
+64219,Tampines Rd,Opp Heavy Veh CP
+64221,Tampines Rd,Aft Fish Farm Rd 1
+64229,Tampines Rd,LP 93
+64231,Hougang Ave 7,Blk 316
+64239,Hougang Ave 7,Opp Blk 316
+64241,Hougang Ave 5,Blk 308
+64249,Hougang Ave 5,Blk 327
+64259,Buangkok View,Buangkok Green Med Pk
+64301,Hougang Ave 7,Blk 325
+64309,Hougang Ave 7,Opp Blk 321
+64311,Hougang Ave 7,Blk 344
+64319,Hougang Ave 7,Opp Blk 344
+64321,Hougang Ave 7,Blk 350
+64329,Hougang Ave 7,Rio Vista
+64331,Hougang Ave 4,Blk 508
+64339,Hougang Ave 4,Blk 602
+64341,Hougang Ave 8,Blk 681
+64349,Hougang Ave 8,Blk 502
+64351,Hougang Ave 8,Opp Montfort Sch
+64359,Hougang Ave 8,Montfort Sch
+64361,Hougang Ave 8,Blk 535
+64369,Hougang Ave 8,Blk 532
+64371,Hougang Ave 6,Opp Punggol CC
+64379,Hougang Ave 6,Punggol CC
+64381,Hougang Ave 10,Opp Blk 521
+64389,Hougang Ave 10,Blk 522
+64391,Hougang Ave 10,Blk 831
+64399,Hougang Ave 10,Blk 512
+64401,Upp S'goon Rd,Bef Sengkang East Ave
+64409,Upp S'goon Rd,Aft Sengkang East Ave
+64411,Hougang Ave 4,Blk 670
+64419,Hougang Ave 4,Blk 681
+64421,Hougang Ave 10,Blk 421
+64429,Hougang Ave 10,Blk 412
+64431,Hougang St 51,Blk 568
+64439,Hougang St 51,Blk 537
+64441,Hougang St 51,Hougang G. Shop Mall
+64449,Hougang St 51,Opp Hougang G. Shop Mall
+64461,Buangkok Green,Blk 579
+64469,Buangkok Green,Opp Blk 579
+64471,Hougang Ave 9,Blk 917
+64479,Hougang Ave 9,Blk 665
+64481,Hougang Ave 9,Bet Blks 930/931
+64489,Hougang Ave 9,Blk 946A
+64491,Hougang Ave 9,Ctrl Pl
+64499,Hougang Ave 9,Opp Ctrl Pl
+64509,Hougang St 92,Blk 941A
+64519,Hougang St 92,Blk 943
+64521,Hougang Ave 4,Blk 834
+64529,Hougang Ave 4,Hougang Polyclinic
+64541,Hougang Ctrl,Hougang Ctrl Int
+64549,Hougang Ctrl,Opp Hougang Ctrl Int
+64551,Hougang Ctrl,Blk 836
+64559,Hougang Ctrl,Blk 830A
+64561,Hougang St 51,Blk 574
+64571,Hougang Ave 6,Blk 438
+64579,Hougang Ave 6,Bet Blks 544/546
+64601,Hougang Ave 4,Blk 919
+64609,Hougang Ave 4,Blk 687
+64611,Hougang Ave 4,Blk 913
+64619,Hougang Ave 4,Opp Blk 913
+64621,Buangkok Green,Blk 565
+64629,Buangkok Green,Opp Blk 565
+64995,Tampines Svc Rd,Express
+64996,Tampines Svc Rd,Express
+65008,Punggol Pl,Punggol Temp Int
+65009,Punggol Pl,Punggol Temp Int
+65011,Punggol Rd,Opp The Rivervale
+65019,Punggol Rd,The Rivervale
+65021,Punggol Rd,Opp Blk 110
+65029,Punggol Rd,Blk 111
+65031,Punggol Rd,Blk 227D
+65039,Punggol Rd,Blk 124
+65041,Punggol Rd,Blk 231
+65049,Punggol Rd,Blk 126A
+65059,Punggol Rd,St. Anne's Ch
+65061,Punggol Rd,Blk 298A
+65069,Punggol Rd,Blk 190C
+65071,Punggol Rd,Opp Blk 103A
+65079,Punggol Rd,Blk 102C
+65081,Punggol Rd,Opp Blk 199C
+65089,Punggol Rd,Opp Blk 296
+65091,Punggol Rd,Blk 301A
+65099,Punggol Rd,Blk 604A
+65101,Punggol Rd,Aft Punggol Dr
+65109,Punggol Rd,Bef Punggol Dr
+65111,Punggol Rd,Bef Punggol 17th Ave
+65119,Punggol Rd,Opp Punggol 17th Ave
+65121,Punggol Rd,Opp Track 22
+65129,Punggol Rd,Aft Track 22
+65139,Punggol Rd,Punggol Rd End
+65151,Punggol Field,Blk 196A
+65159,Punggol Field,Blk 101C
+65161,Punggol Field,Blk 173B
+65169,Punggol Field,Blk 108
+65171,Punggol Field,Opp Blk 126A
+65179,Punggol Field,Blk 126A
+65201,Punggol Field,Opp Blk 201A
+65209,Punggol Field,Aft Punggol Rd
+65211,Punggol Pl,Aft Punggol Field
+65219,Punggol Pl,Aft Punggol Ctrl
+65221,Punggol Ctrl,Opp Blk 293
+65229,Punggol Ctrl,Blk 298
+65231,Punggol East,Blk 166A
+65239,Punggol East,Opp Blk 166A
+65241,Edgefield Plains,Blk 196C
+65249,Edgefield Plains,Blk 178
+65251,Punggol Ctrl,Punggol Stn
+65259,Punggol Ctrl,Punggol Stn
+65261,Punggol Ctrl,Blk 649
+65269,Punggol Ctrl,Blk 162B
+65271,Punggol Ctrl,Opp Blk 188
+65279,Punggol Ctrl,Bet Blks 187/188
+65281,Punggol Ctrl,Punggol Sec Sch
+65289,Punggol Ctrl,Edgefield Pr Sch
+65291,Punggol East,Bef Punggol Field
+65299,Punggol East,Aft Punggol Field
+65775,Sengkang West Way,Express
+65776,Sengkang West Way,Express
+66008,S'goon Ave 2,Serangoon Int
+66009,S'goon Ave 2,Serangoon Int
+66011,Lor Chuan,Aft Braddell Rd
+66019,Lor Chuan,Bef Braddell Rd
+66021,Lor Chuan,New Tech Pk
+66029,Lor Chuan,St. Gabriel's Pr Sch
+66031,Lor Chuan,Cardiff Ct
+66039,Lor Chuan,Opp Cardiff Ct
+66041,Boundary Rd,Blk 230
+66049,Boundary Rd,Blk 233
+66051,Boundary Rd,Opp Blk 257
+66059,Boundary Rd,Blk 257A
+66061,Braddell Rd,Aft Braddell Flyover
+66069,Braddell Rd,Bef Braddell Flyover
+66071,Braddell Rd,Opp PUB Recreation Club
+66079,Braddell Rd,PUB Recreation Club
+66081,Braddell Rd,Opp S'pore Power Trg Inst
+66089,Braddell Rd,S'pore Power Trg Inst
+66091,Ang Mo Kio Ave 1,Golden Hill Est
+66099,Ang Mo Kio Ave 1,Opp Golden Hill Est
+66101,Ang Mo Kio Ave 3,Blk 516
+66109,Ang Mo Kio Ave 3,Blk 151
+66111,Lor Chuan,Chuan View
+66119,Lor Chuan,Summer Pl
+66121,Lor Chuan,Chuan Terr
+66129,Lor Chuan,Aft Chuan Gdn
+66131,S'goon Gdn Way,Aft Trinity Meth Ch
+66139,S'goon Gdn Way,Opp Trinity Meth Ch
+66141,S'goon Gdn Way,Bef Yio Chu Kang Rd
+66149,S'goon Gdn Way,Aft Yio Chu Kang Rd
+66151,Chartwell Dr,Opp Penshurst Pl
+66161,Chartwell Dr,Opp Crowhurst Dr
+66171,Chartwell Dr,Bef Cooling Cl
+66181,Burghley Dr,Aft Chartwell Rd
+66191,Burghley Dr,S'goon Gdn Sch
+66201,Berwick Dr,Opp Brockhampton Dr
+66211,Berwick Dr,Opp Bloxhome Dr
+66221,Tavistock Ave,Opp Portchester Ave
+66231,Tavistock Ave,Opp Cowdray Ave
+66241,Hemsley Ave,Hemsley Ave
+66251,Kensington Pk Rd,Opp Kingswear Ave
+66261,Kensington Pk Rd,Opp Portchester Ave
+66271,S'goon Gdn Way,S'goon Gdn Circus
+66291,Berwick Dr,Opp S'goon Gdn Circus
+66301,S'goon Nth Ave 1,Blk 152
+66309,S'goon Nth Ave 1,Blk 112
+66311,S'goon Nth Ave 1,Blk 141A
+66319,S'goon Nth Ave 1,Bet Blks 142/148
+66321,S'goon Nth Ave 1,Blk 128
+66329,S'goon Nth Ave 1,Blk 126
+66331,Ang Mo Kio Ave 3,Blk 554
+66339,Ang Mo Kio Ave 3,Blk 101
+66341,Ang Mo Kio Ave 3,Daikin S'pore
+66349,Ang Mo Kio Ave 3,Opp Daikin S'pore
+66351,S'goon Ctrl,S'goon Stn
+66359,S'goon Ctrl,S'goon Stn
+66361,S'goon Ave 2,Blk 319
+66369,S'goon Ave 2,Blk 238
+66371,S'goon Ctrl,Blk 261
+66379,S'goon Ctrl,Blk 206
+66381,S'goon Ave 2,Blk 334
+66389,S'goon Ave 2,Opp Blk 334
+66391,S'goon Ave 3,Nanyang JC
+66399,S'goon Ave 3,The Springbloom
+66401,S'goon Ave 3,Golden Hts
+66409,S'goon Ave 3,Melrose
+66411,S'goon Ave 3,Blk 326
+66419,S'goon Ave 3,Blk 330
+66421,S'goon Nth Ave 4,Blk 537
+66429,S'goon Nth Ave 4,Blk 530
+66431,S'goon Nth Ave 4,Opp Blk 506A
+66439,S'goon Nth Ave 4,Blk 504A CP
+66451,Ang Mo Kio Ave 5,Aft AMK Ind Pk 2
+66459,Ang Mo Kio Ave 5,Aft Seagate
+66461,Ang Mo Kio Ave 5,Bef Seagate
+66471,Ang Mo Kio Ave 5,Bef Yio Chu Kang Rd
+66479,Ang Mo Kio Ave 5,Aft Yio Chu Kang Rd
+66481,Buangkok Green,Opp Blk 968
+66489,Buangkok Green,Blk 969
+66491,Buangkok Green,Opp Blk 910
+66499,Buangkok Green,Blk 911
+66509,S'goon Nth Ave 5,Blk 546
+66511,S'goon Nth Ave 6,Yio Chu Kang Amenity Ctr
+66519,S'goon Nth Ave 6,Opp Seagate
+66521,S'goon Nth Ave 5,Ban Teck Han Bldg
+66529,S'goon Nth Ave 5,Blk 538
+66531,S'goon Nth Ave 5,Opp Blk 531
+66539,S'goon Nth Ave 5,Blk 531
+66541,Buangkok Link,Blk 980C
+66549,Buangkok Link,Opp Blk 980C
+66551,Buangkok Link,Blk 984
+66559,Buangkok Cres,Blk 985A
+66599,S'goon Nth Ave 5,KLA Tencor
+67009,Sengkang Sq,Sengkang Int
+67011,Yio Chu Kang Rd,TAS Receiving Stn
+67019,Yio Chu Kang Rd,Opp TAS Receiving Stn
+67021,Yio Chu Kang Rd,Opp Dedap Rd
+67029,Yio Chu Kang Rd,Aft Dedap Rd
+67039,Yio Chu Kang Rd,Aft Jln Kayu
+67041,Yio Chu Kang Rd,Aft Jln Kayu
+67049,Yio Chu Kang Rd,Aft Jln Redop
+67051,Yio Chu Kang Rd,Opp Seletar Hills Est
+67059,Yio Chu Kang Rd,Seletar Hills Est
+67061,Yio Chu Kang Rd,Aft Jln Selaseh
+67069,Yio Chu Kang Rd,Bef Jln Selaseh
+67071,Yio Chu Kang Rd,Opp Ch of St. Vincent de Paul
+67079,Yio Chu Kang Rd,Ch of St. Vincent de Paul
+67081,Jln Kayu,Aft The Hiding Pl
+67089,Jln Kayu,Opp The Hiding Pl
+67101,Sengkang East Way,Blk 250A
+67109,Sengkang East Way,Blk 235
+67111,Sengkang East Way,St. Anne's Wood
+67119,Sengkang East Way,Blk 128
+67121,Sengkang East Way,Blk 142A
+67129,Sengkang East Way,Blk 137
+67131,Rivervale Dr,Blk 122F
+67139,Rivervale Dr,Opp Blk 121
+67141,Rivervale Dr,Blk 119D
+67151,Rivervale Dr,Blk 117A
+67159,Rivervale Dr,Blk 112
+67161,Sengkang East Ave,Opp Blk 101
+67169,Sengkang East Ave,Blk 101
+67171,Compassvale Dr,Blk 225A
+67179,Compassvale Dr,Opp Blk 225A
+67181,Compassvale Rd,Blk 240
+67189,Compassvale Rd,Opp Blk 241
+67191,Compassvale Rd,Blk 223D
+67199,Compassvale Rd,Opp Blk 223D
+67201,Compassvale Rd,Blk 206A
+67209,Compassvale Rd,Blk 203
+67211,Sengkang East Ave,Blk 208 CP
+67219,Sengkang East Ave,Blk 267 CP
+67221,Rivervale Dr,Blk 153
+67229,Rivervale Dr,Blk 146A
+67231,Rivervale Dr,Rivervale Pr Sch
+67239,Rivervale Dr,Opp Rivervale Pr Sch
+67241,Compassvale Rd,Blk 248A
+67249,Compassvale Rd,Blk 259C
+67251,Compassvale St,Blk 253
+67259,Compassvale St,Blk 297A
+67261,Sengkang East Ave,Blk 203B
+67269,Sengkang East Ave,Opp Blk 203A
+67271,Sengkang East Rd,Blk 201 CP
+67279,Sengkang East Rd,Blk 301D
+67281,Fernvale Lane,Blk 403A
+67289,Fernvale Lane,Opp Blk 405C
+67291,Sengkang East Ave,Blk 303B
+67299,Sengkang East Ave,Opp Blk 303B
+67301,Sengkang East Ave,Blk 305D
+67309,Sengkang East Ave,Opp Blk 305 CP
+67321,Sengkang East Ave,Blk 311A
+67329,Sengkang East Ave,Opp Blk 310B
+67331,Sengkang East Ave,Blk 200B
+67339,Sengkang East Ave,Opp Blk 200B
+67341,Compassvale Dr,Opp Blk 204 CP
+67349,Compassvale Dr,Blk 204 CP
+67351,Anchorvale Dr,Blk 321 CP
+67359,Anchorvale Dr,Nan Chiau High Sch
+67361,Anchorvale Dr,Blk 313B
+67369,Anchorvale Dr,Blk 306 CP
+67371,Anchorvale Rd,Blk 313 CP
+67379,Anchorvale Rd,Opp Blk 313 CP
+67381,Sengkang East Way,Opp Blk 317B
+67389,Sengkang East Way,Blk 317B
+67391,Sengkang East Way,Opp Blk 325 CP
+67399,Sengkang East Way,Blk 325 CP
+67401,Sengkang East Way,Sengkang Stn
+67409,Sengkang East Way,Sengkang Stn
+67411,Sengkang East Rd,Blk 261
+67419,Sengkang East Rd,Opp Blk 261
+67421,Compassvale St,Bef Blk 262B
+67429,Compassvale St,Opp Blk 262B
+67431,Compassvale St,Opp Blk 291A
+67439,Compassvale St,Blk 291A
+67441,Sengkang East Rd,Opp Blk 323B
+67449,Sengkang East Rd,Blk 323B
+67451,Sengkang East Rd,Bef Buangkok Dr
+67459,Sengkang East Rd,Aft Buangkok Dr
+67461,Sengkang East Rd,Aft Sengkang East Ave
+67469,Sengkang East Rd,Bef Sengkang East Ave
+67471,Sengkang West Ave,Aft Fernvale Link
+67479,Sengkang West Ave,Bef Fernvale Link
+67481,Sengkang West Ave,Opp Pei Hwa Sec Sch
+67489,Sengkang West Ave,Pei Hwa Sec Sch
+67491,Sengkang West Ave,Aft Fernvale Lane
+67499,Sengkang West Ave,Bef Fernvale Lane
+67501,Sengkang East Dr,Blk 117C
+67509,Sengkang East Dr,Opp Blk 119A
+67511,Sengkang East Dr,Blk 121E
+67519,Sengkang East Dr,Opp Blk 121E
+67521,Sengkang East Dr,Blk 160
+67529,Sengkang East Dr,Opp Blk 157A
+67531,Sengkang East Way,Blk 158C
+67539,Sengkang East Way,Blk 122C
+67541,Sengkang East Way,Hockey Stadium
+67549,Sengkang East Way,Opp Hockey Stadium
+67551,Sengkang West Way,Aft Fernvale Link
+67559,Sengkang West Way,Bef Fernvale Link
+67561,Sengkang West Way,Opp Blk 432A
+67569,Sengkang West Way,Blk 432A
+67571,Sengkang West Way,Aft Lor Tanggam
+67579,Sengkang West Way,Bef Jln Kayu
+67601,Sengkang Ctrl,Buangkok Stn
+67609,Sengkang Ctrl,Buangkok Stn
+67611,Sengkang Ctrl,Blk 204C
+67619,Sengkang Ctrl,Blk 201C
+67621,Buangkok Dr,Opp Blk 558
+67629,Buangkok Dr,Blk 557
+68011,Jln Kayu,Bef Sengkang West Ave
+68019,Jln Kayu,Aft Sengkang West Ave
+68021,Jln Kayu,Bef Seletar West F'way 4
+68029,Jln Kayu,Aft Seletar West F'way 2
+68031,Jln Kayu,Jln Kayu Shophouse
+68039,Jln Kayu,Aft Abundant Grace Ch
+68049,Jln Kayu,Opp Jln Tari Lilin
+68051,Jln Kayu,Bef TPE
+68059,Jln Kayu,Aft TPE
+68061,Piccadilly,Sing-China Bldg
+68069,Piccadilly,Opp Sing-China Bldg
+68091,Seletar Aerospace Dr,Aft Baker St
+68099,Seletar Aerospace Dr,Bef Baker St
+68101,Seletar Aerospace Dr,Rolls Royce Pte Ltd
+68109,Seletar Aerospace Dr,Opp Rolls Royce Pte Ltd
+68111,Jln Kayu,Bef Seletar Camp G
+68119,Jln Kayu,Aft Seletar Camp G
+68121,Seletar Aerospace Dr,Bef West Camp Rd
+68129,Seletar Aerospace Dr,Aft West Camp Rd
+68131,West Camp Rd,Opp Youth Flying Club
+68139,West Camp Rd,Youth Flying Club
+68141,West Camp Rd,Opp Seletar Airport
+68149,West Camp Rd,Seletar Airport
+68151,West Camp Rd,Bef ST Airport Svcs
+68159,West Camp Rd,Aft ST Airport Svcs
+68161,West Camp Rd,Seletar W Camp G 3
+68169,West Camp Rd,Opp Seletar W Camp G 3
+68179,Piccadilly,Aft Med & Dental Ctr
+70011,Aljunied Rd,Opp Blk 125
+70019,Aljunied Rd,Blk 125
+70021,Aljunied Rd,Opp Canossa Convent Pr
+70029,Aljunied Rd,Aft Canossa Convent Pr
+70031,Aljunied Rd,Opp Aljunied Pk
+70039,Aljunied Rd,Aljunied Pk
+70041,Upp Aljunied Rd,Opp Blk 4
+70049,Upp Aljunied Rd,Aft Blk 4
+70051,Upp Aljunied Rd,Aft Joo Seng Rd
+70059,Upp Aljunied Rd,Bef Joo Seng Rd
+70061,Upp Aljunied Rd,Opp Mt Vernon Crematorium
+70069,Upp Aljunied Rd,Mt Vernon Crematorium
+70071,Ubi Ave 3,Cycle & Carriage
+70079,Ubi Ave 3,Aft Regent Motors
+70081,Ubi Ave 3,Opp HDB CP
+70089,Ubi Ave 3,HDB CP
+70091,Ubi Ave 3,Opp Traffic Police
+70099,Ubi Ave 3,Traffic Police
+70101,MacPherson Rd,Opp Gulab Bldg
+70109,MacPherson Rd,Gulab Bldg
+70111,MacPherson Rd,Opp Cencon Bldg
+70119,MacPherson Rd,Cencon Bldg
+70121,MacPherson Rd,Aft Jln Muhibbah
+70129,MacPherson Rd,Opp Jln Muhibbah
+70131,MacPherson Rd,Bef Davidson Rd
+70139,MacPherson Rd,Aft Jln Belangkas
+70141,MacPherson Rd,Citimac Ind Cplx
+70149,MacPherson Rd,MacPherson Green Condo
+70151,Merpati Rd,Aft Jln Anggerek
+70161,Merpati Rd,Blk 14
+70171,Circuit Rd,Blk 77
+70181,Circuit Rd,Blk 36
+70191,Circuit Rd,MacPherson Sec Sch
+70201,Circuit Rd,ITE MacPherson Campus 1
+70211,Pipit Rd,Blk 90
+70221,Circuit Rd,Blk 79 FC
+70231,Mattar Rd,Aft Merpati Rd
+70241,Mattar Rd,MacPherson Pr Sch
+70251,Paya Lebar Rd,Aft PIE
+70259,Paya Lebar Rd,Bef PIE
+70261,Paya Lebar Rd,Opp Orion @ Paya Lebar
+70269,Paya Lebar Rd,Citipoint Ind Cplx
+70271,Paya Lebar Rd,Le Crescendo
+70279,Paya Lebar Rd,Opp Trinity @ Paya Lebar
+70281,Upp Paya Lebar Rd,Aft Tai Seng Stn
+70289,Upp Paya Lebar Rd,Opp Tai Seng Stn
+70291,Upp Paya Lebar Rd,Asiawide Ind Bldg
+70299,Upp Paya Lebar Rd,Opp Asiawide Ind Bldg
+70301,Upp Paya Lebar Rd,Aft Paya Lebar St
+70309,Upp Paya Lebar Rd,Opp Paya Lebar St
+70311,Kallang Way,Flextronic
+70319,Kallang Way,Opp Flextronic
+70321,Kallang Way,Foster/Sanyo
+70329,Kallang Way,Opp Foster/Sanyo
+70331,Kallang Way,JTC Blk
+70339,Kallang Way,Opp JTC Blk
+70341,Tannery Rd,Tannery Blk
+70349,Tannery Rd,Bef Lor Bakar Batu
+70359,Lor Bakar Batu,Aft Kallang Sector
+70361,Genting Lane,Kenwood
+70381,Circuit Rd,Kong Hwa Sch
+70391,Lor Bengkok,Opp MacPherson Sec Sch
+71011,Airport Rd,Aft Paya Lebar Rd
+71021,Airport Rd,Opp Comfort Test Ctr
+71029,Airport Rd,Comfort Test Ctr
+71031,Airport Rd,Opp Gordon Warehse Bldg
+71039,Airport Rd,KB Warehse Cplx
+71041,Airport Rd,Opp Air Force Museum
+71049,Airport Rd,Air Force Museum
+71051,Hougang Ave 3,Aft Kim Chuan Rd
+71059,Hougang Ave 3,Bef Kim Chuan Rd
+71061,Hougang Ave 3,Bef Airport Rd
+71069,Hougang Ave 3,Aft Airport Rd
+71071,Eunos Link,Opp Comfort Driving Ctr
+71079,Eunos Link,Comfort Driving Ctr
+71081,Eunos Link,Eunos Technolink
+71089,Eunos Link,Opp Eunos Technolink
+71091,Eunos Link,Blk 637
+71099,Eunos Link,Blk 311
+71101,Ubi Ave 1,Blk 318
+71109,Ubi Ave 1,Maha Bodhi Sch
+71111,Ubi Ave 1,Blk 343
+71119,Ubi Ave 1,Opp Blk 343
+71131,Ubi Ave 2,Weltech Ind Bldg
+71139,Ubi Ave 2,Blk 302
+71141,Ubi Ave 2,Blk 3023
+71149,Ubi Ave 2,Blk 3024
+71151,Ubi Ave 2,Blk 3021
+71159,Ubi Ave 2,Blk 3026
+71161,Ubi Ave 2,Blk 3019
+71169,Ubi Ave 2,Aztech Bldg
+71171,Airport Rd,Blk 1022
+71179,Airport Rd,Opp Blk 1022
+71181,Airport Rd,Opp Paya Lebar Air Base
+71189,Airport Rd,Paya Lebar Air Base
+71191,Airport Rd,Aft Defu Lane 12 
+71201,Ubi Ave 1,Paya Ubi Ind Pk
+71209,Ubi Ave 1,Opp Paya Ubi Ind Pk
+71211,Ubi Ave 1,Ubi 55
+71219,Ubi Ave 1,Ubi Techpark
+71221,Ubi Rd 1,Meiban Ind Bldg
+71229,Ubi Rd 1,Opp Meiban Ind Bldg
+72011,Jln Eunos,Blk 322
+72019,Jln Eunos,Eunos Mans
+72021,Bedok Reservoir Rd,Blk 646
+72029,Bedok Reservoir Rd,Opp Blk 646
+72031,Kaki Bt Ave 1,Bef Jln Damai
+72039,Kaki Bt Ave 1,Aft Jln Damai
+72041,Jln Tenaga,Opp Blk 658
+72049,Jln Tenaga,Blk 658
+72051,Kaki Bt Ave 1,Kaki Bt Ind Est
+72059,Kaki Bt Ave 1,Opp Kaki Bt Ind Est
+72061,Bedok Reservoir Rd,Blk 122
+72069,Bedok Reservoir Rd,Blk 121
+72071,Bedok Reservoir Rd,Blk 133
+72079,Bedok Reservoir Rd,Blk 609
+72081,Jln Damai,Opp Blk 668
+72089,Jln Damai,Blk 671A
+73019,Airport Rd,Bef RSAF Roundabout
+73021,Tampines Rd,LP 223R12
+73029,Tampines Rd,Opp LP 223R10
+73031,Tampines Rd,LP 223R22
+73039,Tampines Rd,Opp LP 223R21
+73041,Airport Rd,ST Aero
+73049,Airport Rd,Air Force Sch
+73051,TPE,Near Lor Halus
+73052,TPE,TPE 11km towards Changi
+73885,TPE,Express
+73886,TPE,Express
+73996,TPE,Express
+73997,TPE,TPE 11 Km towards SLE
+74011,Tampines Rd,Opp LP 223R29
+74019,Tampines Rd,LP 223R27
+74021,Tampines Rd,Tampines Ind Ave 4
+74029,Tampines Rd,Opp Tampines Ind Ave 4
+74031,Tampines Rd,Aft Jln Sam Kongsi
+74039,Tampines Rd,Bef Jln Sam Kongsi
+74041,Tampines Rd,Opp Golden Pagoda Tp
+74049,Tampines Rd,Golden Pagoda Tp
+74051,Bedok Nth Rd Extn,2A
+74059,Bedok Nth Rd Extn,1A
+74061,Bedok Nth Rd Extn,2B
+74069,Bedok Nth Rd Extn,1B
+74071,Bedok Nth Rd Extn,2C
+74079,Bedok Nth Rd Extn,1C
+74081,Bedok Nth Rd Extn,2D
+74089,Bedok Nth Rd Extn,1D
+74995,PIE,Express
+75008,Tampines Ctrl 1,Tampines Int
+75009,Tampines Ctrl 1,Tampines Int
+75031,Tampines Ave 8,Opp Springfield Sec Sch
+75039,Tampines Ave 8,Springfield Sec Sch
+75051,Tampines Ave 1,Opp SAFRA Tampines
+75059,Tampines Ave 1,SAFRA Tampines
+75061,Bedok Reservoir Rd,Opp Bedok Reform Trg Ctr
+75069,Bedok Reservoir Rd,Bedok Reform Trg Ctr
+75071,Tampines Ave 3,Opp Blk 819
+75079,Tampines Ave 3,Blk 819
+75081,Tampines Ave 3,Blk 831
+75089,Tampines Ave 3,Blk 827
+75099,Tampines St 81,Blk 897
+75101,Tampines Ave 3,Blk 880
+75109,Tampines Ave 3,Blk 888
+75111,Tampines St 84,Blk 874A
+75121,Tampines Ave 5,Opp Darul Ghufran Mque
+75129,Tampines Ave 5,Darul Ghufran Mque
+75131,Tampines Ave 5,Bet Blks 701/702
+75139,Tampines Ave 5,Blk 863
+75141,Tampines Ave 5,Blk 730
+75149,Tampines Ave 5,Blk 867A
+75151,Tampines Ave 8,Opp Blk 871A
+75159,Tampines Ave 8,Blk 874
+75161,Tampines St 83,Blk 855
+75169,Tampines St 83,Opp Blk 853
+75171,Tampines Ave 7,Aft Tampines Ave 9
+75179,Tampines Ave 7,Bef Tampines Ave 9
+75181,Tampines Ave 12,Aft Tampines Ave 9
+75189,Tampines Ave 12,Aft TPE
+75191,Tampines Ave 9,Aft Tampines Ave 12 
+75199,Tampines Ave 9,Aft Tampines Ave 7
+75201,Tampines St 83,Blk 835
+75209,Tampines St 83,Blk 882A
+75219,Tampines St 81,Blk 889
+75221,Tampines Ave 1,Opp Temasek Poly East G
+75229,Tampines Ave 1,Temasek Poly East G
+75231,Tampines Ave 1,Opp Temasek Poly
+75239,Tampines Ave 1,Temasek Poly
+75241,Tampines Ave 1,Opp Temasek Poly West G
+75249,Tampines Ave 1,Temasek Poly West G
+75251,Tampines Ave 1,Opp Tropica Condo
+75259,Tampines Ave 1,Tropica Condo
+75261,Tampines Ave 6,Bet Blks 710/713
+75269,Tampines Ave 6,Opp Blks 710/713
+75271,Tampines Ave 9,Blk 721
+75279,Tampines Ave 9,Opp Blk 721
+75281,Tampines Ave 9,Blk 742A
+75289,Tampines Ave 9,Opp Blks 741/742
+75291,Tampines Ave 10,Aft Tampines Ave 9
+75299,Tampines Ave 10,Bef Tampines Ave 9
+75301,Tampines Ave 10,Decs2
+75309,Tampines Ave 10,Decs2b
+75311,Tampines Ave 10,Tampines Dormitory
+75319,Tampines Ave 10,Opp Tampines Dormitory
+75329,Tampines St 71,Poi Ching Pr Sch
+75339,Tampines St 71,Blk 734
+75341,Bedok Reservoir Rd,Opp The Clearwater Condo
+75349,Bedok Reservoir Rd,The Clearwater Condo
+75351,Tampines Ave 10,Bef TPE
+75359,Tampines Ave 10,Aft TPE
+75361,Tampines Ave 10,Bef Tampines Ind Ave 5
+75369,Tampines Ave 10,Opp HNS Micro Siltronic
+75371,Tampines Ave 10,Aft Tampines Ave 5
+75379,Tampines Ave 10,Bef Tampines Ave 5
+76051,Tampines Ave 5,Tampines Stadium
+76059,Tampines Ave 5,Opp Tampines Stadium
+76061,Tampines Ave 5,Blk 938
+76069,Tampines Ave 5,Blk 147
+76071,Tampines Ave 2,Blk 141
+76079,Tampines Ave 2,Blk 101
+76081,Tampines Ave 2,Opp The Holy Trinity Ch
+76089,Tampines Ave 2,The Holy Trinity Ch
+76091,Tampines Ave 2,Blk 206
+76099,Tampines Ave 2,Blk 285
+76101,Tampines Ave 2,Tampines East CC
+76109,Tampines Ave 2,Blk 302
+76111,Tampines Ave 4,Blk 945
+76119,Tampines Ave 4,Opp Blk 945
+76121,Tampines Ave 4,Opp St. Hilda's Sec Sch
+76129,Tampines Ave 4,St. Hilda's Sec Sch
+76131,Tampines Ave 4,UOB Tampines Ctr
+76139,Tampines Ave 4,Opp Century Sq
+76141,Tampines Ave 4,Tampines Stn/Int
+76149,Tampines Ave 4,Opp Tampines Stn/Int
+76151,Tampines St 21,Blk 237
+76159,Tampines St 21,Opp Blk 237
+76161,Tampines St 21,Opp Blk 248
+76169,Tampines St 21,Blk 248
+76171,Tampines St 21,Blk 266
+76179,Tampines St 21,Opp Blk 266
+76181,Tampines St 23,Blk 216
+76189,Tampines St 23,Opp Blk 216
+76191,Tampines Ave 7,Opp Tampines Reg Lib
+76199,Tampines Ave 7,Bef Tampines Reg Lib
+76201,Tampines Ave 7,Blk 423
+76209,Tampines Ave 7,Blk 233
+76211,Tampines Ave 7,Blk 449
+76219,Tampines Ave 7,Blk 230E
+76221,Tampines Ave 7,Opp Blk 230
+76229,Tampines Ave 7,Blk 229
+76231,Tampines Ave 7,Tampines JC 
+76239,Tampines Ave 7,Opp Tampines JC 
+76241,Tampines Ave 7,Blk 497D
+76249,Tampines Ave 7,Blk 370
+76251,Tampines St 45,Blk 487B
+76259,Tampines St 45,Opp Blk 487B
+76261,Tampines St 45,Blk 489B
+76269,Tampines St 45,Opp Blk 489A
+76271,Tampines St 45,Dunman Sec Sch
+76279,Tampines St 45,Blk 491C
+76281,Tampines Ave 4,East View Pr Sch
+76289,Tampines Ave 4,Opp East View Pr Sch
+76291,Tampines St 22,Opp Blk 280
+76301,Tampines St 22,Blk 283
+76311,Tampines Ave 9,Opp Tampines JC
+76319,Tampines Ave 9,Tampines JC
+76329,Tampines St 11,Blk 125
+76339,Tampines St 11,Blk 121
+76341,Tampines Ave 9,Blk 464
+76349,Tampines Ave 9,Dunman Sec Sch
+76351,Tampines Ave 9,Blk 484
+76359,Tampines Ave 9,Blk 493B
+76361,Tampines Ave 9,Blk 430
+76369,Tampines Ave 9,Blk 496F
+76371,Tampines St 42,Blk 459
+76389,Tampines St 43,Blk 442
+76391,Tampines St 41,Blk 418
+76399,Tampines St 41,Blk 417
+76401,Tampines St 21,Blk 230B
+76409,Tampines St 21,Blk 259
+76411,Tampines St 32,Ngee Ann Sec Sch
+76419,Tampines St 32,Blk 307A
+76421,Tampines St 32,Opp Blk 331
+76429,Tampines St 32,Blk 331
+76439,Tampines St 33,Blk 351
+76449,Tampines St 33,Blk 343
+76459,Tampines St 33,Blk 323
+76461,Tampines St 34,Eden Condo
+76469,Tampines St 34,East Spring Sec Sch
+77009,Pasir Ris Dr 3,Pasir Ris Int
+77011,Pasir Ris Dr 1,Opp Blk 515
+77019,Pasir Ris Dr 1,Blk 515
+77021,Pasir Ris Dr 1,Opp Blk 571
+77029,Pasir Ris Dr 1,Blk 571
+77031,Pasir Ris Dr 1,Aft Pasir Ris Ctrl
+77039,Pasir Ris Dr 1,Bef Pasir Ris Ctrl
+77041,Pasir Ris Dr 1,Blk 541
+77049,Pasir Ris Dr 1,Pasir Ris Town Pk
+77051,Pasir Ris Dr 1,Blk 115
+77059,Pasir Ris Dr 1,Blk 425
+77061,Elias Rd,Ris Grandeur
+77069,Elias Rd,Opp Ris Grandeur
+77071,Elias Rd,Blk 633
+77079,Elias Rd,Elias Mall
+77081,Elias Rd,Aft Pasir Ris Dr 3
+77089,Elias Rd,Bef Pasir Ris Dr 3
+77091,Elias Rd,Bef Pasir Ris Way
+77099,Elias Rd,Bef Pasir Ris Ave
+77101,Elias Rd,Bef Pasir Ris Rd
+77109,Elias Rd,Aft Pasir Ris Rd
+77111,Pasir Ris Rd,Bef Pasir Ris Way
+77119,Pasir Ris Rd,Aft Pasir Ris Way
+77129,Pasir Ris Rd,Opp Unit 104
+77131,Pasir Ris St 52,Blk 502
+77139,Pasir Ris St 52,Blk 582
+77141,Pasir Ris St 52,Blk 519
+77151,Pasir Ris Dr 8,Aft TPE
+77159,Pasir Ris Dr 8,Bef TPE
+77161,Pasir Ris Dr 10,Blk 741
+77169,Pasir Ris Dr 10,Meridian JC
+77171,Pasir Ris Ctrl,Opp Pasir Ris Town Pk
+77179,Pasir Ris Ctrl,Pasir Ris Town Pk
+77181,Elias Rd,Blk 638
+77189,Elias Rd,Blk 613
+77191,Pasir Ris Dr 3,Blk 500A
+77199,Pasir Ris Dr 3,Opp Blk 500A
+77201,Pasir Ris Dr 3,Aft Blk 601
+77209,Pasir Ris Dr 3,Opp Blk 601
+77211,Pasir Ris Dr 3,Blk 626
+77219,Pasir Ris Dr 3,Opp Blk 626
+77221,Pasir Ris Dr 10,Blk 651
+77231,Pasir Ris Dr 1,Meridian JC
+77239,Pasir Ris Dr 1,Blk 643
+77241,Pasir Ris Dr 1,Opp Blk 640
+77249,Pasir Ris Dr 1,Blk 640
+77251,Pasir Ris Dr 3,Blk 713
+77259,Pasir Ris Dr 3,Opp Blk 713
+77261,Pasir Ris Dr 12,Blk 717
+77269,Pasir Ris Dr 12,Opp Blk 717
+77271,Pasir Ris Dr 12,Aft Pasir Ris St 72
+77279,Pasir Ris Dr 12,Aft Pasir Ris Dr 1
+77281,Pasir Ris Dr 1,Blk 740
+77289,Pasir Ris Dr 1,Blk 738
+77291,Pasir Ris St 71,Blk 753
+77301,Pasir Ris St 71,Blk 778
+77309,Pasir Ris St 71,Opp Blk 778
+77311,Pasir Ris St 71,Bet Blks 771/772
+77319,Pasir Ris St 71,Opp Blks 771/772
+77321,Pasir Ris Ctrl,Aft Pasir Ris St 53
+77329,Pasir Ris Ctrl,Bef Pasir Ris St 53
+77331,Pasir Ris Dr 12,Blk 747A
+77339,Pasir Ris Dr 12,Aft TPE
+77341,Pasir Ris St 51,Opp Blk 569
+77349,Pasir Ris St 51,Blk 569
+77351,Pasir Ris St 51,Blk 562
+77359,Pasir Ris St 51,Blk 564
+77361,Pasir Ris St 51,Blk 555
+77369,Pasir Ris St 51,Opp Blk 555
+78051,Pasir Ris Dr 1,Blk 197
+78059,Pasir Ris Dr 1,Blk 210
+78061,Pasir Ris Dr 1,Blk 104
+78069,Pasir Ris Dr 1,Blk 442
+78071,Pasir Ris Dr 6,Blk 446
+78079,Pasir Ris Dr 6,Blk 429
+78081,Pasir Ris Dr 6,Blk 467
+78089,Pasir Ris Dr 6,Blk 405
+78091,Pasir Ris Cl,Opp Downtown East
+78099,Jln Loyang Besar,Aft Loyang Gdns
+78101,Pasir Ris Dr 3,Opp Downtown East
+78109,Pasir Ris Dr 3,Downtown East
+78111,Pasir Ris Dr 3,Blk 479
+78119,Pasir Ris Dr 3,Opp Blk 479
+78121,Pasir Ris Dr 3,Bet Blks 232/233
+78129,Pasir Ris Dr 3,Opp Blk 233
+78131,Pasir Ris Dr 3,Pasir Ris Pr Sch
+78139,Pasir Ris Dr 3,Opp Pasir Ris Pr Sch
+78141,Pasir Ris Dr 3,Greenview Sec Sch
+78149,Pasir Ris Dr 3,Opp Greenview Sec Sch
+78151,Pasir Ris Dr 4,Blk 230
+78159,Pasir Ris Dr 4,Opp Blk 230
+78161,Pasir Ris Dr 4,Blk 216
+78169,Pasir Ris Dr 4,Opp Blk 216
+78171,Pasir Ris St 11,Blk 108
+78181,Pasir Ris St 11,Bef Blk 187
+78191,Pasir Ris St 11,Aft Blk 182
+78201,Pasir Ris St 21,Opp Blk 242
+78209,Pasir Ris St 21,Blk 242
+78211,Pasir Ris St 21,Blk 204
+78219,Pasir Ris St 21,Opp Blk 204
+78221,Pasir Ris Dr 4,Blk 231A CP
+78229,Pasir Ris Dr 4,Blk 485
+78231,Pasir Ris St 41,Opp Blk 482
+78241,Pasir Ris St 41,Bet Blks 453/454
+78251,Jln Loyang Besar,Lighthouse
+78259,Jln Loyang Besar,Opp Lighthouse
+78261,Jln Loyang Besar,Unit 169
+78269,Jln Loyang Besar,Opp Coastal View
+78271,Jln Loyang Besar,Casa Pasir Ris
+78279,Jln Loyang Besar,Opp Loyang Townhouse
+80009,Lor 1 Geylang,Lor 1 Geylang Ter
+80011,Kallang Rd,Opp Sri Manmatha K Tp
+80029,Kallang Rd,Aft Kallang Rd ERP Gantry
+80031,Sims Ave,Kallang Stn
+80039,Geylang Rd,Aft People's Assn
+80049,Geylang Rd,Aft Sims Way
+80051,Sims Ave,Aft Lor 1 Geylang
+80069,Geylang Rd,Opp Mohd Salleh Mque
+80071,Sims Ave,Yi Xiu Fty Bldg
+80089,Geylang Rd,Bef Lor 18 Geylang
+80091,Sims Ave,Bef Lor 23 Geylang
+80101,Lor 1 Geylang,Opp Blk 2C
+80109,Lor 1 Geylang,Bet Blks 2B/2C
+80111,Sims Way,Bef Geylang Rd
+80119,Sims Way,Aft Geylang Rd
+80131,Mountbatten Rd,Aft Nicoll Highway
+80139,Mountbatten Rd,Aft Lor 4 Geylang
+80141,Mountbatten Rd,Opp Mountbatten Voc Sch
+80149,Mountbatten Rd,Mountbatten Voc Sch
+80151,Nicoll Highway,Opp Suntec City
+80159,Nicoll Highway,Suntec City
+80161,Nicoll Highway,The Concourse
+80169,Nicoll Highway,Nicoll Highway Stn
+80171,Stadium Walk,CP F
+80179,Stadium Cres,Opp CP F
+80181,Stadium Blvd,Kallang Squash Ctr
+80189,Stadium Blvd,Opp Kallang Squash Ctr
+80191,Stadium Walk,Opp S'pore Indoor Stadium
+80199,Stadium Cres,S'pore Indoor Stadium
+80201,Stadium Rd,Aft Stadium Rd
+80209,Stadium Rd,Aft Stadium Dr
+80211,Nicoll Highway,People's Assn
+80219,Nicoll Highway,Natl Stadium
+80229,Sims Dr,Blk 45
+80231,Sims Dr,Blk 59
+80239,Sims Dr,Opp Blk 59
+80249,Sims Pl,Blk 49 Mkt/FC
+80251,Guillemard Rd,Assn Bldg
+80259,Guillemard Rd,Aft Chen Li Presby Ch
+80269,Lor 17 Geylang,Bef Sims Ave
+80279,Mountbatten Rd,Blk 2
+80289,Sims Pl,Sims Place Ter
+80291,Geylang Bahru,Blk 82
+80299,Geylang Bahru,Opp Blk 82
+80301,Upp Boon Keng Rd,Bef Blk 19
+80309,Upp Boon Keng Rd,Aft Geylang West CC
+80311,Upp Boon Keng Rd,Blk 3B
+80319,Upp Boon Keng Rd,Geylang West CC
+81011,Sims Ave,Aljunied Stn
+81029,Geylang Rd,Aft Lor 28 Geylang
+81031,Sims Ave,Bef Geylang East Ave 2
+81049,Geylang Rd,Aft Lor 34 Geylang
+81051,Sims Ave,Sims Ville
+81069,Geylang Rd,Opp Lor 39 Geylang
+81081,Aljunied Rd,Opp Aljunied Stn
+81089,Aljunied Rd,Aljunied Stn
+81091,Aljunied Rd,Blk 60
+81099,Aljunied Rd,Blk 102
+81101,Paya Lebar Rd,CISCO Ctr
+81109,Paya Lebar Rd,Opp CISCO Ctr
+81111,Paya Lebar Rd,Paya Lebar Stn
+81119,Paya Lebar Rd,Opp Paya Lebar Stn
+81129,Paya Lebar Rd,Bef Geylang Fire Stn
+81131,Guillemard Rd,Opp Grandlink Sq
+81139,Guillemard Rd,Grandlink Sq
+81141,Guillemard Rd,Versailles Condo
+81149,Guillemard Rd,Opp Versailles Condo
+81151,Guillemard Rd,Kong Hwa Sch
+81159,Guillemard Rd,Opp Chung Cheng High Sch
+81161,Guillemard Rd,Bef S'pore Badminton Assn
+81169,Guillemard Rd,Aft S'pore Badminton Assn
+81171,Old Airport Rd,Blk 39
+81179,Old Airport Rd,Blk 22
+81181,Old Airport Rd,Blk 99
+81189,Old Airport Rd,Blk 62
+81191,Dunman Rd,Opp NorthLight Sch 
+81199,Dunman Rd,NorthLight Sch
+81201,Geylang East Ctrl,Opp Geylang Meth Sec Sch
+81209,Geylang East Ctrl,Geylang Meth Pr Sch
+81211,Geylang East Ctrl,Geylang Polyclinic
+81219,Geylang East Ctrl,Opp Geylang Polyclinic
+81221,Geylang East Ctrl,Folec Tech Ctr
+81229,Geylang East Ctrl,Opp Folec Tech Ctr
+81231,Aljunied Rd,Opp SCN Ctr
+81241,Cassia Link, Express
+81249,Cassia Link, Express
+81251,Guillemard Camp Rd,Express
+81259,Guillemard Camp Rd,Express
+82009,Eunos Rd 2,Eunos Int
+82011,Sims Ave,Aft Tg Katong Cplx
+82029,Geylang Rd,Blk 14 Mkt/FC
+82032,Sims Ave,Blk 416
+82033,Sims Ave,Blk 414
+82049,Changi Rd,Joo Chiat Cplx
+82061,Sims Ave,Eunos Stn
+82069,Changi Rd,Aft GE Life Ctr
+82071,Tg Katong Rd,Opp Tg Katong Girls' Sch
+82079,Tg Katong Rd,Tg Katong Girls' Sch
+82081,Tg Katong Rd,Aft Dunman Rd
+82089,Tg Katong Rd,Shell Kiosk
+82091,Tg Katong Rd,Aft Queen of Peace Ch
+82099,Tg Katong Rd,CDAC Bldg
+82109,Geylang Rd,City Plaza
+82111,Tg Katong Rd,Opp Tg Katong Cplx
+82119,Tg Katong Rd,Tg Katong Cplx
+82121,Dunman Rd,Dunman View
+82129,Dunman Rd,Tg Katong Sec Sch 
+82131,Dunman Rd,Opp Maranatha Hall
+82139,Dunman Rd,Maranatha Hall
+82149,Joo Chiat Rd,Bef Koon Seng Rd
+82141,Tembeling Rd,Aft Koon Seng Rd
+82159,Joo Chiat Pl,Aft Tembeling Rd
+82151,Tembeling Rd,Bef Joo Chiat Pl
+82171,Joo Chiat Pl,Bef Mangis Rd
+82179,Joo Chiat Pl,Joo Chiat Ct
+82181,Joo Chiat Pl,Flora East
+82221,Jln Turi,Aft Changi Rd
+82229,Jln Ubi,Kg Ubi CC
+82231,Guillemard Rd,Opp City Plaza
+83011,Sims Ave East,Casa Sarina
+83029,Changi Rd,Bef Jamiyah Home
+83031,Sims Ave East,Opp Hong San Si Tp
+83049,Changi Rd,Bef Lor 110 Changi
+83059,Changi Rd,Mjd Kassim
+83062,Sims Ave East,Kembangan Stn
+83063,Sims Ave East,The Budd Union
+83079,Changi Rd,Bef Siglap Plain
+83081,Sims Ave East,Opp Perpetual Succour Ch
+83099,Changi Rd,Aft Perpetual Succour Ch
+83101,Jln Eunos,Eunos Stn
+83109,Jln Eunos,Opp Eunos Stn
+83111,Jln Eunos,Blk 17
+83119,Jln Eunos,Opp Blk 16
+83121,Telok Kurau Rd,Bef Lor K Telok Kurau
+83129,Telok Kurau Rd,Aft Ji Xiang Ct
+83131,Telok Kurau Rd,Aft Lor H Telok Kurau
+83139,Telok Kurau Rd,Aft Joo Chiat Pl
+83141,Telok Kurau Rd,Telok Kurau Sec Sch
+83149,Telok Kurau Rd,Telok Kurau Ct
+83151,Joo Chiat Pl,East Shore Hosp
+83159,Joo Chiat Pl,Opp East Shore Hosp
+83169,Joo Chiat Pl,Bef Still Rd
+83171,Frankel Ave,Bef Roseburn Ave
+83179,Frankel Ave,Aft Siglap Dr
+83181,Frankel Ave,Aft Bethesda Frankel Ch
+83189,Frankel Ave,Bef Bethesda Frankel Ch
+83191,Frankel Ave,Bef Frankel Dr
+83199,Frankel Ave,Aft Frankel Dr
+83201,Frankel Ave,Bef Frankel Terr
+83209,Frankel Ave,Aft Frankel Terr
+83219,Siglap Dr,Bef Frankel Ave
+83229,Siglap Dr,Bef Carlton Ave
+83231,Siglap Rd,Bef Siglap Dr
+83239,Siglap Rd,Opp Cheviot Hill
+83249,Siglap Rd,Flamingo Valley
+83251,Fidelio St,Bef Jln Khairuddin
+83261,Fidelio St,Opera Est Pr Sch
+83269,Fidelio St,Opp Opera Est Pr Sch
+83271,Fidelio St,Aft Swan Lake Ave
+83279,Fidelio St,Aft Carmen St
+83281,Fidelio St,Bef Tosca St
+83291,Still Rd,Flora East
+83299,Still Rd,Aft Lor G Telok Kurau
+83301,Still Rd,Aft East Coast Rd
+83309,Still Rd,Aft Still Lane
+83311,Still Rd,Aft Lor Nangka
+83319,Still Rd,Aft Lor J Telok Kurau
+83321,Jln Kembangan,Kembangan Stn
+83329,Jln Kembangan,Opp Kembangan Stn
+83331,Lengkong Tiga,Kg Kembangan CC
+83341,Lengkong Tiga,Blk 102
+83351,Lengkong Empat,Grosvenor View
+83361,Lengkong Empat,Hua Yu Mans
+83371,Jln Selamat,Aft Jln Paras
+83381,Taman Kembangan,Bef Jln Kembangan
+84008,Bedok Nth Ave 1,Bedok Int
+84009,Bedok Nth Ave 1,Bedok Int
+84011,New Upp Changi Rd,Chai Chee Ind Pk
+84019,New Upp Changi Rd,Opp Chai Chee Ind Pk
+84021,New Upp Changi Rd,Blk 32
+84029,New Upp Changi Rd,Opp Blk 32
+84031,New Upp Changi Rd,Bedok Stn
+84039,New Upp Changi Rd,Bedok Stn
+84041,New Upp Changi Rd,Blk 221A
+84049,New Upp Changi Rd,Blk 27
+84051,New Upp Changi Rd,Bedok Sports Cplx
+84059,New Upp Changi Rd,Blk 65
+84061,New Upp Changi Rd,The Tanamera Condo
+84069,New Upp Changi Rd,Blk 55
+84071,Bedok Sth Rd,Blk 71
+84079,Bedok Sth Rd,Blk 45
+84081,Bedok Sth Rd,Opp Blk 40
+84089,Bedok Sth Rd,Blk 40
+84099,Bedok Sth Ave 2,Bedok Sth Pr Sch
+84101,Bedok Sth Ave 3,Opp Blk 49
+84109,Bedok Sth Ave 3,Blk 50
+84111,Bedok Sth Rd,Temasek JC
+84119,Bedok Sth Rd,Opp Temasek JC
+84121,Bedok Sth Rd,Hitachi Chemical
+84129,Bedok Sth Rd,Fujitec S'pore Ltd
+84131,Bedok Sth Rd,Opp Panasonic
+84139,Bedok Sth Rd,Panasonic
+84141,Bedok Sth Rd,Opp Lion Home for Elders
+84149,Bedok Sth Rd,Lion Home For Elders
+84151,Bedok Sth Ave 1,Casafina
+84159,Bedok Sth Ave 1,Hitachi Consumer Products
+84191,Bedok Nth Ave 3,Blk 220 CP
+84199,Bedok Nth Ave 3,Opp Blk 220 CP
+84201,Bedok Nth Ave 3,Opp Blk 761
+84209,Bedok Nth Ave 3,Opp Baywater
+84211,Bedok Nth Ave 3,Blk 403
+84219,Bedok Nth Ave 3,Bet Blks 139/140
+84221,Bedok Nth Rd,Blk 109
+84229,Bedok Nth Rd,Blk 111
+84231,Bedok Nth Rd,Blk 85
+84239,Bedok Nth Rd,Opp Blk 85
+84241,Bedok Nth Rd,Blk 81
+84249,Bedok Nth Rd,Blk 124
+84251,Bedok Nth Ave 4,Blk 99
+84259,Bedok Nth Ave 4,Blk 88
+84261,Bedok Nth Ave 4,St. Anthony's Cano Sch
+84269,Bedok Nth Ave 4,Blk 95
+84271,Bedok Nth Ave 4,Opp Goldbell Svc Ctr
+84279,Bedok Nth Ave 4,Goldbell Svc Ctr
+84281,Bedok Nth Rd,Blk 180
+84289,Bedok Nth Rd,Opp Blk 180
+84301,Bedok Nth Ave 1,Opp Kg Chai Chee CC
+84309,Bedok Nth Ave 1,Kg Chai Chee CC
+84311,Bedok Nth Rd,Blk 521
+84319,Bedok Nth Rd,Blk 428
+84321,Bedok Nth Rd,Blk 516
+84329,Bedok Nth Rd,Blk 414
+84331,Bedok Nth Ave 2,Opp Blk 416
+84339,Bedok Nth Ave 2,Blk 416
+84341,Bedok Nth Rd,Opp Fengshan Pr Sch
+84349,Bedok Nth Rd,Fengshan Pr Sch
+84351,Bedok Nth St 1,Bedok Ctrl PO
+84359,Bedok Nth St 1,Opp Bedok Ctrl PO
+84361,Bedok Nth Rd,Blk 547
+84369,Bedok Nth Rd,Blk 45
+84371,Bedok Nth Ave 1,Blk 546
+84379,Bedok Nth Ave 1,Opp Blk 546
+84381,Bedok Nth St 3,Blk 544
+84391,Bedok Nth St 3,Blk 534
+84401,Bedok Nth St 3,Opp Blk 550
+84409,Bedok Nth St 3,Blk 550
+84411,Bedok Nth St 3,Blk 526
+84419,Bedok Nth St 3,Blk 512
+84421,Bedok Nth Ave 2,Blk 510
+84431,Bedok Nth Ave 4,Blk 3011
+84439,Bedok Nth Ave 4,Opp Blk 3011
+84449,Bedok Nth St 3,Blk 509
+84451,Bedok Nth Rd,Opp Blks 705/706
+84459,Bedok Nth Rd,Bet Blks 705/706
+84461,Bedok Reservoir Rd,Opp Blk 701
+84469,Bedok Reservoir Rd,Blk 703
+84471,Bedok Reservoir Rd,Blk 745
+84479,Bedok Reservoir Rd,Blk 713
+84481,Bedok Reservoir Rd,Opp Kaki Bt Ctr
+84489,Bedok Reservoir Rd,Aft Kaki Bt Ctr
+84491,Bedok Reservoir Rd,Blk 629
+84499,Bedok Reservoir Rd,Blk 140
+84501,Bedok Reservoir Rd,Christ Ch
+84511,Bedok Reservoir Rd,Blk 608
+84521,Bedok Nth Ave 3,Blk 506
+84529,Bedok Nth Ave 3,Blk 109
+84541,Chai Chee St,Blk 42
+84549,Chai Chee St,Opp Blk 42
+84559,Chai Chee St,Opp Blks 50/51
+84569,Chai Chee St,Opp Blk 53
+84579,Chai Chee Dr,Aft Chai Chee St
+84589,Chai Chee Dr,Bef New Upp Changi Rd
+84591,Bedok Nth Ave 4,SBST Bedok Bus Pk
+84599,Bedok Nth Ave 4,Opp SBST Bedok Bus Pk
+84601,Bedok Reservoir Rd,Opp Blk 738
+84609,Bedok Reservoir Rd,Blk 738
+84611,Bedok Reservoir Rd,Opp Blk 726
+84619,Bedok Reservoir Rd,Blk 726
+84621,Bedok Reservoir Rd,Opp Blk 716
+84629,Bedok Reservoir Rd,Blk 716
+84631,Bedok Reservoir Rd,Opp Blks 731/734
+84639,Bedok Reservoir Rd,Bet Blks 731/734
+84641,Chai Chee Rd,Blk 24
+84649,Chai Chee Rd,Opp Blk 24
+84661,Bedok Sth Ave 3,Blk 172
+84669,Bedok Sth Ave 3,Blk 73
+84671,Bedok Sth Ave 3,Aft Blk 156
+84679,Bedok Sth Ave 3,Opp Blk 156
+84681,Bedok Sth Rd,Blk 163
+84691,Bedok Sth Rd,Blk 171
+84701,Kaki Bt Ave 1,Blk 151
+84709,Kaki Bt Ave 1,Opp Blk 150
+85019,Bedok Rd,Eastwood Ctr
+85021,Bedok Rd,Country Pk
+85029,Bedok Rd,Aft Bedok Meth Ch
+85031,Bedok Rd,Excelsior Gdns
+85039,Bedok Rd,Opp Excelsior Gdns
+85041,Bedok Rd,Man Fatt Lam Tp
+85049,Bedok Rd,Opp Man Fatt Lam Tp
+85051,Bedok Rd,Aft Jln Chempaka Kuning
+85059,Bedok Rd,Bef Jln Chempaka Kuning
+85061,Bedok Rd,Opp Bedok Mkt Pl
+85069,Bedok Rd,Bedok Mkt Pl
+85071,Upp Changi Rd,Bef Changi Fire Stn
+85079,Upp Changi Rd,Flextronic
+85081,Upp Changi Rd,Bef Jln Pari Burong
+85089,Upp Changi Rd,Bef Jln Chempaka Kuning
+85091,New Upp Changi Rd,Tanah Merah Stn
+85099,New Upp Changi Rd,Tanah Merah Stn
+85101,Upp Changi Rd East,Aft Bedok Rd
+85109,Upp Changi Rd East,Bef Bedok Rd
+90011,Tg Rhu Rd,Bef Tg Rhu View
+90019,Tg Rhu Rd,Pk Shore Condo
+90021,Tg Rhu Rd,Pebble Bay
+90029,Tg Rhu Rd,Opp Pebble Bay
+90031,Tg Rhu Rd,Tg Ria Condo
+90039,Tg Rhu Rd,Opp Tg Ria Condo
+90041,Tg Rhu Rd,Express
+90049,Tg Rhu Rd,Express
+90051,Tg Rhu Rd,Opp S'pore Swim Club
+90059,Tg Rhu Rd,S'pore Swim Club
+90061,Tg Rhu Rd,Dunman High Sch
+90069,Tg Rhu Rd,Opp Dunman High Sch
+90079,Rhu Cross,Opp Costa Rhu Condo
+90985,ECP,Express
+90986,ECP,Express
+90995,ECP,Fort Rd Junction/ECP
+90996,ECP,Fort Rd Junction/ECP
+91041,Mountbatten Rd,The Nurture Cottage
+91049,Mountbatten Rd,Muhammadiyah Welfare Home
+91051,Mountbatten Rd,Opp Santa Fe Mans
+91059,Mountbatten Rd,Katong Pk Twrs
+91061,Mountbatten Rd,Bet Hse No. 767/767A
+91069,Mountbatten Rd,Bef Walton Rd
+91071,Mountbatten Rd,Bef Tg Katong Rd
+91079,Mountbatten Rd,Aft Tg Katong Rd
+91081,Fort Rd,Fort Gdns
+91089,Fort Rd,Opp Fort Gdns
+91091,Mountbatten Rd,Bef Kg Kayu Rd
+91099,Mountbatten Rd,Bef Wilkinson Rd
+91101,East Coast Pk Svc Rd,Tg Katong Flyover
+91109,East Coast Pk Svc Rd,Opp Tg Katong Flyover
+91111,East Coast Pk Svc Rd,CP B1
+91119,East Coast Pk Svc Rd,CP E2
+91129,East Coast Pk Svc Rd,Crocodilarium
+91121,Meyer Rd,Hse 189
+91131,Meyer Rd,Peach Gdn
+91141,Meyer Rd,The Sovereign
+91151,Meyer Rd,Hawaii Twr
+91161,Meyer Rd,The Seafront
+92041,Marine Parade Rd,Opp Parkway Parade
+92049,Marine Parade Rd,Parkway Parade
+92051,Marine Parade Rd,Opp Blk 72
+92059,Marine Parade Rd,Bet Blks 72/74
+92061,Marine Parade Rd,CHIJ Katong Convent (Pr)
+92069,Marine Parade Rd,Tao Nan Sch
+92071,Marine Parade Rd,Opp Blk 57
+92079,Marine Parade Rd,Blk 57
+92081,Marine Parade Rd,St. Patrick's Sec Sch
+92089,Marine Parade Rd,CHIJ Katong Convent
+92091,Mountbatten Rd,Opp One Amber
+92099,Mountbatten Rd,One Amber
+92101,Mountbatten Rd,Katong Shop Ctr
+92109,Mountbatten Rd,Opp Katong Shop Ctr
+92111,East Coast Rd,Opp Roxy Sq
+92119,East Coast Rd,Roxy Sq
+92121,East Coast Rd,Opp The Holy Family Ch
+92129,East Coast Rd,The Holy Family Ch
+92131,East Coast Rd,Katong Omega Apt
+92139,East Coast Rd,Opp Katong Omega Apt
+92141,East Coast Rd,Ocean Apts
+92149,East Coast Rd,St. Patrick's Green
+92151,East Coast Rd,Christ Meth Ch
+92159,East Coast Rd,St. Patrick's Sec Sch
+92161,Tg Katong Rd,Aft Katong PO
+92169,Tg Katong Rd,Bef Katong PO
+92171,Joo Chiat Rd,Marshall Lane
+92179,Joo Chiat Rd,Aft Duku Rd
+92181,Joo Chiat Rd,Katong Mall
+92189,Joo Chiat Rd,Parkway Hotel
+92191,East Coast Pk Svc Rd,Opp CP C3
+92199,East Coast Pk Svc Rd,Tennis Ctr
+92201,Telok Kurau Rd,Tandeville
+92209,Telok Kurau Rd,Opp Tandeville
+92211,Marine Terr,CHIJ Katong Convent (Sec)
+92219,Marine Terr,Opp CHIJ Katong Convent
+92221,Marine Terr,Blk 19
+92229,Marine Terr,Blk 53
+92231,Marine Cres,Blk 34
+92239,Marine Cres,Blk 45
+92241,Amber Rd,Amber Gdn
+92249,Amber Rd,Opp Amber Gdn
+92251,East Coast Pk Svc Rd,Opp Singa Inn
+92259,East Coast Pk Svc Rd,Singa Inn
+92261,East Coast Pk Svc Rd,Opp Playground @ Big Splash
+92271,Still Rd Sth,Bef Grand Hotel
+92279,Still Rd Sth,Aft Grand Hotel
+92289,East Coast Pk Svc Rd,Regent Bowl
+92291,East Coast Pk Svc Rd,Aft Marine Parade Flyover
+92299,East Coast Pk Svc Rd,Opp Marine Parade Flyover
+92301,Telok Kurau Rd,Bef St. Patrick's Rd
+92309,Telok Kurau Rd,East Coast Apts
+93011,Marine Parade Rd,Opp Neptune Ct
+93019,Marine Parade Rd,Neptune Ct
+93021,Marine Parade Rd,Opp Mandarin Gdns 
+93029,Marine Parade Rd,Mandarin Gdns
+93031,Marine Parade Rd,Opp Laguna Pk
+93039,Marine Parade Rd,Laguna Pk
+93041,Marine Parade Rd,Hua Xin Ct
+93049,Marine Parade Rd,Lagoon View
+93051,East Coast Rd,Aft Dunbar Walk
+93059,East Coast Rd,Aft Jln Buloh Perindu
+93061,East Coast Rd,Bef Siglap Rd
+93069,East Coast Rd,Aft Siglap Rd
+93071,Upp East Coast Rd,Crescendo Bldg
+93079,East Coast Rd,Opp Springvale
+93081,Upp East Coast Rd,Opp Chiang Ct
+93089,Upp East Coast Rd,Opp Goodwill Ct
+93091,Upp East Coast Rd,Opp Siglap Sth CC
+93099,Upp East Coast Rd,Siglap Sth CC
+93101,Frankel Ave,Aft Coldstream Ave
+93109,Frankel Ave,Bef Frankel Pl
+93111,Siglap Rd,Bef Elite Pk Ave
+93119,Siglap Rd,Aft Elite Pk Ave
+93121,Siglap Rd,Opp Sekolah Indonesia
+93129,Siglap Rd,Bef Sekolah Indonesia
+93131,Bedok Sth Ave 1,Opp Eastern Lagoon II
+93139,Bedok Sth Ave 1,Eastern Lagoon II
+93149,Siglap Link,Siglap Link
+93151,East Coast Pk Svc Rd,Opp Cable Ski Pk
+93159,East Coast Pk Svc Rd,Cable Ski Pk
+93161,East Coast Pk Svc Rd,Opp Pond
+93169,East Coast Pk Svc Rd,Bef CP D5
+93171,East Coast Pk Svc Rd,Opp Island Resort S'pore
+93179,East Coast Pk Svc Rd,Island Resort S'pore
+93181,East Coast Pk Svc Rd,Opp CP C4
+93189,East Coast Pk Svc Rd,Opp Victoria JC
+93199,Siglap Rd,Opp Mandarin Gdns
+93201,Marine Parade Rd,Victoria Sch
+93996,ECP,At Bedok Sth Ave 1/ECP
+94009,Upp East Coast Rd,Upp East Coast Ter
+94011,Upp East Coast Rd,Evergreen Gdn
+94019,Upp East Coast Rd,Opp Evergreen Ave
+94021,Upp East Coast Rd,Chai Chee Sec Sch
+94029,Upp East Coast Rd,East Coast Ville
+94031,Upp East Coast Rd,The Summit
+94039,Upp East Coast Rd,Opp The Summit
+94041,Upp East Coast Rd,Opp Fairview Ct
+94049,Upp East Coast Rd,Fairview Ct
+94051,Upp East Coast Rd,Opp Temasek Sec Sch
+94059,Upp East Coast Rd,Temasek Sec Sch
+94061,Upp East Coast Rd,Kew Green Condo
+94069,Upp East Coast Rd,Opp Kew Green Condo
+94071,Upp East Coast Rd,Opp Bedok Camp 2
+94079,Upp East Coast Rd,Bedok Camp 2
+94089,Upp East Coast Rd,Calvary Ably of God Ch
+94099,ECP,Aft E.C. Sea Sports Club
+95011,Airport Blvd,Bef Changi Airport PTB3
+95019,Airport Blvd,CIAS
+95029,PTB1 Basement,Changi Airport PTB1
+95039,Airport Cargo Rd,AirFreight Ter Bldg
+95041,Airport Cargo Rd,CIAS Cargo Ters
+95049,Airport Cargo Rd,SATS Cargo Ter
+95051,Airline Rd,3rd Cargo Agents
+95061,Airline Rd,SIA Hangar
+95069,Airline Rd,Opp SIA Hangar
+95071,Nicoll Dr,Changi Beach CP 4
+95079,Nicoll Dr,Opp Changi Beach CP 4
+95081,Nicoll Dr,Changi Beach CP 5
+95089,Nicoll Dr,Opp Changi Beach CP 5
+95091,Nicoll Dr,SAF Ferry Ter
+95099,Nicoll Dr,Opp SAF Ferry Ter
+95109,PTB3 Basement,Changi Airport PTB3
+95129,PTB2 Basement,Changi Airport PTB2
+95131,Airline Rd,Police Pass Off
+95139,Airline Rd,Police Pass Off
+95141,Airline Rd,Aft Cargo Bldg D
+95149,Airline Rd,Bef Cargo Bldg D
+95151,Airport Blvd,Airport Police Stn
+95159,Airport Blvd,Near SATS Flight Kitchen
+95989,Airport Blvd,Budget Ter
+95999,Airport Blvd,Changi Airport Ter
+96011,Upp Changi Rd East,Bef Simei Ave
+96019,Upp Changi Rd East,Aft Simei Ave
+96021,Upp Changi Rd East,Opp Expo Halls 1/2/3
+96029,Upp Changi Rd East,Expo Halls 1/2/3
+96031,Upp Changi Rd East,Opp Expo Halls 4/5/6
+96039,Upp Changi Rd East,Expo Halls 4/5/6
+96041,Upp Changi Rd East,Bef Tropicana Condo
+96049,Upp Changi Rd East,Opp Tropicana Condo
+96051,Upp Changi Rd East,Opp Changi Ct
+96059,Upp Changi Rd East,Changi Ct
+96061,Upp Changi Rd East,Opp Mera Terr P/G
+96069,Upp Changi Rd East,Mera Terr P/G
+96071,Upp Changi Rd,Aft Simei Ave
+96079,Upp Changi Rd,ITE Reg Campus
+96081,Upp Changi Rd,Grace Independent Ch
+96089,Upp Changi Rd,Opp Grace Independent Ch
+96091,Upp Changi Rd,Apollo Gdn
+96099,Upp Changi Rd,Opp Mistral Pk
+96101,Simei Ave,Blk 3012
+96109,Simei Ave,Opp Blk 3012
+96111,Simei Ave,Bef Upp Changi Rd
+96119,Simei Ave,ITE College East
+96121,Simei Rd,Blk 135
+96129,Simei Rd,Opp Blk 135
+96131,Simei St 1,Blk 130
+96139,Simei St 1,Blk 148
+96141,Simei St 1,Blk 120
+96149,Simei St 1,Simei Stn
+96151,Simei St 1,Blk 106
+96159,Simei St 1,Blk 254
+96161,Simei St 3,Opp Simei Stn
+96169,Simei St 3,Simei Stn
+96171,Simei St 4,Bet Blks 227/228
+96179,Simei St 4,Modena Condo/Opp Blk 228
+96181,Simei Rd,Blk 151
+96189,Simei Rd,Blk 166
+96191,Simei Rd,Blk 224
+96199,Simei Rd,Opp Blk 224
+96201,Simei Rd,Simei Green Condo
+96209,Simei Rd,Opp Simei Green Condo
+96219,Tanah Merah Ferry Rd,Tanah Merah Ferry Ter
+96221,Xilin Ave,Opp S'pore Expo
+96229,Xilin Ave,S'pore Expo
+96231,Xilin Ave,DB Schenker
+96239,Xilin Ave,CEVA Freight
+96241,Xilin Ave,Laguna Natl C. Club
+96249,Xilin Ave,Builders Ctr
+96251,Simei St 3,Bef Changi General Hosp
+96259,Simei St 3,Aft Changi General Hosp
+96261,Simei St 3,Blk 233
+96269,Simei St 3,Blk 146
+96271,Xilin Ave,Opp Global Logistics Ctr 
+96281,Simei Ave,Opp Changi General Hosp
+96289,Simei Ave,Changi General Hosp
+96291,Simei St 4,Blk 223
+96299,Simei St 4,Simei Green
+96995,PIE,At Track 33 Int
+96996,PIE,At Track 33 Int
+97011,Upp Changi Rd Nth,The Japanese Sch
+97019,Upp Changi Rd Nth,Salvation Army
+97031,Upp Changi Rd Nth,Aft Jln Bena
+97039,Upp Changi Rd Nth,Bef Jln Bena
+97041,Upp Changi Rd Nth,Ballota Pk Condo
+97049,Upp Changi Rd Nth,Changi Prison
+97051,Upp Changi Rd Nth,Opp Changi Women's Prison
+97059,Upp Changi Rd Nth,Changi Women's Prison
+97061,Upp Changi Rd Nth,Changi Baptist Ch
+97069,Upp Changi Rd Nth,Lloyd Leas Work Rel Camp
+97071,Upp Changi Rd Nth,Selarang Camp
+97079,Upp Changi Rd Nth,Opp Selarang Camp
+97081,Loyang Way,Selarang Pk Drug Reh.
+97089,Loyang Way,Opp Selarang Pk Drug Reh.
+97091,Loyang Way,Bef Loyang Ave
+97099,Loyang Way,Aft Loyang Ave
+97101,Old Tampines Rd,Bef Jln Mariam
+97109,Old Tampines Rd,Aft Jln Mariam
+97111,Old Tampines Rd,Bef Toh Cl
+97119,Old Tampines Rd,Aft Toh Cl
+97121,New Loyang Link,Bef Old Tampines Rd
+97129,New Loyang Link,Bef Loyang Ave
+97141,Changi Nth St 1,Opp VICOM
+97149,Changi Nth St 1,Aft VICOM
+97151,Changi Nth Cres,Opp 3Com Asia Pacific Rim
+97159,Changi Nth Cres,VICOM Veh Insp Ctr
+97161,Changi Nth Cres,Edwards Lifesciences
+97169,Changi Nth Cres,Opp Edwards Lifesciences
+97171,Changi Nth Cres,Opp SATS Catering
+97179,Changi Nth Cres,SATS Catering
+97181,Changi Nth Cres,Seamap
+97189,Changi Nth Cres,SATS Maintenance Ctr 2
+97201,Upp Changi Rd Nth,Opp Changi Chapel Museum
+97209,Upp Changi Rd Nth,Changi Chapel Museum
+98011,Loyang Ave,Blk 149A
+98019,Loyang Ave,Opp Blk 149A
+98021,Loyang Ave,Blk 275
+98029,Loyang Ave,Opp Blk 275
+98031,Loyang Ave,Aft Pasir Ris Dr 3
+98039,Loyang Ave,Bef New Loyang Link
+98041,Loyang Ave,Opp Loyang Valley
+98049,Loyang Ave,Loyang Valley
+98051,Loyang Ave,Bef Loyang Way
+98059,Loyang Ave,Aft Loyang Way
+98061,Loyang Ave,Opp SIA Engine Test Ctr
+98069,Loyang Ave,SIA Engine Test Ctr
+98071,Loyang Ave,Euro Copter
+98079,Loyang Ave,Bef SIA Engine Test Ctr
+98081,Old Tampines Rd,Aft Jln Batalong
+98089,Old Tampines Rd,Bef Jln Batalong
+98091,Pasir Ris Dr 1,Blk 156
+98099,Pasir Ris Dr 1,Blk 269A
+98101,Pasir Ris Dr 3,Loyang Pt
+98109,Pasir Ris Dr 3,Opp Loyang Pt
+98111,Pasir Ris Dr 2,Opp Loyang Pt
+98119,Pasir Ris Dr 2,Loyang Pt
+98121,Loyang Way,Krislite Bldg
+98129,Loyang Way,JTC Corporation 
+98131,Loyang Way,Opp Hitachi Chemical
+98139,Loyang Way,Hitachi Chemical
+98141,Loyang Way,GE Aircraft Engines
+98149,Loyang Way,Wacker Chemicals
+98151,Loyang Way,Opp Loyang Way 4
+98161,Loyang Way,Composite Tech
+98171,Loyang Way,Opp SIA Supplies Ctr
+98181,Loyang Way,Yang Yong Ann Pte Ltd
+98199,Loyang Cres,Opp Admiralty Intl
+98209,Loyang Cres,Asia Broadcast Ctr
+98219,Loyang Cres,United Technologies
+98229,Loyang Cres,Honey Well
+98231,Loyang Ave,Loyang Ind Est
+98239,Loyang Ave,Opp Loyang Ind Est
+99009,Changi Village Rd,Changi Village Ter
+99011,Loyang Ave,Bef Sch of Commando
+99019,Loyang Ave,Aft Sch of Commando
+99021,Loyang Ave,Bef Cranwell Rd
+99029,Loyang Ave,Aft Cranwell Rd
+99031,Loyang Ave,Opp Maranatha B-P Ch
+99039,Loyang Ave,St. George Chapel
+99041,Loyang Ave,Aft Changi Golf Course
+99049,Loyang Ave,Changi Golf Course
+99071,Cranwell Rd,Aft Old Pier Rd
+99079,Cranwell Rd,Aft Old Pier Rd
+99081,Netharavon Rd,SIA Sports Club
+99089,Netharavon Rd,Opp SIA Sports Club
+99091,Netharavon Rd,Bef Turnhouse Rd
+99099,Netharavon Rd,Aft Turnhouse Rd
+99101,Netharavon Rd,Govt Chalets
+99109,Netharavon Rd,Opp Govt Chalets
+99111,Netharavon Rd,Changi Golf Club
+99119,Netharavon Rd,Opp Changi Golf Club
+99129,Changi Village Rd,Changi Village Hotel
+99131,Changi Village Rd,Blk 4
+99139,Changi Village Rd,Blk 5
+99161,Nicoll Dr,Bef Changi Beach CP 3
+99171,Nicoll Dr,Changi Beach CP 2
+99181,Telok Paku Rd,Bef S'pore Aviation Ac
+99189,Telok Paku Rd,S'pore Aviation Ac
+99990,Meyer Rd,First Mansion
+99991,Meyer Rd,Hawaii Tower
+99992,Meyer Rd,The Sovereign
+99993,Meyer Rd,Peach Gdn
+99994,Meyer Rd,Eastern Mansion
+99995,Robinson Rd,FSIF Bldg
+99996,Shenton Way,Opp Lau Pat Sat
+99997,Bayshore Rd,The Bayshore
+99998,Bayshore Rd,Dolphina Club Hse
+99999,Bayfront Ave,Marina Bay Sands Coach Ter
+AYE,AYE,Express
+BKE,BKE,Express
+CTE,CTE,Express
+ECP,ECP,Express
+JKA,JKA,Express
+KJE,KJE,Express
+KPE,KPE,Express
+PIE,PIE,Express
+PLW,PLW,Express
+SLE,SLE,Express
+TPE,TPE,Express
+3995,Prince Edward Rd,Express
+10985,CTE,Express
+10986,CTE,Express
+10991,CTE,Express
+10992,CTE,Express
+10995,CTE,Express
+10996,CTE,Express
+27429,Jurong West St 71,Express
+52995,CTE,Express
+52996,CTE,Express
+56995,SLE,Express
+56996,SLE,Express
+68995,TPE,Express
+68996,TPE,Express
+81995,PIE,Express
+81996,PIE,Express
+98995,TPE,Express
+C9500,Nicoll Dr,SAF Ferry Ter
+CPARK,Stadium Rd,CP B
+E0200,Raffles Blvd,Non Stop
+E0201,Raffles Ave,Non Stop
+E0202,Republic Blvd,Non Stop
+E0203,High St,Non Stop
+E0204,Coleman St,Non Stop
+E0205,Rochor Rd,Non Stop
+E0206,Esplanade Dr,Non Stop
+E0218,Parliament Pl,Non Stop
+E0219,St. Andrew's Rd,Non Stop
+E0300,Prince Edward Rd,Non Stop
+E0301,Marina Stn Rd,Non Stop
+E0302,Collyer Quay,Non Stop
+E0303,Cecil St,Non Stop
+E0304,Finalyson Green,Non Stop
+E0305,Finalyson Green,Non Stop
+E0321,Shenton Way,Non Stop
+E0323,Palmer Rd,Non Stop
+E0353,Central Blvd,Non Stop
+E0400,Nth Bridge Rd,Non Stop
+E0401,Stamford Rd,Non Stop
+E0402,Bras Basah Rd,Non Stop
+E0403,Armenian St,Non Stop
+E0404,Hill St,Non Stop
+E0405,New Bridge Rd,Non Stop
+E0501,Nth Canal Rd,Non Stop
+E0502,Sth Canal Rd,Non Stop
+E0503,Pickering St,Non Stop
+E0504,Havelock Rd,Non Stop
+E0505,Eu Tong Sen St,Non Stop
+E0506,Enggor Rd,Non Stop
+E0507,Hoe Chiang Rd,Non Stop
+E0508,Cantonment Rd,Non Stop
+E0509,Lim Teck Kim Rd,Non Stop
+E0510,Neil Rd,Non Stop
+E0511,Maxwell Rd,Non Stop
+E0564,Keppel Rd,Non Stop
+E0599,Maxwell Rd,Non Stop
+E6008,Jln Toa Payoh,Non Stop
+E0700,Selegie Rd,Non Stop
+E0702,Ophir Rd,Non Stop
+E0800,Penang Rd,Non Stop
+E0801,Buyong Rd,Non Stop
+E0900,Orchard Rd,Non Stop
+E0901,Orchard Link,Non Stop
+E0902,Grange Rd,Non Stop
+E0911,Orchard Blvd,Non Stop
+E1000,Delta Rd,Non Stop
+E1100,Tanglin Halt Rd,Non Stop
+E1101,Queensway,Non Stop
+E1206,Clementi Rd,Non Stop
+E1300,Paterson Rd,Non Stop
+E1301,Paterson Hill,Non Stop
+E1302,Killiney Rd,Non Stop
+E1303,Martin Rd,Non Stop
+E1304,River Valley Cl,Non Stop
+E1401,Telok Blangah Rd,Non Stop
+E1402,Kg Bahru Rd,Non Stop
+E1403,Seah Im Rd,Non Stop
+E1404,Telok Blangah Rd,Non Stop
+E1411,Keppel Rd,Non Stop
+E1500,Alexandra Rd,Non Stop
+E1501,Pasir Panjang Rd,Non Stop
+E1600,West Coast Highway,Express
+E1700,C'wealth Ave West,Non Stop
+E1701,West Coast Ferry Rd,Non Stop
+E1702,Clementi Ave 6,Non Stop
+E1800,Buona Vista Flyover,Non Stop
+E2000,Raffles Boulevard,Non Stop
+E2100,Corporation Rd,Non Stop
+E2101,Yung Kuang Rd,Non Stop
+E2102,Jln Boon Lay,Non Stop
+E2200,Jurong West Ctrl 2,Non Stop
+E2201,Jurong West Ctrl 3,Non Stop
+E2202,Jurong East St 11,Non Stop
+E2203,Jurong Town Hall Rd,Non Stop
+E2700,Jln Bahar,Non Stop
+E2801,Boon Lay Way,Non Stop
+E2810,Toh Tuck Ave,Non Stop
+E4022,Stevens Rd,Non Stop
+E4023,Whitley Rd,Non Stop
+E4024,Cairnhill Rd,Non Stop
+E4200,Jln Anak Bt,Non Stop
+E4300,Upp Bt Timah Rd,Non Stop
+E4301,Bt Batok West Ave 8,Non Stop
+E4302,Bt Batok East Ave 2,Non Stop
+E4303,Jln Remaja,Non Stop
+E4304,Elizabeth Dr,Non Stop
+E4305,Hillview Rd,Non Stop
+E4306,Bt Batok St 32,Non Stop
+E4307,Hillview Ave,Non Stop
+E4308,Bt Batok Rd,Non Stop
+E4309,Bt Batok West Ave 5,Non Stop
+E4364,Bt Batok West Ave 7,Non Stop
+E4400,Choa Chu Kang Loop,Non Stop
+E4401,Choa Chu Kang Ave 4,Non Stop
+E4403,Choa Chu Kang Ave 3,Non Stop
+E4404,Choa Chu Kang Ave 1,Non Stop
+E4406,Choa Chu Kang Dr,Non Stop
+E4407,Fajar Rd,Non Stop
+E4408,Bt Panjang Rd,Non Stop
+E4409,Teck Whye Lane,Non Stop
+E4410,Senja Link,Non Stop
+E4451,Choa Chu Kang Nth 7,Non Stop
+E4500,Petir Rd,Non Stop
+E4501,Jelebu Rd,Non Stop
+E4502,Dairy Farm Rd,Non Stop
+E4504,Jln Pakis,Non Stop
+E4535,Choa Chu Kang Nth 6,Non Stop
+E4601,Woodlands Ave 2,Non Stop
+E4602,Woodlands Dr 63,Non Stop
+E4604,Woodlands Ave 5,Non Stop
+E4609,Gambas Ave,Non Stop
+E4610,Causeway,Non Stop
+E4611,Jln Gereja,Non Stop
+E4612,Jln Getark Merah,Non Stop
+E4613,Jln Persiaran Tun Sri Lanang,Non Stop
+E4614,Jln Suleiman,Non Stop
+E4615,Jln Tun Abdul Razak,Non Stop
+E4616,Jln Tun Dr Ismail,Non Stop
+E4617,Jln Wong Ah Fook,Non Stop
+E4618,Woodlands Dr 17,Non Stop
+E4800,Mandai Ave,Non Stop
+E5200,Lor 1 Toa Payoh,Non Stop
+E5202,Lor 3 Toa Payoh,Non Stop
+E5203,Lor 4 Toa Payoh,Non Stop
+E5204,Kim Keat Link,Non Stop
+E5205,Braddell Rd,Non Stop
+E5206,Kim Keat Rd,Non Stop
+E5207,Jln Toa Payoh,Non Stop
+E5213,Lor 2 Toa Payoh,Non Stop
+E5300,Bishan St 11,Non Stop
+E5605,Lentor Cres,Non Stop
+E5606,Lentor Loop,Non Stop
+E5607,Lentor St,Non Stop
+E5608,Lentor Ave,Non Stop
+E5609,SLE,Express
+E5610,Yio Chu Kang Rd,Non Stop
+E5800,Sembawang Dr,Non Stop
+E5801,Sembawang Ave,Non Stop
+E5802,Sembawang Rd,Non Stop
+E5803,Admiralty St,Non Stop
+E5804,Admiralty Lane,Non Stop
+E5805,Champions Way,Non Stop
+E5900,Yishun Ctrl 1,Non Stop
+E5901,Yishun Ctrl,Non Stop
+E5903,Yishun St 31,Non Stop
+E6000,Bendemeer Rd,Non Stop
+E6001,Whampoa Nth,Non Stop
+E6002,S'goon Rd,Non Stop
+E6003,Whampoa East,Non Stop
+E6400,Buangkok Dr,Non Stop
+E6401,Hougang Ave 3,Non Stop
+E6402,Hougang St 61,Non Stop
+E6600,S'goon Gdn Way,Non Stop
+E6601,S'goon Nth Ave 2,Non Stop
+E6700,Compassvale St,Non Stop
+E6701,Rivervale Lane,Non Stop
+E7000,Circuit Link,Non Stop
+E7001,Merpati Rd,Non Stop
+E7039,Lor Bengkok,Non Stop
+E7507,Tampines Ave 12,Non Stop
+E7508,Tampines Ctrl 2,Non Stop
+E7509,Tampines Ctrl 3,Non Stop
+E7603,Tampines Ave 7,Non Stop
+E7604,Tampines Ave 9,Non Stop
+E7605,Tampines St 31,Non Stop
+E7606,Tampines St 12,Non Stop
+E7700,Pasir Ris Dr 8,Non Stop
+E7701,Pasir Ris Dr 10,Non Stop
+E7702,Pasir Ris Dr 3,Non Stop
+E8000,Nicoll Highway,Non Stop
+E8001,Sims Ave,Non Stop
+E8002,Geylang Rd,Non Stop
+E8003,Sims Way,Non Stop
+E8004,Stadium Blvd,Non Stop
+E8007,Stadium Dr,Non Stop
+E8008,Lor 1 Geylang,Non Stop
+E8400,Bedok Nth Dr,Non Stop
+E8401,Bedok Nth Ave 1,Non Stop
+E8403,Bedok Nth Rd,Non Stop
+E8405,Bedok Sth Ave 1,Non Stop
+E8501,Upp Changi Rd,Non Stop
+E9200,Still Rd Sth,Non Stop
+E9209,Mountbatten Rd,Non Stop
+E9500,Airport Blvd,Non Stop
+E9501,Nicoll Dr,Non Stop
+E9801,Loyang Ave,Non Stop
+E9901,Telok Paku Rd,Non Stop
+LEIS1,Stadium Blvd,Opp Leisure Pk
+LEIS9,Stadium Blvd,Leisure Pk
+N1309,Mohd Sultan Rd,LP 11
+N1601,Kent Ridge Dr,Opp Fac of Arts & Social Sc
+N1609,Kent Ridge Dr,Fac of Arts & Social Sc
+N1619,Kent Ridge Dr,Bef Law Link
+N1621,Kent Ridge Dr,Temasek Hall
+N1631,Kent Ridge Dr,Eusoff Hall
+N1801,Lower Kent Ridge Rd,Kent Ridge Hall
+N1809,Lower Kent Ridge Rd,Opp Kent Ridge Hall
+N1811,Lower Kent Ridge Rd,Sheares Hall
+N1819,Lower Kent Ridge Rd,Opp Sheares Hall
+N2709,Nanyang Dr,Opp Hall of Residence 5
+N2719,Nanyang Dr,Opp Innovation Ctr
+N2729,Nanyang Dr,Opp Sch of Comm Studies
+N2739,Nanyang Dr,Opp Sch of CSE
+N2749,Nanyang Dr,Opp Blk N2
+N2759,Nanyang Dr,Opp Lib 1
+N2769,Nanyang Dr,Hall of Residence 8
+N2779,Nanyang Link,Hall of Residence 3
+N2789,Nanyang Link,Hall of Residence 7
+N2801,Boon Lay Way,Opp Boon Lay Stn
+N4401,Cho Chu Kang Ave 2,Blk 297D
+N4404,Choa Chu Kang Ave 1,Non Stop
+N4411,Choa Chu Kang Ave 2,Blk 296
+N4421,Choa Chu Kang St 62,Blk 604A CP
+N4431,Choa Chu Kang St 62,Blk 621 (LP 13)
+N4501,Choa Chu Kang Dr,Opp Kranji Pr Sch (LP 87)
+N4509,Choa Chu Kang Dr,Kranji Pr Sch (LP 86)
+N4511,Choa Chu Kang Nth 7,Blk 678A (LP 37)
+N4519,Choa Chu Kang Nth 7,Blk 613 (LP 38)
+N4521,Choa Chu Kang Way,Aft Choa Chu Kang Nth 6 (LP 167)
+N4529,Choa Chu Kang Way,Aft Blk 605 (LP 170)
+N4531,Choa Chu Kang Way,Opp Blk 548 (LP 143)
+N4539,Choa Chu Kang Way,Blk 552 (LP 150)
+N4541,Choa Chu Kang Cres,Blk 661
+N4559,Choa Chu Kang Cres,Blk 666
+N4569,Choa Chu Kang Cres,Blk 669
+N4579,Choa Chu Kang Cres,Blk 675
+N4581,Choa Chu Kang Nth 7,Blk 657 (LP 11)
+N4591,Choa Chu Kang Nth 7,Blk 673A
+N5801,Admiralty Dr,Blk 353
+N6709,Anchorvale Link,Blk 319A
+P2051,Raffles Ave,S'pore Flyer
+TENN9,Stadium Blvd,Opp Kallang Tennis Ctr
