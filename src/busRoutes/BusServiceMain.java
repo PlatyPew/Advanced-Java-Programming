@@ -137,8 +137,6 @@ public class BusServiceMain {
         }
     }
 
-
-
     public static void run() throws Exception {
         // Initialising hashmaps
         BusMapData.mapBusStops();
