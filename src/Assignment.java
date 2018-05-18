@@ -1,4 +1,5 @@
 // Author: PlatyPew
+
 import busRoutes.*;
 import javax.swing.JOptionPane;
 import mrtRoutes.*;
@@ -10,13 +11,13 @@ public class Assignment {
         boolean legit = false;
         while (!legit) {
             try {
-                String option = JOptionPane.showInputDialog("Which service would you like\n[b]us / [m]rt routes");
+                String option = JOptionPane.showInputDialog("Which service would you like\n1.    Bus \n2.    Mrt routes");
                 switch (option) {
-                    case "m":
+                    case "1":
                         MrtServiceMain.run();
                         legit = true;
                         break;
-                    case "b":
+                    case "2":
                         BusServiceMain.run();
                         legit = true;
                         break;
