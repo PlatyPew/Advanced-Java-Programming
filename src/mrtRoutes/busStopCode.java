@@ -3,20 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ajpassign;
+package mrtRoutes;
 
 /**
  *
  * @author chuny
  */
-public class busstopcode
-{
+public class busStopCode {
+
     String code;
     String descript;
     String desc;
-   public busstopcode(String cod, String descrip, String des) {    
-    code=cod;
-    descript=descrip;  
-    desc=des;   
-}     
+
+    public busStopCode(String cod, String descrip, String des) {
+        code = cod;
+        descript = descrip;
+        desc = des;
+    }
 }

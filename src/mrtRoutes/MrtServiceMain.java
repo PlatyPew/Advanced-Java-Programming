@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ajpassign;
+package mrtRoutes;
 
 import java.io.*;
 import java.net.URL;
@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  *
  * @author chuny
  */
-public class AJPASSIGN {
+public class MrtServiceMain {
 
     /**
      * @param args the command line arguments
@@ -23,13 +23,13 @@ public class AJPASSIGN {
     public static HashMap<String, String> num = new LinkedHashMap<String, String>();// key is cc11 etc
     public static HashMap<String, ArrayList<String>> desc = new LinkedHashMap<String, ArrayList<String>>();// key is name 
 
-    public static void main(String[] args) throws IOException {
-        String file = "src/MRT.txt";
+    public static void run() throws IOException {
+        String file = "src/mrtRoutes/resources/MRT.txt";
         ArrayList<String> mrt = new ArrayList<String>();
         ArrayList<String> temp = new ArrayList<String>();
 
         mrt = file(file);
-        String[] lines = {"NS", "EW", "CG", "DT", "CC"};
+
         String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
         int o = 0;
         String k = "";
@@ -46,19 +46,17 @@ public class AJPASSIGN {
                 } else if (o == 1) {
                     v = i;
 
-                    //System.out.println(k+" "+v);
                     ArrayList<String> l = new ArrayList<String>();
-                    //System.out.println(v);
+
                     l = desc.get(v);
 
-                    //System.out.println(l);
                     if (l == null) {
                         l = new ArrayList<String>();
                     }
                     l.add(k);
                     desc.put(v, l);
                     num.put(k, v);
-                    
+
                     o = 0;
                 }
             }
@@ -98,25 +96,21 @@ public class AJPASSIGN {
 
                         from1 = from.replaceAll("\\d", "");//eg. NS
                         to1 = to.replaceAll("\\d", "");//eg. CC
-                        String[] myStringArray = lines;
-
+                        String[] myStringArray = {"NS", "EW", "CG", "DT", "CC"};
                         for (int i = 0; i < myStringArray.length; i++) {
                             if (myStringArray[i].equals(from1) || myStringArray[i].equals(to1)) {
                                 myStringArray[i] = null;
 
                             }
-                            
-                            
+
                         }
 
                         ArrayList<String> loc = new ArrayList<String>();
-                        
-                        
 
                         String gf = num.get(from);
-                       
+
                         String gt = num.get(to);
-                       
+
                         ArrayList<String[]> midd = new ArrayList<String[]>();
                         if (gf == null || gt == null) {
                             JOptionPane.showMessageDialog(null, "invalid station code!");
@@ -126,44 +120,32 @@ public class AJPASSIGN {
                             ArrayList<String> pp = search(to1);
                             //consider making route class
                             p = splitting(p);
-                            //System.out.println(p);
                             pp = splitting(pp);
-                            //System.out.println(pp);
                             for (String i : con(p, pp)) {
                                 String[] ppppp = {i};
                                 midd.add(ppppp);
                             }
                             for (String i : myStringArray) {//3 change
                                 if (i != null) {
-                                    //System.out.println(i + " 1");
                                     ArrayList<String> li = splitting(search(i));
 
-                                    //System.out.println(li);
                                     ArrayList<String> z = con(li, p);
-                                    //System.out.println("com " + z);
                                     for (String iiii : z) {
 
                                         ArrayList<String> lii = splitting(search(i));
-                                        
-if(li.equals(pp)){
 
-}
-                                        //System.out.println(lii);
+                                        if (li.equals(pp)) {
+
+                                        }
                                         z = con(li, pp);
-                                        
-                                        
-                                        
-                                        //System.out.println("comM " + z);
-                                        //System.out.println(pp);
+
                                         for (String iii : z) {
-                                            // System.out.println(iii + "3");
-System.out.println(iii+iiii+"www");
-                                            if (iii.equals(iiii)||iiii.equals(to)) {//
+                                            if (iii.equals(iiii) || iiii.equals(num.get(to)) || iii.equals(num.get(from))) {//
+
                                             } else {
                                                 String[] n = {iiii, iii};
                                                 midd.add(n);
                                             }
-                                            //System.out.println(ii + iii);\
 
                                         }
 
@@ -172,7 +154,7 @@ System.out.println(iii+iiii+"www");
                                 }
 
                             }
-Set<String[]> middd = new LinkedHashSet<String[]>(midd);
+                            Set<String[]> middd = new LinkedHashSet<String[]>(midd);
                             for (String[] i : middd) {
                                 loc.clear();
 
@@ -183,17 +165,13 @@ Set<String[]> middd = new LinkedHashSet<String[]>(midd);
                                 }
 
                                 loc.add(to);
-                                System.out.println(loc);
                                 int x = num(loc);
-                                System.out.println(x);
                                 prints(loc, desc);
                             }
                         } else {
                             loc.add(from);
                             loc.add(to);
-                            System.out.println(loc);
                             int x = num(loc);
-                            System.out.println(x);
                             prints(loc, desc);
                         }
                     }
@@ -214,7 +192,7 @@ JOptionPane.showMessageDialog(null, e.toString());
                 ArrayList<String> p = search(where);
 
                 String pr = "";
-                
+
                 if (p.equals("") || num.get(wher) == null) {
                     pr = "invalid station code";
                 } else {
@@ -303,7 +281,6 @@ JOptionPane.showMessageDialog(null, e.toString());
             }
             i = i + 1;
         }
-        //System.out.println(k);
         JOptionPane.showMessageDialog(null, k);
     }
 
@@ -381,7 +358,6 @@ JOptionPane.showMessageDialog(null, e.toString());
     static ArrayList<String> con(ArrayList<String> p, ArrayList<String> pp) {
         ArrayList<String> commonn = new ArrayList<String>(p);
         commonn.retainAll(pp);
-        //System.out.println(commonn);
         return commonn;
     }
 
@@ -393,9 +369,7 @@ JOptionPane.showMessageDialog(null, e.toString());
             String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
             if (i.matches(pattern)) {
                 kkkk = new ArrayList<String>();
-                System.out.println(kkkk);
                 kkkk.add(i);
-                System.out.println(kkkk);
                 jj.add(kkkk);
 
             } else {
@@ -405,8 +379,6 @@ JOptionPane.showMessageDialog(null, e.toString());
             }
         }
 
-        System.out.println(jj + "podnd");
-
         ArrayList<String> m = new ArrayList<String>();
         ArrayList<String> item = new ArrayList<String>();
         ArrayList<String> mtem = new ArrayList<String>();
@@ -414,17 +386,13 @@ JOptionPane.showMessageDialog(null, e.toString());
         int k = 0;
         String lat = "";
 
-
         for (ArrayList<String> i : jj) {
-              item = new ArrayList<String>();
-              mtem = new ArrayList<String>();
+            item = new ArrayList<String>();
+            mtem = new ArrayList<String>();
             if (k == 0) {
                 m = i;
             } else {
-                //System.out.println(gt(c.get(k),i)gt(c.get(k - 1), m));
                 String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
-                System.out.println(item);
-                System.out.println(i+"bb"+m);
                 for (String h : i) {
                     item.add(h.replaceAll("\\d", ""));
                 }
@@ -432,48 +400,29 @@ JOptionPane.showMessageDialog(null, e.toString());
                     mtem.add(h.replaceAll("\\d", ""));
                 }
                 ArrayList<String> com = con(item, mtem);
-                System.out.println(item+"aa"+mtem);
-                System.out.println(com+"qqqqq");
                 String ii = "";
                 String mm = "";
 
                 String first = com.get(0);
                 ArrayList<String> li = splitting(search(first.replaceAll("\\d", "")));
 
-               
-               
-               
-               
-                
-               
-               
-               
-               
-               
-                System.out.println(li+"heh");
-                System.out.println(m+"qq"+i);
-                int ss =  gt(li, num.get(m.get(0)))-gt(li, num.get(i.get(0)));
-                n = n+(ss < 0 ? -ss : ss);
+                int ss = gt(li, num.get(m.get(0))) - gt(li, num.get(i.get(0)));
+                n = n + (ss < 0 ? -ss : ss);
                 m = i;
-                
+
             }
             //find diff between i and m
 
             k = k + 1;
 
         }
-        System.out.println(n);
         return n;
     }
 
     static int gt(ArrayList<String> mArrayList, String item) {
         int i = 0;
-        System.out.println(mArrayList);
-        ////System.out.println(item + " in gt");
         for (i = 0; i < mArrayList.size(); i++) {
-            //System.out.println(mArrayList.get(i)+item);
             if (mArrayList.get(i).equalsIgnoreCase(item)) {
-                //System.out.println(i);
                 return i;
             }
         }

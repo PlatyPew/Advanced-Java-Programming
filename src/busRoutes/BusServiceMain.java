@@ -137,17 +137,13 @@ public class BusServiceMain {
         }
     }
 
-    public static void banner() {
-        JOptionPane.showMessageDialog(null, "Welcome to the bus location service!\nCoded by Daryl Lim", "Welcome!", JOptionPane.INFORMATION_MESSAGE);
-    }
 
-    public static void main(String[] args) throws Exception {
+
+    public static void run() throws Exception {
         // Initialising hashmaps
         BusMapData.mapBusStops();
         BusMapData.mapBusStopLocations();
         BusMapData.mapBusRoutes();
-
-        banner();
 
         try {
             boolean clear = false;
