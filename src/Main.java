@@ -1,4 +1,4 @@
-// Author: PlatyPew
+// Authors: Daryl, Chun Yu
 
 import busRoutes.*;
 import mrtRoutes.*;
@@ -26,7 +26,7 @@ public class Main {
                 }
 
             } catch (Exception e) {
-                System.exit(0);
+
             }
         }
     }

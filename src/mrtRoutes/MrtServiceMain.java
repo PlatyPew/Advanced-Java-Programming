@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Author: Chun Yu
 package mrtRoutes;
 
 import java.io.*;
@@ -11,22 +7,14 @@ import java.util.*;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author chuny
- */
 public class MrtServiceMain {
 
-    /**
-     * @param args the command line arguments
-     */
     public static HashMap<String, String> num = new LinkedHashMap<String, String>();// key is cc11 etc
     public static HashMap<String, ArrayList<String>> desc = new LinkedHashMap<String, ArrayList<String>>();// key is name 
 
     public static void run() throws IOException {
         String file = "src/mrtRoutes/resources/MRT.txt";
         ArrayList<String> mrt = new ArrayList<String>();
-        ArrayList<String> temp = new ArrayList<String>();
 
         mrt = file(file);
 
@@ -70,8 +58,6 @@ public class MrtServiceMain {
             } catch (Exception e) {
             }
             if (what == 2) {
-//try{
-                String message = "";
                 String fr = JOptionPane.showInputDialog("from where");
                 String too = JOptionPane.showInputDialog("to where");
                 ArrayList<String> ff = new ArrayList<String>();
@@ -175,10 +161,7 @@ public class MrtServiceMain {
                             prints(loc, desc);
                         }
                     }
-                }/*
-}catch(Exception e){
-JOptionPane.showMessageDialog(null, e.toString());
-}*/
+                }
             } else if (what == 1) {
                 String wher = JOptionPane.showInputDialog("Station num");
                 if (!(wher.matches(pattern))) {
@@ -301,7 +284,7 @@ JOptionPane.showMessageDialog(null, e.toString());
             if (temp.contains(a)) {
                 k = (String) pair.getKey();
             }
-            //it.remove(); // avoids a ConcurrentModificationException
+
         }
 
         return k;
@@ -392,7 +375,7 @@ JOptionPane.showMessageDialog(null, e.toString());
             if (k == 0) {
                 m = i;
             } else {
-                String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
+                //String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
                 for (String h : i) {
                     item.add(h.replaceAll("\\d", ""));
                 }
@@ -400,8 +383,6 @@ JOptionPane.showMessageDialog(null, e.toString());
                     mtem.add(h.replaceAll("\\d", ""));
                 }
                 ArrayList<String> com = con(item, mtem);
-                String ii = "";
-                String mm = "";
 
                 String first = com.get(0);
                 ArrayList<String> li = splitting(search(first.replaceAll("\\d", "")));

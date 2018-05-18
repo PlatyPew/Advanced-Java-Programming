@@ -1,6 +1,6 @@
-// Author: PlatyPew
+// Author: Daryl
 /*
-Crap I added:
+Features:
 
 
 Bugs:
