@@ -204,7 +204,7 @@ public class MrtServiceMain {
                 } else if (where.equals("CG")) {
                     url = "http://2.bp.blogspot.com/-QI8fqDQN_fY/UgjhSXlywRI/AAAAAAAAFIo/hIob0Md8Nl0/s1600/mrt_eastwestline.gif";
                 } else if (where.equals("NE")) {
-                    url = "https://cdn01.vulcanpost.com/wp-uploads/2015/05/north-east-line-mrt.gif";
+                    url = "https://benbanpacking.com/wp-content/uploads/2017/11/NEL-MRT.gif";
                 }
                 ImageIcon icon = new ImageIcon(new URL(url));
                 JOptionPane.showMessageDialog(null, pr, null,
