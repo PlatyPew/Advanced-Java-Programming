@@ -260,3 +260,39 @@ Expo
 CG2
 Changi Airport
 (end)
+(start)
+NE1
+HarbourFront
+NE3
+Outram Park
+NE4
+Chinatown
+NE5
+Clarke Quay
+NE6
+Dhoby Ghaut
+NE7
+Little India
+NE8
+Farrer Park
+NE9
+Boon Keng
+NE10
+Potong Pasir
+NE11
+Woodleigh
+NE12
+Serangoon
+NE13
+Kovan
+NE14
+Hougang
+NE15
+Buangkok
+NE16
+Sengkang
+NE17
+Punggol
+NE18
+Punggol Coast
+(end)
