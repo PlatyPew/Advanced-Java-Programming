@@ -46,11 +46,11 @@ Line 1 station Description n
 
 1. There are other files provided. The text file (lta-bus\_stop\_codes.csv) is in this format (delimiter is comma):
 
-`BUSSTOP\_CODE,ROAD\_DESCRIPTION,BUSSTOP\_DESCRIPTION`
+`BUSSTOP_CODE,ROAD_DESCRIPTION,BUSSTOP_DESCRIPTION`
 
 2. The last file (lta-sbst\_route.csv) is in this format:
 
-`SVC\_NUM,DIR,ROUTE\_SEQ,BUSSTOP\_CODE,DISTANCE`
+`SVC_NUM,DIR,ROUTE_SEQ,BUSSTOP_CODE,DISTANCE`
 
 3. The tourist may also switch to buses to reach their ultimate destination. Hence they can also key in the boarding bus stop, and alighting bus stop, and program is supposed to find
 
