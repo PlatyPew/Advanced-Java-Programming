@@ -1,5 +1,7 @@
-// Authors: Daryl, Chun Yu
 /*
+@author Chun Yu
+@author Daryl
+
 Bus Features:
 Allow the searching by code
 Validates if code actually exists

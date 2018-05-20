@@ -1,4 +1,6 @@
-// Author: Daryl
+/* 
+@author Daryl
+*/
 package busRoutes;
 
 public class BusStopLocation extends BusStop {

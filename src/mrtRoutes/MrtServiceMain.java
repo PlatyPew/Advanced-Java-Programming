@@ -1,4 +1,6 @@
-// Author: Chun Yu
+/* 
+@author Chun Yu
+*/
 package mrtRoutes;
 
 import java.io.*;

@@ -1,12 +1,6 @@
-// Author: Daryl
-/*
-Bugs:
-Crashes if bus stop selected has no buses. SQUASHED!
-Sometimes, for direct bus, number is repeated. Can probably be fixed using set. SQUASHED!
-For some reason, while searching for "woodlands", a weird line break appears in between. SQUASHED!
-Somestimes, transfer shows 2 sets of the same transfer
- */
-
+/* 
+@author Daryl
+*/
 package busRoutes;
 
 import java.util.HashMap;
