@@ -27,6 +27,7 @@ Drop down table for transfer stations
 Allows users to stop program if they press 'cancel' on the JOptionPane
 Has validation when choosing stations
 Addition of NE line
+Error handling
 */
 
 import busRoutes.*;
