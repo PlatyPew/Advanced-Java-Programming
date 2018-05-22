@@ -342,20 +342,20 @@ public class MrtServiceMain {
     }
 
     static int numberOfStops(ArrayList<String> z) {// loops through and format for returning num of stops
-        ArrayList<String> jjj = new ArrayList<String>();
-        ArrayList<ArrayList<String>> jj = new ArrayList<ArrayList<String>>();
-        ArrayList<String> kkkk = new ArrayList<String>();
+        ArrayList<String> des = new ArrayList<String>();
+        ArrayList<ArrayList<String>> all = new ArrayList<ArrayList<String>>();
+        ArrayList<String> temp = new ArrayList<String>();
         for (String i : z) {
             String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
             if (i.matches(pattern)) {
-                kkkk = new ArrayList<String>();
-                kkkk.add(i);
-                jj.add(kkkk);
+                temp = new ArrayList<String>();
+                temp.add(i);
+                all.add(temp);
 
             } else {
-                jjj = desc.get(i);
+                des = desc.get(i);
 
-                jj.add(jjj);
+                all.add(des);
             }
         }
 
@@ -366,7 +366,7 @@ public class MrtServiceMain {
         int k = 0;
         String lat = "";
 
-        for (ArrayList<String> i : jj) {
+        for (ArrayList<String> i : all) {
             item = new ArrayList<String>();
             mtem = new ArrayList<String>();
             if (k == 0) {
@@ -380,13 +380,9 @@ public class MrtServiceMain {
                     mtem.add(h.replaceAll("\\d", ""));
                 }
                 ArrayList<String> com = compare(item, mtem);
-                String ii = "";
-                String mm = "";
-
                 String first = com.get(0);
                 ArrayList<String> li = splitting(search(first.replaceAll("\\d", "")));
-
-                int ss = getDistance(li, num.get(m.get(0))) - getDistance(li, num.get(i.get(0)));
+int ss = getDistance(li, num.get(m.get(0))) - getDistance(li, num.get(i.get(0)));
                 n = n + (ss < 0 ? -ss : ss);
                 m = i;
 
