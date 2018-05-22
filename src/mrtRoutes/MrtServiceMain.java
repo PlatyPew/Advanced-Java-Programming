@@ -30,22 +30,22 @@ public class MrtServiceMain {
         String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
         int o = 0;
         String k = "";
-        String v = "";
+        String de = "";
         for (String i : mrt) {
             if (!(i.contains("(start)") || i.contains("(end)"))) {
                 if (o == 0) {
                     k = i;
                     o = o + 1;
                 } else if (o == 1) {
-                    v = i;
-                    ArrayList<String> l = new ArrayList<String>();
-                    l = desc.get(v);
-                    if (l == null) {
-                        l = new ArrayList<String>();
+                    de = i;
+                    ArrayList<String> station = new ArrayList<String>();
+                    station = desc.get(de);
+                    if (station == null) {
+                        station = new ArrayList<String>();
                     }
-                    l.add(k);
-                    desc.put(v, l);
-                    num.put(k, v);
+                    station.add(k);
+                    desc.put(de, station);
+                    num.put(k, de);
                     o = 0;
                 }
             }
@@ -58,178 +58,175 @@ public class MrtServiceMain {
             } catch (Exception e) {
             }
             if (what == 2) {// for route
-                String fr = JOptionPane.showInputDialog("From where");
+                String fromm = JOptionPane.showInputDialog("From where");
                 String too = JOptionPane.showInputDialog("  To where");
-                ArrayList<String> ff = new ArrayList<String>();
-                ArrayList<String> tt = new ArrayList<String>();
+                ArrayList<String> fromarray = new ArrayList<String>();
+                ArrayList<String> toarray = new ArrayList<String>();
                 String from1 = "";
                 String to1 = "";
-                if (!(fr.matches(pattern)) || !(too.matches(pattern))) {//if station num given
-                    if (!(fr.matches(pattern))) {
-                        ff = desc.get(fr);
+                if (!(fromm.matches(pattern)) || !(too.matches(pattern))) {//if station numberOfStops given
+                    if (!(fromm.matches(pattern))) {
+                        fromarray = desc.get(fromm);
                     }
                     if (!(too.matches(pattern))) {
-                        tt = desc.get(too);
+                        toarray = desc.get(too);
                     }
                 } else {
-                    ff.add(fr);//incase is an interchange
-                    tt.add(too);
+                    fromarray.add(fromm);//incase is an interchange
+                    toarray.add(too);
                 }
-                if (ff == null || tt == null) {
-                            JOptionPane.showMessageDialog(null, "invalid station code!");
-                } else{
-                ArrayList<String> loc1 = new ArrayList<String>();
-                ArrayList<String> loc = new ArrayList<String>();
-                int small = 1000;
-                int x = 0;
-                for (String from : ff) {
-                    for (String to : tt) {
-                        from1 = from.replaceAll("\\d", "");//eg. NS
-                        to1 = to.replaceAll("\\d", "");//eg. CC
-                        String[] myStringArray = {"NS", "EW", "CG", "DT", "CC", "NE"};
-                        for (int i = 0; i < myStringArray.length; i++) {
-                            if (myStringArray[i].equals(from1) || myStringArray[i].equals(to1)) {
-                                myStringArray[i] = null;
+                if (fromarray == null || toarray == null) {
+                    JOptionPane.showMessageDialog(null, "invalid station code!");
+                } else {
+                    ArrayList<String> loc1 = new ArrayList<String>();
+                    ArrayList<String> loc = new ArrayList<String>();
+                    int small = 1000;
+                    int x = 0;
+                    for (String from : fromarray) {
+                        for (String to : toarray) {
+                            from1 = from.replaceAll("\\d", "");//eg. NS
+                            to1 = to.replaceAll("\\d", "");//eg. CC
+                            String[] myStringArray = {"NS", "EW", "CG", "DT", "CC", "NE"};
+                            for (int i = 0; i < myStringArray.length; i++) {
+                                if (myStringArray[i].equals(from1) || myStringArray[i].equals(to1)) {
+                                    myStringArray[i] = null;
+                                }
                             }
-                        }
 
-                        String gf = num.get(from);//desc of from
-                        String gt = num.get(to);//desc of to
-                        ArrayList<String[]> midd = new ArrayList<String[]>();
-                         if (!(from1.equals(to1))) {
-                            ArrayList<String> p = search(from1);//get entire line
-                            ArrayList<String> pp = search(to1);//get entire line
-                            p = splitting(p);//
-                            pp = splitting(pp);
-                            for (String i : con(p, pp)) {
-                                String[] ppppp = {i};
-                                midd.add(ppppp);
-                            }
-                            for (String i : myStringArray) {//for double interchanges
-                                if (i != null) {
-                                    ArrayList<String> li = splitting(search(i));
-                                    ArrayList<String> z = con(li, p);
-                                    for (String iiii : z) {
-                                        z = con(li, pp);
-                                        for (String iii : z) {
-                                            if (iii.equals(iiii) || iiii.equals(num.get(to)) || iii.equals(num.get(from))) {//reomve any false statements
-                                            } else {
-                                                String[] n = {iiii, iii};
-                                                midd.add(n);
+                            String gf = num.get(from);//desc of from
+                            String gt = num.get(to);//desc of to
+                            ArrayList<String[]> midd = new ArrayList<String[]>();
+                            if (!(from1.equals(to1))) {
+                                ArrayList<String> p = search(from1);//get entire line
+                                ArrayList<String> pp = search(to1);//get entire line
+                                p = splitting(p);//
+                                pp = splitting(pp);
+                                for (String i : compare(p, pp)) {
+                                    String[] temp = {i};
+                                    midd.add(temp);
+                                }
+                                for (String first : myStringArray) {//for double interchanges
+                                    if (first != null) {
+                                        ArrayList<String> li = splitting(search(first));
+                                        ArrayList<String> z = compare(li, p);
+                                        for (String second : z) {
+                                            z = compare(li, pp);
+                                            for (String third : z) {
+                                                if (third.equals(second) || second.equals(num.get(to)) || third.equals(num.get(from))) {//reomve any false statements
+                                                } else {
+                                                    String[] n = {second, third};
+                                                    midd.add(n);
+                                                }
                                             }
                                         }
+                                    } else {
                                     }
-                                } else {
                                 }
-                            }
-                            Set<String[]> middd = new LinkedHashSet<String[]>(midd);//for handling of transfers
-                            for (String[] i : middd) {
+                                Set<String[]> middd = new LinkedHashSet<String[]>(midd);//for handling of transfers
+                                for (String[] i : middd) {
+                                    loc.clear();
+                                    loc.add(from);
+                                    for (String news : i) {
+                                        loc.add(news);
+                                    }
+                                    loc.add(to);
+                                    x = numberOfStops(loc);
+                                    if (small > x) {// check if smallest
+                                        loc1 = new ArrayList<String>();
+                                        for (String h : loc) {
+                                            loc1.add(h);
+                                        }
+                                        small = x;
+                                    }
+                                }
+                            } else {
                                 loc.clear();
                                 loc.add(from);
-                                for (String kk : i) {
-                                    loc.add(kk);
-                                }
                                 loc.add(to);
-                                x = num(loc);
-                                if (small > x) {// check if smallest
-                                    loc1 = new ArrayList<String>();
-                                    for(String h:loc){
+                                x = numberOfStops(loc);
+
+                                loc1 = new ArrayList<String>();
+                                for (String h : loc) {//adding in
                                     loc1.add(h);
-                                    }
-                                    small=x;    
                                 }
                             }
-                        } else {
-                            loc.clear();
-                            loc.add(from);
-                            loc.add(to);
-                            x = num(loc);
-                            
-                            loc1 = new ArrayList<String>();
-                                    for(String h:loc){//adding in
-                                        loc1.add(h);
-                                    }
-                        }
 
+                        }
+                        if (small > x) {// check for least number of stops
+                            loc1 = new ArrayList<String>();
+                            for (String h : loc) {
+                                loc1.add(h);
+                            }
+                            small = x;
+                        }
+                        if (small > 500 || small <= 0) {
+                            JOptionPane.showMessageDialog(null, "Error, no such station");
+                        } else {
+                            prints(loc1, small);
+                        }
                     }
-                    if (small > x) {// check for least number of stops
-                        loc1 = new ArrayList<String>();
-                                    for(String h:loc){
-                                    loc1.add(h);
-                                    }
-                        small=x;
-                    }
-                    if(small>500||small<=0){
-                    JOptionPane.showMessageDialog(null,"Error, no such station");
-                    }
-                    else{
-                    prints(loc1, small);}
-                }}/*
-}catch(Exception e){
-JOptionPane.showMessageDialog(null, e.toString());
-}*/
+                }
             } else if (what == 1) {//get entire station line
-                String pr = "invalid station name";
-                ArrayList<String> choice= new ArrayList<String>();
+                String des = "invalid station name";
+                ArrayList<String> choice = new ArrayList<String>();
                 String wher = JOptionPane.showInputDialog("Station num or Station name");
                 if (!(wher.matches(pattern))) {// check if desc or ns11 etc.
                     choice = desc.get(wher);
                     System.out.println(choice);
-                    if(choice==null){
-                    }else{
-                    wher = drop(choice);
+                    if (choice == null) {
+                    } else {
+                        wher = drop(choice);
                     }
                 }
                 //System.out.println(wher);
                 String where = wher.replaceAll("\\d", "");
                 ArrayList<String> p = search(where);
                 //System.out.println(wher);
-                boolean real=false;
-                boolean line=false;
-                    String kk = "";
-                    String kkk = wher + " , " + num.get(wher);;
-                    for (String i : p) {
-                        if (i.equals(kkk)) {
-                            kk = kk + i + "   <--You are here" + "\n";// prints where on line u are
-                            real=true;
-                        } else {
-                            kk = kk + i + "\n";
-                        }
+                boolean real = false;
+                boolean line = false;
+                String add = "";
+                String all = wher + " , " + num.get(wher);;
+                for (String i : p) {
+                    if (i.equals(all)) {
+                        add = add + i + "   <--You are here" + "\n";// prints where on line u are
+                        real = true;
+                    } else {
+                        add = add + i + "\n";
                     }
-                    
+                }
 
                 System.out.println(where);
                 String url = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/220px-Achtung.svg.png";// prints appropriate line pic
                 if (where.equals("NS")) {
                     url = "http://1.bp.blogspot.com/-_gBdZBmmSqc/UgjhdpGZpII/AAAAAAAAFIw/dqHkbiusDHk/s1600/mrt_northsouthline.gif";
-                    pr = kk;
-                    line=true;
+                    des = add;
+                    line = true;
                 } else if (where.equals("CC")) {
                     url = "http://2.bp.blogspot.com/-njFh6mpkSOA/To_PbLeRpRI/AAAAAAAAAdI/AQl5mPg0XyA/s1600/mrt_circleline.gif";
-                    pr = kk;
-                    line=true;
+                    des = add;
+                    line = true;
                 } else if (where.equals("DT")) {
                     url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5j-3bcEcwgIqBTAdEtwiiCsyjPgupJi0yqN4chD_BV4qxEbb";
-                    pr = kk;
-                    line=true;
+                    des = add;
+                    line = true;
                 } else if (where.equals("EW")) {
                     url = "http://2.bp.blogspot.com/-QI8fqDQN_fY/UgjhSXlywRI/AAAAAAAAFIo/hIob0Md8Nl0/s1600/mrt_eastwestline.gif";
-                    pr = kk;
-                    line=true;
+                    des = add;
+                    line = true;
                 } else if (where.equals("CG")) {
                     url = "http://2.bp.blogspot.com/-QI8fqDQN_fY/UgjhSXlywRI/AAAAAAAAFIo/hIob0Md8Nl0/s1600/mrt_eastwestline.gif";
-                    pr = kk; 
-                    line=true;
+                    des = add;
+                    line = true;
                 } else if (where.equals("NE")) {
                     url = "https://benbanpacking.com/wp-content/uploads/2017/11/NEL-MRT.gif";
-                    pr = kk; 
-                    line=true;
+                    des = add;
+                    line = true;
                 }
-                if(real==false&&line==true){
-                    JOptionPane.showMessageDialog(null,"Unavailable stop, showing the line "+where+" instead.");
+                if (real == false && line == true) {
+                    JOptionPane.showMessageDialog(null, "Unavailable stop, showing the line " + where + " instead.");
                 }
                 ImageIcon icon = new ImageIcon(new URL(url));
-                JOptionPane.showMessageDialog(null, pr, null,
+                JOptionPane.showMessageDialog(null, des, null,
                         JOptionPane.PLAIN_MESSAGE, icon);
             } else if (what != 3) {
                 JOptionPane.showMessageDialog(null, "Please enter a valid value");
@@ -240,13 +237,13 @@ JOptionPane.showMessageDialog(null, e.toString());
 
     static ArrayList file(String filename) throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filename));// open file
-        ArrayList<String> tot = new ArrayList<String>();
+        ArrayList<String> total = new ArrayList<String>();
         String line;
         while ((line = reader.readLine()) != null) {
-            tot.add(line.trim());
+            total.add(line.trim());
         }
         reader.close();
-        return tot;
+        return total;
     }
 
     static ArrayList<String> search(String where) {
@@ -273,7 +270,7 @@ JOptionPane.showMessageDialog(null, e.toString());
     static void prints(ArrayList<String> l, int x) {// prints nicely formatted destination page
         int s = l.size();
         int i = 0;
-        String k = "Fastest Route of "+x+" steps :\n";
+        String k = "Fastest Route of " + x + " steps :\n";
         while (i < s) {
             if (i == 0) {
                 k = k + "From : " + full(l.get(i)) + "\n";
@@ -304,7 +301,7 @@ JOptionPane.showMessageDialog(null, e.toString());
         return k;
     }
 
-    static String full(String a) {// gets full statement foe a station desc or num 
+    static String full(String a) {// gets full statement foe a station desc or numberOfStops 
         String k = "";
         String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
         if (a.matches(pattern)) {
@@ -314,7 +311,6 @@ JOptionPane.showMessageDialog(null, e.toString());
         }
         return k;
     }
-
 
     static String drop(ArrayList<String> choice) {// drop down table for line viewing
         String input = "";
@@ -339,13 +335,13 @@ JOptionPane.showMessageDialog(null, e.toString());
 
     }
 
-    static ArrayList<String> con(ArrayList<String> p, ArrayList<String> pp) {//compares 2 arraylist for similarities, used for transfer
+    static ArrayList<String> compare(ArrayList<String> p, ArrayList<String> pp) {//compares 2 arraylist for similarities, used for transfer
         ArrayList<String> commonn = new ArrayList<String>(p);
         commonn.retainAll(pp);
         return commonn;
     }
 
-    static int num(ArrayList<String> z) {// loops through and format for returning num of stops
+    static int numberOfStops(ArrayList<String> z) {// loops through and format for returning num of stops
         ArrayList<String> jjj = new ArrayList<String>();
         ArrayList<ArrayList<String>> jj = new ArrayList<ArrayList<String>>();
         ArrayList<String> kkkk = new ArrayList<String>();
@@ -383,14 +379,14 @@ JOptionPane.showMessageDialog(null, e.toString());
                 for (String h : m) {
                     mtem.add(h.replaceAll("\\d", ""));
                 }
-                ArrayList<String> com = con(item, mtem);
+                ArrayList<String> com = compare(item, mtem);
                 String ii = "";
                 String mm = "";
 
                 String first = com.get(0);
                 ArrayList<String> li = splitting(search(first.replaceAll("\\d", "")));
 
-                int ss = gt(li, num.get(m.get(0))) - gt(li, num.get(i.get(0)));
+                int ss = getDistance(li, num.get(m.get(0))) - getDistance(li, num.get(i.get(0)));
                 n = n + (ss < 0 ? -ss : ss);
                 m = i;
 
@@ -403,11 +399,11 @@ JOptionPane.showMessageDialog(null, e.toString());
         return n;
     }
 
-    static int gt(ArrayList<String> mArrayList, String item) {//finds stops between 2 stations
-        
+    static int getDistance(ArrayList<String> mArrayList, String item) {//finds stops between 2 stations
+
         for (int i = 0; i < mArrayList.size(); i++) {
             if (mArrayList.get(i).equalsIgnoreCase(item)) {
-               
+
                 return i;
             }
         }

@@ -22,7 +22,7 @@ Allows for more than one interchange between routes
 Image for each respective mrt lines
 Find fastest route to destination from all possible routes
 Returns number of stations between all stops
-User can search using either station desc or station num on same seach bar
+User can search using either station desc or station numberOfStops on same seach bar
 Drop down table for transfer stations
 Allows users to stop program if they press 'cancel' on the JOptionPane
 Has validation when choosing stations
