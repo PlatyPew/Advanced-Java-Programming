@@ -32,9 +32,7 @@ public class MrtServiceMain {
         String k = "";
         String v = "";
         for (String i : mrt) {
-            String st = "(start)";
-            String en = "(end)";
-            if (!(i.contains(st) || i.contains(en))) {
+            if (!(i.contains("(start)") || i.contains("(end)"))) {
                 if (o == 0) {
                     k = i;
                     o = o + 1;
@@ -48,15 +46,11 @@ public class MrtServiceMain {
                     l.add(k);
                     desc.put(v, l);
                     num.put(k, v);
-                    
                     o = 0;
                 }
             }
-
         }
         int what = 0;
-        System.out.println(num);
-        System.out.println(desc);
         while (what != 3) {
             try {
                 what = 5;
@@ -150,6 +144,7 @@ public class MrtServiceMain {
                             loc.add(from);
                             loc.add(to);
                             x = num(loc);
+                            
                             loc1 = new ArrayList<String>();
                                     for(String h:loc){//adding in
                                         loc1.add(h);
@@ -164,20 +159,23 @@ public class MrtServiceMain {
                                     }
                         small=x;
                     }
-                    prints(loc1, small);
+                    if(small>500||small<=0){
+                    JOptionPane.showMessageDialog(null,"Error, no such station");
+                    }
+                    else{
+                    prints(loc1, small);}
                 }}/*
 }catch(Exception e){
 JOptionPane.showMessageDialog(null, e.toString());
 }*/
             } else if (what == 1) {//get entire station line
-                String pr = "";
+                String pr = "invalid station name";
                 ArrayList<String> choice= new ArrayList<String>();
                 String wher = JOptionPane.showInputDialog("Station num or Station name");
                 if (!(wher.matches(pattern))) {// check if desc or ns11 etc.
                     choice = desc.get(wher);
                     System.out.println(choice);
                     if(choice==null){
-                    pr = "invalid station code";
                     }else{
                     wher = drop(choice);
                     }
@@ -185,39 +183,51 @@ JOptionPane.showMessageDialog(null, e.toString());
                 //System.out.println(wher);
                 String where = wher.replaceAll("\\d", "");
                 ArrayList<String> p = search(where);
-                
                 //System.out.println(wher);
-                if (choice == null) {
-                    pr = "invalid station code";
-                } else {
+                boolean real=false;
+                boolean line=false;
                     String kk = "";
                     String kkk = wher + " , " + num.get(wher);;
                     for (String i : p) {
                         if (i.equals(kkk)) {
                             kk = kk + i + "   <--You are here" + "\n";// prints where on line u are
+                            real=true;
                         } else {
                             kk = kk + i + "\n";
                         }
                     }
-                    pr = kk;
+                    
 
-                }
                 System.out.println(where);
                 String url = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/220px-Achtung.svg.png";// prints appropriate line pic
                 if (where.equals("NS")) {
                     url = "http://1.bp.blogspot.com/-_gBdZBmmSqc/UgjhdpGZpII/AAAAAAAAFIw/dqHkbiusDHk/s1600/mrt_northsouthline.gif";
+                    pr = kk;
+                    line=true;
                 } else if (where.equals("CC")) {
                     url = "http://2.bp.blogspot.com/-njFh6mpkSOA/To_PbLeRpRI/AAAAAAAAAdI/AQl5mPg0XyA/s1600/mrt_circleline.gif";
+                    pr = kk;
+                    line=true;
                 } else if (where.equals("DT")) {
                     url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5j-3bcEcwgIqBTAdEtwiiCsyjPgupJi0yqN4chD_BV4qxEbb";
+                    pr = kk;
+                    line=true;
                 } else if (where.equals("EW")) {
                     url = "http://2.bp.blogspot.com/-QI8fqDQN_fY/UgjhSXlywRI/AAAAAAAAFIo/hIob0Md8Nl0/s1600/mrt_eastwestline.gif";
+                    pr = kk;
+                    line=true;
                 } else if (where.equals("CG")) {
                     url = "http://2.bp.blogspot.com/-QI8fqDQN_fY/UgjhSXlywRI/AAAAAAAAFIo/hIob0Md8Nl0/s1600/mrt_eastwestline.gif";
+                    pr = kk; 
+                    line=true;
                 } else if (where.equals("NE")) {
                     url = "https://benbanpacking.com/wp-content/uploads/2017/11/NEL-MRT.gif";
+                    pr = kk; 
+                    line=true;
                 }
-                System.out.println(url);
+                if(real==false&&line==true){
+                    JOptionPane.showMessageDialog(null,"Unavailable stop, showing the line "+where+" instead.");
+                }
                 ImageIcon icon = new ImageIcon(new URL(url));
                 JOptionPane.showMessageDialog(null, pr, null,
                         JOptionPane.PLAIN_MESSAGE, icon);
