@@ -103,7 +103,9 @@ public class MrtServiceMain {
                                 pp = splitting(pp);
                                 for (String i : compare(p, pp)) {
                                     String[] temp = {i};
+
                                     midd.add(temp);
+
                                 }
                                 for (String first : myStringArray) {//for double interchanges
                                     if (first != null) {
@@ -112,7 +114,7 @@ public class MrtServiceMain {
                                         for (String second : z) {
                                             z = compare(li, pp);
                                             for (String third : z) {
-                                                if (third.equals(second) || second.equals(num.get(to)) || third.equals(num.get(from))) {//reomve any false statements
+                                                if ((third.equals(second)) || second.equals(num.get(to)) || third.equals(num.get(from))) {//reomve any false statements
                                                 } else {
                                                     String[] n = {second, third};
                                                     midd.add(n);
@@ -162,6 +164,8 @@ public class MrtServiceMain {
                         if (small > 500 || small <= 0) {
                             JOptionPane.showMessageDialog(null, "Error, no such station");
                         } else {
+                            System.out.println(loc1);
+
                             prints(loc1, small);
                         }
                     }
@@ -178,10 +182,8 @@ public class MrtServiceMain {
                         wher = drop(choice);
                     }
                 }
-                //System.out.println(wher);
                 String where = wher.replaceAll("\\d", "");
                 ArrayList<String> p = search(where);
-                //System.out.println(wher);
                 boolean real = false;
                 boolean line = false;
                 String add = "";
@@ -195,7 +197,6 @@ public class MrtServiceMain {
                     }
                 }
 
-                System.out.println(where);
                 String url = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/220px-Achtung.svg.png";// prints appropriate line pic
                 if (where.equals("NS")) {
                     url = "http://1.bp.blogspot.com/-_gBdZBmmSqc/UgjhdpGZpII/AAAAAAAAFIw/dqHkbiusDHk/s1600/mrt_northsouthline.gif";
@@ -382,7 +383,7 @@ public class MrtServiceMain {
                 ArrayList<String> com = compare(item, mtem);
                 String first = com.get(0);
                 ArrayList<String> li = splitting(search(first.replaceAll("\\d", "")));
-int ss = getDistance(li, num.get(m.get(0))) - getDistance(li, num.get(i.get(0)));
+                int ss = getDistance(li, num.get(m.get(0))) - getDistance(li, num.get(i.get(0)));
                 n = n + (ss < 0 ? -ss : ss);
                 m = i;
 
