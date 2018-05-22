@@ -207,7 +207,7 @@ public class MrtServiceMain {
                     des = add;
                     line = true;
                 } else if (where.equals("DT")) {
-                    url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5j-3bcEcwgIqBTAdEtwiiCsyjPgupJi0yqN4chD_BV4qxEbb";
+                    url = "https://www.lta.gov.sg/data/apps/news/press/2017/DTL%20Alignment.jpg";
                     des = add;
                     line = true;
                 } else if (where.equals("EW")) {
