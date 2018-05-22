@@ -1,7 +1,8 @@
 /*
-@author Chun Yu
-*/
-
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package mrtRoutes;
 
 import java.io.*;
@@ -10,8 +11,15 @@ import java.util.*;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author chuny
+ */
 public class MrtServiceMain {
 
+    /**
+     * @param args the command line arguments
+     */
     public static HashMap<String, String> num = new LinkedHashMap<String, String>();// key is cc11 etc
     public static HashMap<String, ArrayList<String>> desc = new LinkedHashMap<String, ArrayList<String>>();// key is name 
 
@@ -47,16 +55,15 @@ public class MrtServiceMain {
 
         }
         int what = 0;
-        
-        
+        System.out.println(num);
+        System.out.println(desc);
         while (what != 3) {
             try {
-                what = 3;
+                what = 5;
                 what = Integer.parseInt(JOptionPane.showInputDialog("1. Search by station\n2. Search for route\n3. Quit"));
             } catch (Exception e) {
             }
             if (what == 2) {// for route
-                String message = "";
                 String fr = JOptionPane.showInputDialog("From where");
                 String too = JOptionPane.showInputDialog("  To where");
                 ArrayList<String> ff = new ArrayList<String>();
@@ -74,6 +81,9 @@ public class MrtServiceMain {
                     ff.add(fr);//incase is an interchange
                     tt.add(too);
                 }
+                if (ff == null || tt == null) {
+                            JOptionPane.showMessageDialog(null, "invalid station code!");
+                } else{
                 ArrayList<String> loc1 = new ArrayList<String>();
                 ArrayList<String> loc = new ArrayList<String>();
                 int small = 1000;
@@ -91,11 +101,8 @@ public class MrtServiceMain {
 
                         String gf = num.get(from);//desc of from
                         String gt = num.get(to);//desc of to
-
                         ArrayList<String[]> midd = new ArrayList<String[]>();
-                        if (gf == null || gt == null) {
-                            JOptionPane.showMessageDialog(null, "invalid station code!");
-                        } else if (!(from1.equals(to1))) {
+                         if (!(from1.equals(to1))) {
                             ArrayList<String> p = search(from1);//get entire line
                             ArrayList<String> pp = search(to1);//get entire line
                             p = splitting(p);//
@@ -104,12 +111,11 @@ public class MrtServiceMain {
                                 String[] ppppp = {i};
                                 midd.add(ppppp);
                             }
-                            for (String i : myStringArray) {//3 change
+                            for (String i : myStringArray) {//for double interchanges
                                 if (i != null) {
                                     ArrayList<String> li = splitting(search(i));
                                     ArrayList<String> z = con(li, p);
                                     for (String iiii : z) {
-                                        ArrayList<String> lii = splitting(search(i));
                                         z = con(li, pp);
                                         for (String iii : z) {
                                             if (iii.equals(iiii) || iiii.equals(num.get(to)) || iii.equals(num.get(from))) {//reomve any false statements
@@ -159,17 +165,29 @@ public class MrtServiceMain {
                         small=x;
                     }
                     prints(loc1, small);
-                }
+                }}/*
+}catch(Exception e){
+JOptionPane.showMessageDialog(null, e.toString());
+}*/
             } else if (what == 1) {//get entire station line
+                String pr = "";
+                ArrayList<String> choice= new ArrayList<String>();
                 String wher = JOptionPane.showInputDialog("Station num or Station name");
                 if (!(wher.matches(pattern))) {// check if desc or ns11 etc.
-                    ArrayList<String> choice = desc.get(wher);
+                    choice = desc.get(wher);
+                    System.out.println(choice);
+                    if(choice==null){
+                    pr = "invalid station code";
+                    }else{
                     wher = drop(choice);
+                    }
                 }
+                //System.out.println(wher);
                 String where = wher.replaceAll("\\d", "");
                 ArrayList<String> p = search(where);
-                String pr = "";
-                if (p.equals("") || num.get(wher) == null) {
+                
+                //System.out.println(wher);
+                if (choice == null) {
                     pr = "invalid station code";
                 } else {
                     String kk = "";
@@ -184,6 +202,7 @@ public class MrtServiceMain {
                     pr = kk;
 
                 }
+                System.out.println(where);
                 String url = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/220px-Achtung.svg.png";// prints appropriate line pic
                 if (where.equals("NS")) {
                     url = "http://1.bp.blogspot.com/-_gBdZBmmSqc/UgjhdpGZpII/AAAAAAAAFIw/dqHkbiusDHk/s1600/mrt_northsouthline.gif";
@@ -198,6 +217,7 @@ public class MrtServiceMain {
                 } else if (where.equals("NE")) {
                     url = "https://benbanpacking.com/wp-content/uploads/2017/11/NEL-MRT.gif";
                 }
+                System.out.println(url);
                 ImageIcon icon = new ImageIcon(new URL(url));
                 JOptionPane.showMessageDialog(null, pr, null,
                         JOptionPane.PLAIN_MESSAGE, icon);
@@ -246,11 +266,11 @@ public class MrtServiceMain {
         String k = "Fastest Route of "+x+" steps :\n";
         while (i < s) {
             if (i == 0) {
-                k = k + "From : " + full(l.get(i), desc) + "\n";
+                k = k + "From : " + full(l.get(i)) + "\n";
             } else if (i == (s - 1)) {
-                k = k + "End At : " + full(l.get(i), desc) + "\n";
+                k = k + "End At : " + full(l.get(i)) + "\n";
             } else {
-                k = k + "Change At : " + full(l.get(i), desc) + "\n";
+                k = k + "Change At : " + full(l.get(i)) + "\n";
             }
             i = i + 1;
         }
@@ -274,15 +294,14 @@ public class MrtServiceMain {
         return k;
     }
 
-    static String full(String a, HashMap<String, ArrayList<String>> d) {// gets full statement foe a station desc or num 
+    static String full(String a) {// gets full statement foe a station desc or num 
         String k = "";
         String pattern = "^.*[a-zA-Z]{2}[0-9].*$";
         if (a.matches(pattern)) {
             k = find(a) + " " + a;
         } else {
-            k = a + " " + d.get(a);
+            k = a + " " + desc.get(a);
         }
-
         return k;
     }
 
